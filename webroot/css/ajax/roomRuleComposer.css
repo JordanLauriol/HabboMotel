@@ -1,0 +1,57 @@
+#roomRuleComposer {
+    width: 575px;
+}
+
+#roomRuleComposer .modal-body {
+    font-size: 14px;
+    max-height: 440px;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#displayRules {
+    width: 575px;
+}
+
+#displayRules .modal-header {
+	background: #b53f31;
+    border: 2px solid #893126;
+    border-bottom: 1px solid #000;
+}
+
+#displayRules .modal-body {
+    font-size: 14px;
+    max-height: 440px;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-bottom: 10px;
+}
+
+#readRules {
+	display: none;
+	cursor: pointer;
+	width: 210px;
+	height: 38px;
+	background: linear-gradient(#b53f31 45%, #893126 45%);
+	right: 310px;
+	position: absolute;
+	top: 125px;
+	border-radius: 5px;
+	border-left: 3px solid #893126;
+	border-right: 3px solid #893126;
+	border-top: 2px solid #893126;
+	color: #FFF;
+	padding: 6px 30px 6px 14px;    
+	font-size: 14px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #262525,1px 1px 0 rgba(0,0,0,.6);
+}
+
+#readRules:hover {
+	background: linear-gradient(#c55446 45%, #9b4439 45%);
+	border-left: 3px solid #9b4439;
+	border-right: 3px solid #9b4439;
+	border-top: 2px solid #9b4439;
+}

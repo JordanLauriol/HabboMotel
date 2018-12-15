@@ -1,0 +1,16 @@
+# Uncomment the following to prevent the httpoxy vulnerability
+# See: https://httpoxy.org/
+#<IfModule mod_headers.c>
+#    RequestHeader unset Proxy
+#</IfModule>
+
+<IfModule mod_rewrite.c>
+	Options +FollowSymLinks
+    RewriteEngine on
+
+    RewriteCond %{SERVER_PORT} 443
+	RewriteRule (.*) http://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+    RewriteRule    ^$    webroot/    [L]
+    RewriteRule    (.*) webroot/$1    [L]
+</IfModule>

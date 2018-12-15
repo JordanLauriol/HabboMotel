@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "151.80.42.229",
+    "username": "root",
+    "password": "QgBkZNLuRDaw",
+    "port": 22,
+    "remotePath": "/home/www/habbomotel",
+    "uploadOnSave": true
+}

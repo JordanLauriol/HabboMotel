@@ -1,0 +1,115 @@
+#itemInformationComposer {
+    display: none;
+    position: relative;
+    width: 275px;
+    height: 100vh;
+    background-color: #02353c;
+    right: 0;
+    /*border-left: 1px solid #267b91;*/
+    padding: 15px;
+    color: #FFF;
+}
+
+#itemInformationComposer .header {
+    text-shadow: 1px 1px 1px #000,1px 1px 0 rgba(0,0,0,.6);
+    border-bottom: 1px solid #267b91;
+    padding-bottom: 10px;
+}
+
+#itemInformationComposer .header .close {
+    cursor: pointer;
+}
+
+#itemInformationComposer .header .close:hover {
+    -webkit-filter: drop-shadow(0 1px 0 #FFF) drop-shadow(0 -1px 0 #FFF) drop-shadow(1px 0 0 #FFF) drop-shadow(-1px 0 0 #FFF) drop-shadow(0 0 10px transparent);
+}
+
+#itemInformationComposer .header img {
+    margin-right: 7px;
+}
+
+#itemInformationComposer .item {
+    margin-top: 30px;
+    margin-left: 15px;
+    padding-bottom: 20px;
+}
+
+#itemInformationComposer .item img.rare {
+    position: absolute;
+    margin-left: -135px;
+    margin-top: 60px;
+}
+
+#itemInformationComposer .item img.rare-scale {
+    position: absolute;
+    margin-left: -120px;
+    margin-top: 100px;
+    transform: scale(3);
+}
+
+#itemInformationComposer .item img.ltd {
+    position: absolute;
+    margin-left: -208px;
+    margin-top: 150px;
+}
+
+#itemInformationComposer .item-details {
+    border-top: 1px solid #267b91;
+    padding: 20px 10px 10px 10px;
+    border-bottom: 1px solid #267b91;
+}
+
+#itemInformationComposer .item-details ul, li {
+    list-style: none;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+#itemInformationComposer .item-details img {
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+}
+
+#itemInformationComposer .item-rate {
+    padding: 10px;
+}
+
+#itemInformationComposer .item-rate .stars {
+    background: url("../../img/icons/stars_off.png");
+    width: 24px;
+    height: 22px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+
+#itemInformationComposer .item-rate .stars.is-active {
+    background: url("../../img/icons/stars_on.png");
+}
+
+#itemDisplayInformation {
+    display: none;
+    width: 15px;
+    height: 100px;
+    position: absolute;
+    z-index: 100;
+    bottom: 50%;
+    right: 0;
+    min-width: 15px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: #02353c;
+    cursor: pointer;
+}
+
+#itemDisplayInformation .display {
+    position: absolute;
+    font-size: 0.6rem;
+    font-weight: bold;
+    color: #FFF;;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,19 @@
+#roiIOMnjQTzg {
+    display: block;
+    position: relative;
+    background-color: #02353c;
+    padding: 15px;
+    color: #FFF;
+}
+
+#roiIOMnjQTzg .header {
+	display: inline-block;
+    text-shadow: 1px 1px 1px #000,1px 1px 0 rgba(0,0,0,.6);
+    margin: 20px;
+}
+
+.right {
+	width: 328px;
+    height: 100vh;
+    right: 0;
+}

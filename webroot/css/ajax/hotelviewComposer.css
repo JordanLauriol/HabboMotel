@@ -1,0 +1,20 @@
+#unfreeze {
+    display: none;
+    position: absolute;
+    z-index: 100;
+    background: rgba(28, 28, 26, 0.7);
+    border: 2px solid rgba(65, 64, 61, 0.7);
+    border-radius: 5px;
+    color: #FFF;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+    top: 15px;
+    left: 15px;
+}
+
+#unfreeze:hover {
+    border: 2px solid rgb(0, 174, 240);
+}

@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import '../bulma-switch.min.css';
+@import '../bulma-tooltip.min.css';
+@import '../bulma-badge.min.css';
+@import './profileInformationComposer.css';
+@import './roomEntryInfoComposer.css';
+@import './listCommandsComposer.css';
+@import './notificationsComposer.css';
+@import './roomPollComposer.css';
+@import './itemComposer.css';
+@import './hotelviewComposer.css';
+@import './roomRuleComposer.css';
+@import './promoteRoomComposer.css';
+@import './habboClubComposer.css';
+@import './eventAlertComposer.css';
+@import './roiIOMnjQTzg.css';
+
+html {
+    overflow: hidden;
+}
+
+body {
+    font-family: 'Ubuntu' !important;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.loading {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('../../img/loading.gif') center no-repeat #fff;
+}
+
+.modal-habbo {
+    z-index: 100;
+    min-width: 30%;
+    min-height: 15%;
+    display: none;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    background-color: rgb(236, 234, 224);
+    border-radius: 10px;
+    border: 1px solid #000;
+    -moz-box-shadow: 0px 0px 2px 0px #000;
+    -webkit-box-shadow: 0px 0px 4px 0px #000;
+    -o-box-shadow: 0px 0px 4px 0px #000;
+    box-shadow: 0px 0px 4px 0px #000;
+    filter:progid:DXImageTransform.Microsoft.Shadow(color=#000, Direction=NaN, Strength=4);
+}
+
+.modal-header {
+    /*width: 100%;
+    height: 2em;
+    background-color: rgb(54, 120, 151);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border: 2px solid rgb(64, 140, 175);
+    border-bottom: 1px solid #000;
+    box-sizing: border-box;
+    font-weight: bold;*/
+    width: 100%;
+    font-size: 13px;
+    color: #FFF;
+    text-align: center;
+    padding: 5px;
+    font-weight: 600;
+    background: #367897;
+    border-radius: 9px 9px 0 0;
+    border-top: 2px solid #408CAF;
+    border-left: 2px solid #408CAF;
+    border-right: 2px solid #408CAF;
+    border-bottom: 1px solid #000;
+}
+
+.modal-header .content {
+    position: absolute;
+    width: 100%;
+}
+
+.modal-header .content .title {
+    font-size: 14px;
+    color: #FFF;
+    position: absolute;
+    left: 40%;
+    margin-top: 7px;
+}
+
+.modal-header .close {
+    /*float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+    z-index: 110;*/
+    z-index: 110;
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+
+.modal-header .close:hover {
+    -webkit-filter: drop-shadow(0 1px 0 #FFF) drop-shadow(0 -1px 0 #FFF) drop-shadow(1px 0 0 #FFF) drop-shadow(-1px 0 0 #FFF) drop-shadow(0 0 10px transparent);
+}
+
+.modal-body {
+    width: 100%;
+    height: auto;
+    color: #333;
+    box-sizing: border-box;
+    font-family: 'Ubuntu' !important;
+    padding: 10px;
+}
+
+.modal-body .content {
+    box-sizing: border-box;
+    width: 100%;
+    background-color: #FFF;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.modal-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-sizing: border-box;
+}
+
+.tabs li.ui-tabs-active a {
+    border-bottom-color: #3273dc;
+    color: #3273dc;
+}
+
+.label {
+    font-size: 1em;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #FFFCCC#CCC; 
+    border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #CCC; 
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #CCC#CCC; 
+}

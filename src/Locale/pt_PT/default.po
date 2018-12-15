@@ -1,0 +1,2887 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-06-04 19:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: src/Controller/AjaxController.php:313
+msgid "Ta question ne peut pas être vide."
+msgstr "A sua pergunta não pode estar vazia."
+
+#: src/Controller/AjaxController.php:314
+msgid "Ta question doit faire plus de 10 caractères."
+msgstr "A sua pergunta tem que ter mais de 10 carácteres."
+
+#: src/Controller/AjaxController.php:333;360
+msgid "Tu dois être le propriétaire de l'appartement pour lancer un sondage."
+msgstr "Você deve ser proprietário do quarto para lançar a sondagem."
+
+#: src/Controller/AjaxController.php:352
+msgid "Ton sondage a été lancé dans ton appartement."
+msgstr "A sua sondagem foi lançada no quarto."
+
+#: src/Controller/AjaxController.php:391
+msgid "Tu as arrêté ton sondage, les Habbos ne peuvent plus voter."
+msgstr "Você parou a sua sondagem, os Habbos não poderão mais votar."
+
+#: src/Controller/AjaxController.php:558;656
+msgid "Tu dois être connecté sur le site pour utiliser cette fonctionnalité."
+msgstr "Você deve estar conectado no site para utilizar essa função."
+
+#: src/Controller/AjaxController.php:564
+msgid "Tu n'as pas le rang requis pour utiliser cette fonctionnalité."
+msgstr "Você não tem ranking preciso para utilizar essa função."
+
+#: src/Controller/AjaxController.php:578
+msgid "Le règlement de ton appart a été défini."
+msgstr "As definições do seu quarto foi definidas."
+
+#: src/Controller/AjaxController.php:583
+msgid "Le règlement de ton appart a été désactivé."
+msgstr "As definições do seu quarto foram desativadas."
+
+#: src/Controller/AjaxController.php:589
+msgid "Une erreur est survenue lors de la sauvegarde du règlement."
+msgstr "Ocorreu um erro durante o backup do regulamento."
+
+#: src/Controller/AjaxController.php:665
+msgid "Tu dois être membre du Habbo Club pour utiliser cette fonctionnalité."
+msgstr "Você não é membro do Motel Club para utilizar essa função."
+
+#: src/Controller/AjaxController.php:674
+msgid "Tu n'as pas assez de diamants pour utiliser cette fonctionnalité."
+msgstr "Você não tem diamantes para utilizar essa função."
+
+#: src/Controller/AjaxController.php:681
+msgid "Achat d'une promotion d'apparts à 10 diamants."
+msgstr "Compra de promoção de quarto a 10 diamantes."
+
+#: src/Controller/AjaxController.php:684
+msgid "Tous les Habbos connectés ont reçu une notification."
+msgstr "Todos os Habbos conectados receberam uma notificação."
+
+#: src/Controller/AjaxController.php:709;715
+#: src/Template/Element/Header/navbar.ctp:185
+msgid "Rejoins-nous"
+msgstr "Junte-se a nós"
+
+#: src/Controller/AjaxController.php:739
+msgid "%s minutes"
+msgstr "%s minutos"
+
+#: src/Controller/AjaxController.php:741
+msgid "%s heures"
+msgstr "%s horas"
+
+#: src/Controller/AjaxController.php:747
+msgid "%s mois"
+msgstr "%s meses"
+
+#: src/Controller/AjaxController.php:750
+msgid "%s jours"
+msgstr "%s dias"
+
+#: src/Controller/AjaxController.php:838
+msgid "Une erreur est survenue avec votre compte."
+msgstr "Um erro aconteceu com sua conta."
+
+#: src/Controller/AjaxController.php:845
+msgid ""
+"Tu n'as pas {diamonds} diamants dans ton porte-monnaie pour adhérer au "
+"HabboCLUB"
+msgstr "Você não tem {diamonds} diamantes para aderir ao HabboCLUB"
+
+#: src/Controller/AjaxController.php:891
+msgid "Souscription à un abonnement HC de {days} jours pour {cost} diamants"
+msgstr "Subscrição à uma assinatura HC de {days} dias para {cost} diamantes"
+
+#: src/Controller/AjaxController.php:897
+msgid ""
+"Félicitations, tu viens de souscrire à un abonnement au Habbo CLUB de {days} "
+"jours."
+msgstr ""
+"Parabéns, você vem de subscrever a uma assinatura ao Habbo CLUB de {days}  "
+"dias."
+
+#: src/Controller/AppController.php:53
+msgid "Tu dois te connecter pour accéder à cette partie du site."
+msgstr "Você deve se conectar para aceder ao site selecionado."
+
+#: src/Controller/AppController.php:123
+msgid "Ton compte a été désactivé par la haute administration."
+msgstr "Sua conta foi desativada."
+
+#: src/Controller/AppController.php:155
+msgid ""
+"HabboMotel - Fais-toi de nouveaux amis, crée ton Habbo, adopte des animaux "
+"de compagnie, organise des grandes soirées! Amuse-toi gratuitement dès "
+"maintenant!"
+msgstr ""
+"Faça novos amigos, crie seu quarto, adote animais de companhia, organiza "
+"grandes noites! Divirta-se gratuitamente a partir de agora!"
+
+#: src/Controller/AppController.php:157
+msgid ""
+"Habbomotel, habbomotel, Habbo Motel, HabboMotel, habbo, Habbo, Habbo hotel, "
+"habbomotel.com, habbomotel.in, habbo.fr, habbo retro, habbo retro gratuit, "
+"virtuel, monde, réseau social, habbo gratuit, habbo credit, habbo france, "
+"credit, credits, gratuit, communautée, avatar, chat, connectée, adolescence, "
+"jeu de rôle, rejoindre, social, groupes, forums, sécuritée, jouer, jeux, "
+"amis, rares, ados, jeunes, collector, collectionner, créer, connecter, "
+"meuble, mobilier, animaux, déco, design, appart, décorer, partager, badges, "
+"musique, chat vip, fun, sortir, mmo, mmorpg, jeu massivement multijoueur, "
+msgstr ""
+"Habbomotel, habbomotel, Habbo Motel, HabboMotel, habbo, Habbo, Habbo hotel, "
+"habbomotel.com, habbomotel.in, habbo.com.br, habbo pirata, habbo pirata "
+"grátis, pirata, rede social, habbo grátis,  habbo créditos, habbo brasil, "
+"habbo portugal, crédito, créditos, gratuito, comunidade, avatar, chat, "
+"conectado, adolescente, atividades, registrar, social, grupos, forúns, "
+"segurança, jogar, jogo, amigos, raros, adolescente, jovens, colecionar, "
+"colecionador, criar, conectar, quarto, mobis, animais, decoração, design, "
+"quartos, decorar, partilhar, emblemas, música, chat hc, festa, sair, rpg, "
+"eventos, novidades, amizades,"
+
+#: src/Controller/AppController.php:158
+msgid ""
+"Habbomotel, habbomotel, Habbo Motel, HabboMotel, habbo, Habbo, Habbo hotel, "
+"habbomotel.com, habbomotel.in, habbo.com.br, habbo pirata, habbo pirata "
+"grátis, pirata, rede social, habbo grátis,  habbo créditos, habbo brasil, "
+"habbo portugal, crédito, créditos, gratuito, comunidade, avatar, chat, "
+"conectado, adolescente, atividades, registrar, social, grupos, forúns, "
+"segurança, jogar, jogo, amigos, raros, adolescente, jovens, colecionar, "
+"colecionador, criar, conectar, quarto, mobis, animais, decoração, design, "
+"quartos, decorar, partilhar, emblemas, música, chat hc, festa, sair, rpg, "
+"eventos, novidades, amizades"
+msgstr ""
+"Habbomotel, habbomotel, Habbo Motel, HabboMotel, habbo, Habbo, Habbo hotel, "
+"habbomotel.com, habbomotel.in, habbo.com.br, habbo pirata, habbo pirata "
+"grátis, pirata, rede social, habbo grátis,  habbo créditos, habbo brasil, "
+"habbo portugal, crédito, créditos, gratuito, comunidade, avatar, chat, "
+"conectado, adolescente, atividades, registrar, social, grupos, forúns, "
+"segurança, jogar, jogo, amigos, raros, adolescente, jovens, colecionar, "
+"colecionador, criar, conectar, quarto, mobis, animais, decoração, design, "
+"quartos, decorar, partilhar, emblemas, música, chat hc, festa, sair, rpg, "
+"eventos, novidades, amizades"
+
+#: src/Controller/ArticlesController.php:82
+#: src/Template/Element/Footer/footer.ctp:23
+msgid "Les articles"
+msgstr "As notícias"
+
+#: src/Controller/ArticlesController.php:173
+msgid "Ton commentaire a été ajouté."
+msgstr "Seu comentário foi adicionado."
+
+#: src/Controller/AvatarsController.php:45
+msgid "Paramètres générales"
+msgstr "Configurações generais"
+
+#: src/Controller/AvatarsController.php:54
+msgid "Les changements seront opérationnels à ta reconnexion dans l'hôtel."
+msgstr "As alterações serão operacionais em sua reconexão no hotel."
+
+#: src/Controller/AvatarsController.php:66 src/Template/Avatars/password.ctp:6
+#: src/Template/Element/Avatars/Settings/nav.ctp:17
+#: src/Template/Element/Header/navbar.ctp:38
+msgid "Changement de mot de passe"
+msgstr "Carregamento da senha"
+
+#: src/Controller/AvatarsController.php:74
+msgid "Ton mot de passe a été modifié."
+msgstr "Sua senha foi modificada."
+
+#: src/Controller/AvatarsController.php:77 src/Controller/HomeController.php:31
+msgid "Les mots de passe ne sont pas identique."
+msgstr "As senhas não são idênticas."
+
+#: src/Controller/AvatarsController.php:90 src/Template/Avatars/security.ctp:6
+#: src/Template/Element/Avatars/Settings/nav.ctp:23
+#: src/Template/Element/Header/navbar.ctp:41
+msgid "Protection du compte"
+msgstr "Proteção da conta"
+
+#: src/Controller/AvatarsController.php:100
+#: src/Controller/UsersController.php:107
+msgid ""
+"Ton compte est maintenant sécurisé contre les connexions depuis un autre "
+"ordinateur que le tien."
+msgstr ""
+"A sua conta está protegida contra as conexões de um outro computador que não "
+"seja o seu."
+
+#: src/Controller/AvatarsController.php:107
+msgid "La protection de ton compte a été désactivé."
+msgstr "A proteção da sua conta foi desativada."
+
+#: src/Controller/AvatarsController.php:117 src/Template/Avatars/history.ctp:5
+#: src/Template/Element/Avatars/Settings/nav.ctp:29
+#: src/Template/Element/Header/navbar.ctp:44
+msgid "Historique de connexions"
+msgstr "Histórico de conexões"
+
+#: src/Controller/AvatarsController.php:132 src/Template/Avatars/network.ctp:6
+#: src/Template/Element/Avatars/Settings/nav.ctp:35
+#: src/Template/Element/Header/navbar.ctp:47
+msgid "Gestion du profil social"
+msgstr "Gestão do perfil social"
+
+#: src/Controller/AvatarsController.php:141
+msgid "Ton profil social est désormais visible par les autres Habbos."
+msgstr "O seu perfil social pode ser visualizado por outros Habbos."
+
+#: src/Controller/AvatarsController.php:146
+msgid "Ton profil social est désormais invisible pour les autres Habbos."
+msgstr "O seu perfil social não pode ser visualizado por outros Habbos."
+
+#: src/Controller/AvatarsController.php:157
+msgid "Une erreur est survenue lors du changement de photo de profil."
+msgstr "Aconteceu um erro ao carregar a sua foto de perfil."
+
+#: src/Controller/AvatarsController.php:184
+msgid ""
+"Ton profil social a été mis à jour, en revanche ta photo de profil a été "
+"soumise à une validation, elle apparaîtra d'ici peu sur ton profil."
+msgstr ""
+"O seu perfil social foi atualizado, a sua foto de perfil está em espera de "
+"ser validada, após ser validada ela irá aparecer no seu perfil."
+
+#: src/Controller/AvatarsController.php:189
+msgid "Ton profil social a été mis à jour."
+msgstr "O seu perfil foi atualizado."
+
+#: src/Controller/CommentsController.php:28
+msgid "Ton commentaire a été supprimé."
+msgstr "O seu comentário foi removido."
+
+#: src/Controller/CommunityController.php:34
+msgid "Les staffs"
+msgstr "Os Staffs"
+
+#: src/Controller/CommunityController.php:43
+msgid "Dernière connexion il y a {0}"
+msgstr "Última conexão à  {0}"
+
+#: src/Controller/CommunityController.php:84
+msgid "Le Motel"
+msgstr "O Motel"
+
+#: src/Controller/CommunityController.php:124;157;190
+msgid "Patiente encore un peu.."
+msgstr "Espere mais um pouco.."
+
+#: src/Controller/CommunityController.php:125;158;191
+msgid "ça mouline.. et ça mouline.."
+msgstr "a sua alegria está quase carregando... quase..."
+
+#: src/Controller/CommunityController.php:212
+msgid "Oops! Tu as été deconnecté de l'hôtel"
+msgstr "Oops! Você foi desconectado do hotel"
+
+#: src/Controller/CommunityController.php:213
+msgid "Une erreur est survenue durant ta navigation dans l'hôtel"
+msgstr "Aconteceu um erro durante a sua navegação no hotel"
+
+#: src/Controller/ForumController.php:51
+#: src/Template/Element/Header/tabs.ctp:43;45 src/Template/Forum/category.ctp:2
+#: src/Template/Forum/thread.ctp:2
+msgid "Forum"
+msgstr "Fórum"
+
+#: src/Controller/ForumController.php:52 src/Template/Forum/index.ctp:3
+msgid ""
+"Le forum est un lieu d'échanges sur HabboMotel où tu peux dire tout ce que "
+"tu veux."
+msgstr ""
+"O fórum é um lugar de trocas no HabboMotel onde você pode dizer o que você "
+"quiser."
+
+#: src/Controller/ForumController.php:164
+msgid "Tu dois attendre 2 minutes avant de créer une nouvelle discussion."
+msgstr "Você deve esperar 2 minutos antes de criar uma nova conversa."
+
+#: src/Controller/ForumController.php:185
+msgid "Vous devez écrire un message d'au moins 10 caractères."
+msgstr "Você deve escrever uma mensagem de ao menos 10 caracteres."
+
+#: src/Controller/ForumController.php:197
+msgid "Une nouvelle discussion a été lancée par %s sur le forum."
+msgstr "Uma nova conversa foi lançada por %s no fórum."
+
+#: src/Controller/ForumController.php:205 src/Template/Forum/category.ctp:9
+#: src/Template/Forum/create_thread.ctp:3
+msgid "Créer une nouvelle discussion"
+msgstr "Criar uma nova conversa"
+
+#: src/Controller/ForumController.php:206
+msgid ""
+"Participe à la vie du forum de HabboMotel en créant une nouvelle discussion."
+msgstr "Participe à vida do fórum do HabboMotel criando uma nova conversa."
+
+#: src/Controller/ForumController.php:244
+msgid "Tu dois attendre 30 secondes pour répondre à une nouvelle discussion."
+msgstr "Você deve esperar 30 segundos para responder a uma nova conversa."
+
+#: src/Controller/ForumController.php:255
+msgid "Ta réponse doit faire au minimum 3 caractères"
+msgstr "A resposta deve fazer no mínimo 3 caracteres."
+
+#: src/Controller/ForumController.php:296
+msgid "Créer une nouvelle réponse"
+msgstr "Criar uma nova resposta"
+
+#: src/Controller/ForumController.php:338;357
+msgid "L'action sur la discussion a été réalisé."
+msgstr "A ação na conversa foi realizada."
+
+#: src/Controller/HomeController.php:24
+msgid "Explore un hôtel insolite avec des personnes incroyables"
+msgstr "Explore um hotel insólito com pessoas incríveis"
+
+#: src/Controller/HomeController.php:43
+msgid "Tu dois attendre 15 minutes pour te ré-inscrire à nouveau."
+msgstr "Você deve esperar 15 minutos para se registrar de novo."
+
+#: src/Controller/HomeController.php:50
+msgid "le %s à %s"
+msgstr "% às %s"
+
+#: src/Controller/HousekeepingController.php:56
+#: src/Template/Element/Housekeeping/menu.ctp:8
+msgid "Tableau de bord"
+msgstr "Housekeeping do Motel"
+
+#: src/Controller/HousekeepingController.php:57
+msgid "Statistiques générales de l'hôtel"
+msgstr "Estáticas generais do hotel"
+
+#: src/Controller/HousekeepingController.php:82
+msgid "Permission refusée"
+msgstr "Permissão rejeitada"
+
+#: src/Controller/HousekeepingController.php:83
+msgid ""
+"Vous n'avez pas la permission nécessaire pour accéder à cette partie de "
+"l'administration."
+msgstr ""
+"Você não tem permissão necessária para entrar neste lugar de administração."
+
+#: src/Controller/HousekeepingController.php:96
+#: src/Template/Layout/error.ctp:35;65
+msgid "Une erreur est survenue"
+msgstr "Aconteceu um erro"
+
+#: src/Controller/HousekeepingController.php:97
+msgid "Il semblerait que l'action que vous tentez de réaliser n'existe pas."
+msgstr "A ação que você tentou de realizar não existe."
+
+#: src/Controller/HousekeepingController.php:110
+#: src/Template/Element/Housekeeping/menu.ctp:18
+#: src/Template/Housekeeping/ban.ctp:10
+msgid "Bannir un Habbo"
+msgstr "Banir um Habbo"
+
+#: src/Controller/HousekeepingController.php:111
+msgid "Maintien la Habbo attitude en sanctionnant les Habbos perturbateurs."
+msgstr "Mantenha o Habbo com segurança sancionando os Habbos perturbantes."
+
+#: src/Controller/HousekeepingController.php:130;221;427
+msgid "Cet Habbo n'existe pas."
+msgstr "Esse Habbo não existe."
+
+#: src/Controller/HousekeepingController.php:139
+msgid "Cet Habbo ne peut pas être banni."
+msgstr "Este Habbo não pode ser banido."
+
+#: src/Controller/HousekeepingController.php:155;229
+msgid "Cet Habbo n'a pas accédé à l'hôtel pour le moment."
+msgstr "Esse Habbo não acedeu ao hotel para o momento."
+
+#: src/Controller/HousekeepingController.php:169
+msgid "Cet Habbo est déjà banni pour le même type d'exclusion."
+msgstr "Este Habbo foi banido com o mesmo motivo de exclusão."
+
+#: src/Controller/HousekeepingController.php:173
+msgid "Définissez une raison plus explicite que celle-ci."
+msgstr "Define uma razão mais explicita que esta."
+
+#: src/Controller/HousekeepingController.php:185
+msgid "%s a banni %s pour la raison %s"
+msgstr "%s baniu %s pela razão %s"
+
+#: src/Controller/HousekeepingController.php:193
+msgid ""
+"%s a été banni pour la raison: %s, l'exclusion prendra effet à la prochaine "
+"connexion du Habbo."
+msgstr "%s foi banido pela razão: %s."
+
+#: src/Controller/HousekeepingController.php:205
+#: src/Template/Element/Housekeeping/menu.ctp:19
+#: src/Template/Housekeeping/unban.ctp:10
+msgid "Débannir un Habbo"
+msgstr "Desbanir um Habbo"
+
+#: src/Controller/HousekeepingController.php:206
+msgid "Débannissez un Habbo si le cas est légitime"
+msgstr "Desbane um Habbo se o caso seja legitimo"
+
+#: src/Controller/HousekeepingController.php:245
+msgid "Cet Habbo n'est pas banni."
+msgstr "Este Habbo não está banido."
+
+#: src/Controller/HousekeepingController.php:255
+msgid "%s a débanni %s"
+msgstr "% desbaniu %s"
+
+#: src/Controller/HousekeepingController.php:259
+msgid "%s a été débanni pour tous les types d'exclusions."
+msgstr "%s foi desbanido oara todos tipos de exclusão."
+
+#: src/Controller/HousekeepingController.php:271
+msgid "Liste des articles"
+msgstr "Lista de notícias"
+
+#: src/Controller/HousekeepingController.php:272
+msgid "Gérer les articles publiés sur le site"
+msgstr "Gerir as notícias publicados no site"
+
+#: src/Controller/HousekeepingController.php:290
+#: src/Template/Element/Housekeeping/menu.ctp:41
+#: src/Template/Housekeeping/create_article.ctp:11
+msgid "Créer un article"
+msgstr "Criar uma notícia"
+
+#: src/Controller/HousekeepingController.php:291
+msgid "Informer les Habbos sur l'actualité de l'hôtel"
+msgstr "Informar os Habbos da atualidade do Hotel"
+
+#: src/Controller/HousekeepingController.php:308
+msgid "Rédaction d'un article %s"
+msgstr "Reação de uma notícia %s"
+
+#: src/Controller/HousekeepingController.php:317
+msgid "Ton article vient d'être publié sur le site."
+msgstr "A sua notícia foi publicada no site."
+
+#: src/Controller/HousekeepingController.php:330
+msgid "Supprimer un article"
+msgstr "Remover uma notícia"
+
+#: src/Controller/HousekeepingController.php:337;346
+msgid "Une erreur est survenue lors de la suppression d'un article."
+msgstr "Aconteceu um erro após remover uma notícia."
+
+#: src/Controller/HousekeepingController.php:350
+msgid "Suppression de l'article %s"
+msgstr "Removação da notícia %s"
+
+#: src/Controller/HousekeepingController.php:353
+msgid "L'article a été supprimé avec succès."
+msgstr "A notícia foi removida com sucesso."
+
+#: src/Controller/HousekeepingController.php:364
+msgid "Editer un article"
+msgstr "Editar uma notícia"
+
+#: src/Controller/HousekeepingController.php:365
+msgid "Editer un article comme bon vous semble"
+msgstr "Editar uma notícia a seu jeito"
+
+#: src/Controller/HousekeepingController.php:371;381
+msgid "Une erreur est survenue lors de l'edition d'un article."
+msgstr "Aconteceu um erro enquanto editava a notícia."
+
+#: src/Controller/HousekeepingController.php:391
+msgid "Edition de l'article %s"
+msgstr "Edição da notícia %s"
+
+#: src/Controller/HousekeepingController.php:396
+msgid "L'article a été modifié avec succès"
+msgstr "A notícia foi modificada com sucesso"
+
+#: src/Controller/HousekeepingController.php:408
+#: src/Template/Element/Housekeeping/menu.ctp:47
+msgid "Rechercher un utilisateur"
+msgstr "Procurar um usuário"
+
+#: src/Controller/HousekeepingController.php:409
+msgid "Trouver les détails dont vous avez besoin sur un utilisateur"
+msgstr "Encontre os detalhes de um utilizador"
+
+#: src/Controller/HousekeepingController.php:446
+msgid "Edition de l'utilisateur %s"
+msgstr "Edição do utilizador %s"
+
+#: src/Controller/HousekeepingController.php:449
+msgid "Les modifications ont été réalisées avec succès."
+msgstr "As modificações foram realizadas com sucesso."
+
+#: src/Controller/HousekeepingController.php:464
+#: src/Template/Element/Housekeeping/menu.ctp:30
+#: src/Template/Housekeeping/event.ctp:10
+msgid "Lancer une animation"
+msgstr "Alerta de atividade"
+
+#: src/Controller/HousekeepingController.php:465
+msgid "Tous les utilisateurs en ligne recevront une alerte"
+msgstr "Todos os usuários onlines receberão um alerta"
+
+#: src/Controller/HousekeepingController.php:489
+msgid "L'alerte d'animation a été envoyé dans l'hôtel."
+msgstr "Alerta de evento foi enviado no hotel."
+
+#: src/Controller/HousekeepingController.php:491
+msgid "Une erreur est survenue lors de l'envoie de l'alerte."
+msgstr "Aconteceu um erro enquanto enviava um alerta."
+
+#: src/Controller/HousekeepingController.php:495
+msgid "%s a lancer une alerte: %s"
+msgstr "%s mandou um alerta: %s"
+
+#: src/Controller/HousekeepingController.php:506
+#: src/Template/Element/Housekeeping/menu.ctp:23
+msgid "Photos"
+msgstr "Fotos"
+
+#: src/Controller/HousekeepingController.php:507
+msgid "Validation des photos de profil"
+msgstr "Validação de ifoto de perfil"
+
+#: src/Controller/HousekeepingController.php:528
+msgid "La photo de profil a été validé."
+msgstr "A foto de perfil foi validada."
+
+#: src/Controller/HousekeepingController.php:536
+msgid "La photo de profil a été refusé."
+msgstr "A foto de perfil foi rejeitada."
+
+#: src/Controller/NotificationsController.php:22;45;60
+#: src/Template/Notifications/history.ctp:1
+msgid "Historique des notifications"
+msgstr "Histórico de notificações"
+
+#: src/Controller/PrizesController.php:21
+#: src/Template/Element/Header/navbar.ctp:87
+msgid "Par animations"
+msgstr "Por animação"
+
+#: src/Controller/PrizesController.php:36
+#: src/Template/Element/Header/navbar.ctp:97
+msgid "Par fortune"
+msgstr "Por riqueza"
+
+#: src/Controller/ShareController.php:37
+msgid ""
+"Tu as déjà gagner ton cadeau du jour, reviens dans 24H pour ton prochain "
+"cadeau !"
+msgstr ""
+"Você já ganhou o seu presente do dia, volte em 24H para seu próximo "
+"presente !"
+
+#: src/Controller/ShareController.php:64
+msgid "Gain de {duckets} duckets grâce au parrainage."
+msgstr "Ganhe de {duckets} duckets graças ao partilhar."
+
+#: src/Controller/ShareController.php:69
+msgid ""
+"Merci pour ta contribution sur HabboMotel, tu remportes 10 duckets que tu "
+"pourras dépenser dans la boutique du catalogue! Reviens demain pour gagner à "
+"nouveau ton cadeau !"
+msgstr ""
+"Obrigado pela sua contribuição no HabboMotel, você ganhou 10 duckets onde "
+"poderá gastar-lhos em diamantes no catálogo! Volte amanhã para ganhar de "
+"novo seu presente !"
+
+#: src/Controller/ShareController.php:116
+msgid "Abonnement au Habbo CLUB de 2H grâce au parrainage."
+msgstr "Assinatura ao Habbo CLUB de 2H graças ao partilhar."
+
+#: src/Controller/ShareController.php:119
+msgid ""
+"Merci pour ta contribution sur HabboMotel, tu remportes un abonnement de 2H "
+"au HabboClub ! Reviens demain pour gagner à nouveau ton cadeau !"
+msgstr ""
+"Obrigado pela sua contribuição no HabboMotel, você ganhou uma assinatura de "
+"2H de MotelClub! Volte amanhã para ganhar de novo seu presente !"
+
+#: src/Controller/ShopController.php:37
+#: src/Template/Element/Header/navbar.ctp:122 src/Template/Shop/index.ctp:1
+msgid "Comprendre notre économie"
+msgstr "Compreender a nossa economia"
+
+#: src/Controller/ShopController.php:38 src/Template/Shop/index.ctp:2
+msgid ""
+"HabboMotel possède une économie structurée et réfléchie pour apporter une "
+"réelle valeur aux mobis et badges en circulation dans l'hôtel afin de "
+"dynamiser le troc et les casinos."
+msgstr ""
+"HabboMotel possui uma economia estruturada et pensada para conseguir um real "
+"valor de mobis e emblemas em circulação no hotel a fim de aumentar as trocas "
+"e os casinos."
+
+#: src/Controller/ShopController.php:51;78
+msgid "Le code que tu as inséré est invalide."
+msgstr "O código que você digitou está inválido."
+
+#: src/Controller/ShopController.php:67
+msgid "Ton compte a été crédité de {diamonds} diamants."
+msgstr "Sua conta foi carregada de {diamonds} diamantes."
+
+#: src/Controller/ShopController.php:71
+msgid "Tu as acheté {diamonds} diamants."
+msgstr "Você comprou {diamonds} diamantes."
+
+#: src/Controller/ShopController.php:84
+#: src/Template/Ajax/habbo_club_center.ctp:33
+#: src/Template/Element/Header/navbar.ctp:133 src/Template/Shop/diamonds.ctp:1
+msgid "Acheter des diamants"
+msgstr "Comprar diamanes"
+
+#: src/Controller/ShopController.php:100
+#: src/Template/Element/Header/navbar.ctp:143
+msgid "Historique des transactions"
+msgstr "Histórico de compras"
+
+#: src/Controller/UsersController.php:30
+msgid "Votre compte a été désactivé par la haute administration."
+msgstr "A sua conta foi desativada."
+
+#: src/Controller/UsersController.php:63
+msgid "Nom d'utilisateur ou mot de passe incorrect"
+msgstr "Nome de utilizador ou senha incorreto"
+
+#: src/Controller/UsersController.php:93
+msgid "Sécurisé ton compte"
+msgstr "Protege a sua conta"
+
+#: src/Controller/UsersController.php:123
+msgid "Vérification de l'identité"
+msgstr "Verificação de identidade"
+
+#: src/Controller/UsersController.php:145
+msgid "La réponse que tu as saisie est incorrect."
+msgstr "A resposta que você digitou está incorreta."
+
+#: src/Controller/Component/SparkComponent.php:98
+msgid "Une erreur est survenue (SparkComponent - Route invalide)"
+msgstr "Aconteceu um erro (SparkComponent - Rout invalid)"
+
+#: src/Controller/Component/SparkComponent.php:126
+msgid "DEBUG: L'action a été réalisé dans l'hôtel"
+msgstr "Aviso: A ação foi realizada no hotel"
+
+#: src/Event/NotificationsEventListener.php:34
+msgid "Tu as débloqué un nouveau trophée <b>{0}</b>"
+msgstr "Você desbloqueou um novo troféu <b>{0}</b>"
+
+#: src/Event/NotificationsEventListener.php:46
+msgid "<b>{0}</b> a commenté votre article: <i>{1}</i>"
+msgstr "<b>{0}</b> comentou a sua notícia <i>{1}</i>"
+
+#: src/Event/NotificationsEventListener.php:57
+msgid "<b>{0}</b> vous a mentionné dans l'article: <i>{1}</i>"
+msgstr "<b>{0}</b> identificou-te na notícia: <i>{1}</i>"
+
+#: src/Event/NotificationsEventListener.php:66
+msgid ""
+"<b>{0}</b>, bienvenue sur HabboMotel, rejoins-nous vite en te connectant "
+"dans l'hôtel."
+msgstr ""
+"<b>{0}</b>, bem-vindo ao HabboMotel, se junte a nós rápido ao conectar-se no "
+"hotel."
+
+#: src/Event/NotificationsEventListener.php:77
+msgid "<b>{0}</b> à répondu à la discussion <i>{1}</i>"
+msgstr "<b>{0}</b> responder à sua conversa <i>{1}</i>"
+
+#: src/Model/Table/ArticlesTable.php:30
+msgid "Le titre de l'article ne peut pas être vide."
+msgstr "O título da notícia não pode estar vazia."
+
+#: src/Model/Table/ArticlesTable.php:31
+msgid "Ton titre doit faire minimum 30 caractères"
+msgstr "A sua senha deve ter no mínimo 30 caracteres"
+
+#: src/Model/Table/ArticlesTable.php:34
+msgid "La phrase du bouton ne peut pas être vide."
+msgstr "A frase do botão não pode estar vazia."
+
+#: src/Model/Table/ArticlesTable.php:35
+msgid "La phrase doit faire minimum 10 caractères"
+msgstr "A frase deve ter no mínimo 10 caracteres"
+
+#: src/Model/Table/ArticlesTable.php:38
+msgid "L'image de couverture ne peut pas être vide."
+msgstr "A imagem não pode estar vazia."
+
+#: src/Model/Table/ArticlesTable.php:40
+msgid "Le contenu de l'article ne peut pas être vide."
+msgstr "O texto da notícia não pode estar vazia."
+
+#: src/Model/Table/CommentsTable.php:21
+msgid "Ton commentaire ne peut pas être vide."
+msgstr "O seu comentário não pode estar vazio."
+
+#: src/Model/Table/CommentsTable.php:22
+msgid "Ton commentaire doit être compris entre 3 et 500 caractères."
+msgstr "O seu comentário deve ter entre 3 a 500 caracteres."
+
+#: src/Model/Table/ForumThreadsTable.php:38
+msgid "Tu dois définir un nom pour ta discussion."
+msgstr "Você deve definir um nome para a sua conversa."
+
+#: src/Model/Table/ForumThreadsTable.php:39
+msgid "Le nom de la discussion doit faire plus de 10 caractères."
+msgstr "O nome da conversa deve ter mais de 10 caracteres."
+
+#: src/Model/Table/PlayerNetworksTable.php:25
+msgid "Les extensions autorisées sur la plateforme sont: jpg, jpeg et png."
+msgstr "As extensões autorizadas são: jpg, jpeg e png."
+
+#: src/Model/Table/PlayerNetworksTable.php:29
+msgid "La taille de l'image est supérieur a 2MO."
+msgstr "O tamanho da imagem é superior a 2MO."
+
+#: src/Model/Table/PlayerSecuritiesTable.php:19
+msgid "La réponse ne peut pas être vide."
+msgstr "A resposta não pode estar vazia."
+
+#: src/Model/Table/PlayerSecuritiesTable.php:20
+msgid "La réponse doit faire minimum 2 caractères."
+msgstr "A resposta deve ter no mínimo 2 caracteres."
+
+#: src/Model/Table/PlayersTable.php:31
+msgid "Votre pseudonyme est déjà utilisé."
+msgstr "Este nome está a ser utilizado."
+
+#: src/Model/Table/PlayersTable.php:32
+msgid "Votre adresse e-mail est déjà utilisée."
+msgstr "Este endereço e-mail está a ser utilizado."
+
+#: src/Model/Table/PlayersTable.php:39
+msgid "Ton pseudonyme ne peut pas être vide."
+msgstr "O seu nome não pode estar vazio."
+
+#: src/Model/Table/PlayersTable.php:40
+msgid "Ton pseudonyme doit faire entre 3 et 30 caractères."
+msgstr "O seu nome deve ter entre 3 a 30 caracteres."
+
+#: src/Model/Table/PlayersTable.php:43
+msgid ""
+"Ton pseudonyme peut être composé seulement de lettres, de chiffres et des "
+"caractères suivants: .-=_@."
+msgstr ""
+"O seu nome pode ser utilizado apenas com letras, números e os caracteres "
+"seguintes: .-=_@."
+
+#: src/Model/Table/PlayersTable.php:46
+msgid "Ton mot de passe ne peut pas être vide."
+msgstr "O sua senha não pode estar vazia."
+
+#: src/Model/Table/PlayersTable.php:47
+msgid "Ton mot de passe doit faire minimum 6 caractères."
+msgstr "A sua senha deve ter no mínimo 6 caracteres."
+
+#: src/Model/Table/PlayersTable.php:49
+msgid "Ton adresse e-mail doit être valide."
+msgstr "O seu endereço e-mail deve ser válido."
+
+#: src/Model/Table/PlayersTable.php:52 src/Template/Avatars/password.ctp:21
+msgid ""
+"Ton mot de passe doit comprendre au moins 6 caractères et inclure des "
+"lettres et des chiffres."
+msgstr "A sua senha deve ter ao menos 6 caracteres e incluir letras e números."
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:19
+msgid "Les avantages du HabboCLUB"
+msgstr "Os benefícios do MotelCLUB"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:27
+msgid "Quels sont les avantages de l’abonnement HC ?"
+msgstr "Quais são os benefícios da assinatura HC ?"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:29
+msgid "- Badge HC"
+msgstr "- Emblema HC"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:30
+msgid "- Texte de tchats en couleur"
+msgstr "- Texto de chat colorido"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:31
+msgid "- 5 respects supplémentaires par jour"
+msgstr "- 5 respeitos suplementares por dia"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:32
+msgid "- 3 cajoles supplémentaires par jour"
+msgstr "- 3 acariciar suplementares por dia"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:33
+msgid "- 500 win-win offerts"
+msgstr "- 500 placar de conquista oferta"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:34
+msgid "- Catalogue dédie aux membres HC"
+msgstr "- Catálogo para membros HC"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:35
+msgid ""
+"- Accès aux outils HC <i>(promouvoir son appart/définir les règles de son "
+"appart)</i>"
+msgstr ""
+"- Acesso às ferramentas HC <i>(promover o seu quarto/definir as regras do "
+"quarto)</i>"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:36
+msgid "- Coupes de cheveux et vêtements exclusifs <i>(bientôt disponible)</i>"
+msgstr "- Cortes de cabelo e roupas exclusivas <i>(em breve disponível)</i>"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:37
+msgid "- Cadeau HC mensuel"
+msgstr "- Presente HC mensal"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:38
+msgid "- Liste d’amis doublée (jusqu’à 1500)"
+msgstr "- Lista de amigos duplicada (até 1500)"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:39
+msgid ""
+"- Des commandes spéciales telles que <span class=\"tag is-light\">:warp</"
+"span> <i>(téléporter les joueurs vers soi)</i>, <span class=\"tag is-light"
+"\">:enable</span> <i>(ajouter un effet à son avatar)</i>, <span class=\"tag "
+"is-light\">:teleport</span> <i>(se téléporter dans ses appart)</i> et bien "
+"plus à l’aide de <span class=\"tag is-light\">:commands</span> <i>(voir "
+"toutes les commandes disponibles)</i>"
+msgstr ""
+"- Comandos especiais como <span class=\"tag is-light\">:trazer</span> "
+"<i>(trazer um usuário até si)</i>, <span class=\"tag is-light\">:enable</"
+"span> <i>(adicionar um efeito a seu avatar)</i>, <span class=\"tag is-light"
+"\">:teleport</span> <i>(teletransportar no seu quarto)</i> et muito mais com "
+"ajuda de <span class=\"tag is-light\">:comandos</span> <i>(ver todos os "
+"comandos disponíveis)</i>"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:42
+msgid "Qu’est-ce le HC ?"
+msgstr "O que é o HC?"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:44
+msgid ""
+"L’abonnement HC est un club spécial que les joueurs normaux peuvent "
+"rejoindre pour obtenir des fonctionnalités supplémentaires que les joueurs "
+"normaux. "
+msgstr ""
+"A assinatura HC é um clube especial que os usuários normais podem comprar "
+"para obter funcionalidades suplementares que os usuários normais"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:47
+msgid ""
+"Combien cela coûte de faire partie du HC ? Être membre du HC coûte 50 "
+"diamants pour un abonnement de 31 jours et 31 diamants pour un abonnement de "
+"14 jours."
+msgstr ""
+"Quando é para ser membro do Clube HC ? Ser membro HC custa 50 diamantes para "
+"uma assinatura de 31 dias e 31 diamantes para uma assinatura de 14 dias."
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:50
+msgid ""
+"Comment je sais depuis combien de temps je suis HC et combien de jours il me "
+"reste en tant que HC ?"
+msgstr ""
+"Como eu sei desde quanto tempo eu sou HC e quantos dias me resta enquanto "
+"HC ?"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:52
+msgid ""
+"Quand tu es connecté au Motel, cette information est disponible sur le haut "
+"de ton écran à droite. En cliquant sur cette icône HC tu ouvriras le Centre "
+"HC. Comment fonctionne le Cadeau Mensuel ? En fonction de ta période HC, tu "
+"recevras, tous les mois, un cadeau surprise."
+msgstr ""
+"Quando você está conectado no Motel, essa informação é disponível no alto do "
+"ecrã à direita. Clicando neste icône HC você abrirá o Centro HC. Como "
+"funciona o Presente Mensal ? Em função de seu período HC, você receberá, "
+"todos os meses, um presente surpresa."
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:56
+msgid ""
+"Ce cadeau mensuel surprise peut inclure des diamants, un renouvellement "
+"d’abonnement HC, un rare, un badge et bien plus encore!"
+msgstr ""
+"O presente mensal surpresa pode incluir diamantes, uma renovação da "
+"assinatura HC, um raro, um emblema e muito mais!"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:59
+msgid "Je ne veux plus être HC, puis-je annuler mon inscription ?"
+msgstr "Eu não quero ser mais HC, posso anular minha inscrição?"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:60
+msgid ""
+"L’inscription au HC est d’un mois complet ou deux semaines, c’est pourquoi "
+"nous ne pourrons pas te rendre les diamants si tu décides de ne plus faire "
+"partie de ce Club avant la fin du mois correspondant à ton inscription."
+msgstr ""
+"A inscrição ao HC est de um mês completo ou duas semanas, é porque nós não "
+"podemos dar de volta os diamantes se você decide de não fazer mais parte "
+"deste Clube antes do fim do mês correspondente à sua inscrição."
+
+#: src/Template/Ajax/create_poll.ctp:6
+msgid "Pose ta question"
+msgstr "Faça a sua questão"
+
+#: src/Template/Ajax/create_poll.ctp:9
+msgid "Aimez-vous mon appartement?"
+msgstr "Gosta do meu quarto?"
+
+#: src/Template/Ajax/create_poll.ctp:11
+msgid ""
+"Les Habbos présents dans ton appart pourront répondre au sondage par un "
+"J’aime ou un Je n'aime pas"
+msgstr ""
+"Os usuários presentes no seu quarto podem responder à sondagem com um Gosto "
+"ou um Não gosto"
+
+#: src/Template/Ajax/create_poll.ctp:19
+msgid "Lancer le sondage"
+msgstr "Enviar a sondagem"
+
+#: src/Template/Ajax/display_rules.ctp:2
+msgid "Les règles..."
+msgstr "As regras..."
+
+#: src/Template/Ajax/earn_habbo_club.ctp:2
+msgid "Gagne un abonnement de 2H"
+msgstr "Ganhar uma assinatura de 2H"
+
+#: src/Template/Ajax/earn_habbo_club.ctp:7
+msgid "Hey"
+msgstr "Hey"
+
+#: src/Template/Ajax/earn_habbo_club.ctp:11
+msgid ""
+"Tu souhaites profiter des fonctionnalités HC pendant deux heures "
+"gratuitement ? Tu es tombé sur la bonne page."
+msgstr ""
+"Você deseja aproveitar a funcionalidade HC, durante duas horas gratuitas ? "
+"Você está na boa página."
+
+#: src/Template/Ajax/earn_habbo_club.ctp:12
+msgid ""
+"Il ne te reste plus qu'à partager une publication sur Facebook en cliquant "
+"sur \"Gagner mon abonnement HC\" et ton abonnement sera activé."
+msgstr ""
+"Falta apenas partilhar uma publicação no Facebook clicando no \"Ganhar minha "
+"assinatura HC\" e sua assinatura será ativada."
+
+#: src/Template/Ajax/earn_habbo_club.ctp:18
+msgid "Gagner mon abonnement"
+msgstr "Ganhar minha assinatura"
+
+#: src/Template/Ajax/event_alert.ctp:2
+msgid "Message des Staffs"
+msgstr "Mensagem dos Staffs"
+
+#: src/Template/Ajax/event_alert.ctp:14
+msgid "J'y vais !"
+msgstr "Ir!"
+
+#: src/Template/Ajax/habbo_club_center.ctp:26
+msgid "Centre HC"
+msgstr "Centro HC"
+
+#: src/Template/Ajax/habbo_club_center.ctp:34
+msgid "Gagne 2H de HC"
+msgstr "Ganhe 2H de HC"
+
+#: src/Template/Ajax/habbo_club_center.ctp:43
+msgid "Plus d'avantages HC :"
+msgstr "Mais benefícios HC :"
+
+#: src/Template/Ajax/habbo_club_center.ctp:44
+msgid "- Catalogue dédié aux membres."
+msgstr "- Catálogo dedicado aos membros."
+
+#: src/Template/Ajax/habbo_club_center.ctp:45
+msgid "- Accès aux nouvelles fonctionnalités HC."
+msgstr "- Acesso às novas funcionalidades HC."
+
+#: src/Template/Ajax/habbo_club_center.ctp:46
+msgid "Découvrir tous les avantages..."
+msgstr "Descobrir todos os benefícios...."
+
+#: src/Template/Ajax/habbo_club_center.ctp:50
+msgid "Les membres HC reçoivent un cadeau chaque mois !"
+msgstr "Os membros HC recebem um presente cada mês !"
+
+#: src/Template/Ajax/habbo_club_center.ctp:54
+msgid "14 jours"
+msgstr "14 dias"
+
+#: src/Template/Ajax/habbo_club_center.ctp:56
+msgid "Souscrire durant 14 jours"
+msgstr "Assinar durante 14 dias"
+
+#: src/Template/Ajax/habbo_club_center.ctp:59
+msgid "31 jours"
+msgstr "31 dias"
+
+#: src/Template/Ajax/habbo_club_center.ctp:61
+msgid "Souscrire durant 30 jours"
+msgstr "Assinar durante 30 dias"
+
+#: src/Template/Ajax/history_poll.ctp:3
+msgid "Il n'y a pas eu de sondage dans cet appart pour le moment."
+msgstr "Não  tem sondagem neste quarto para o momento."
+
+#: src/Template/Ajax/history_poll.ctp:29
+msgid "Lancé il y a {0}"
+msgstr "Lançado à {0}"
+
+#: src/Template/Ajax/in_progress_poll.ctp:3
+msgid "Aucun sondage n'est en cours dans ton appart."
+msgstr "Nenhuma sondagem está em curso no seu quarto."
+
+#: src/Template/Ajax/in_progress_poll.ctp:11
+msgid ""
+"Tu as récemment lancé un sondage <small>&laquo; {0} &raquo;</small> pour les "
+"Habbos qui visitent ton appart."
+msgstr ""
+"Você lançou recentemente uma sondagem <small>&laquo; {0} &raquo;</small> "
+"para os usuários que visitem o seu quarto."
+
+#: src/Template/Ajax/item_information_composer.ctp:18
+msgid "Ce mobi a été vendu à <b>{0}</b> diamants."
+msgstr "Este mobi foi vendido a <b>{0}</b> diamantes."
+
+#: src/Template/Ajax/item_information_composer.ctp:20
+msgid "Ce mobi a été vendu à <b>{0}</b> duckets."
+msgstr "Este mobi foi vendido a <b>{0}</b> duckets."
+
+#: src/Template/Ajax/item_information_composer.ctp:22
+msgid "Ce mobi a été vendu à <b>{0}</b> credits."
+msgstr "Este mobi foi vendido a <b>{0}</b> créditos."
+
+#: src/Template/Ajax/item_information_composer.ctp:25
+msgid "<b>{0}</b> exemplaires en circulation,"
+msgstr "<b>{0}</b> mobis idênticos em circulação,"
+
+#: src/Template/Ajax/item_information_composer.ctp:26
+msgid "dont <b>{0}</b> exemplaires posés dans des apparts"
+msgstr "onde <b>{0}</b> mobis idênticos que estão colocados nos quartos"
+
+#: src/Template/Ajax/item_information_composer.ctp:27
+msgid "et <b>{0}</b> exemplaires stockés dans des inventaires."
+msgstr "e <b>{0}</b> mobis idênticos no inventário."
+
+#: src/Template/Ajax/item_information_composer.ctp:32
+msgid "Souhaites-tu évaluer ce mobi ?"
+msgstr "Deseja avaliar este mobi?"
+
+#: src/Template/Ajax/item_information_composer.ctp:43
+msgid "Ce mobi a reçu une note de <b>{0}</b> sur 5"
+msgstr "Este mobi recebeu uma nota de <b>{0}</b> sobre 5"
+
+#: src/Template/Ajax/list_commands_composer.ctp:14
+msgid "Les commandes"
+msgstr "Os comandos"
+
+#: src/Template/Ajax/list_commands_composer.ctp:17
+msgid "Liste des commandes classées par rang"
+msgstr "Lista de comandos por rank"
+
+#: src/Template/Ajax/list_commands_composer.ctp:26
+msgid "Normal"
+msgstr "Normal"
+
+#: src/Template/Ajax/list_commands_composer.ctp:30
+#: src/Template/Avatars/index.ctp:24
+msgid "HC"
+msgstr "HC"
+
+#: src/Template/Ajax/list_commands_composer.ctp:34
+msgid "Staff"
+msgstr "Staff"
+
+#: src/Template/Ajax/list_commands_composer.ctp:47
+msgid "Liste des commandes des <b>utilisateurs normaux</b>."
+msgstr "Lista de comandos dos <b>usuários normais</b>."
+
+#: src/Template/Ajax/list_commands_composer.ctp:51
+msgid "@pseudo %message%"
+msgstr "@username %message%"
+
+#: src/Template/Ajax/list_commands_composer.ctp:51
+msgid "Notifie l'utilisateur cible en le mentionnant."
+msgstr "Identifique o usuário mencionando-o."
+
+#: src/Template/Ajax/list_commands_composer.ctp:62
+msgid "Liste des commandes des <b>utilisateurs HC</b>."
+msgstr "Lista de comandos dos <b>utilizadores HC</b>."
+
+#: src/Template/Ajax/list_commands_composer.ctp:74
+msgid "Liste des commandes des <b>utilisateurs staff</b>."
+msgstr "Lista de comandos dos <b>utilizadores staff</b>."
+
+#: src/Template/Ajax/manage_poll_composer.ctp:6
+#: src/Template/Community/client.ctp:91
+msgid "Gérer tes sondages"
+msgstr "Gerir as sondagens"
+
+#: src/Template/Ajax/manage_poll_composer.ctp:12
+msgid "Créer un sondage"
+msgstr "Criar uma sondagem"
+
+#: src/Template/Ajax/manage_poll_composer.ctp:13
+msgid "Sondage en cours"
+msgstr "Sondagem em curso"
+
+#: src/Template/Ajax/manage_poll_composer.ctp:14
+msgid "Historique des sondages"
+msgstr "Histórico das sondagens"
+
+#: src/Template/Ajax/profile_information_composer.ctp:6
+msgid "En savoir plus sur ce joueur"
+msgstr "Saber mais sobre este usuário"
+
+#: src/Template/Ajax/profile_social_composer.ctp:11
+msgid "Trophées acquis :"
+msgstr "Troféus adquiridos :"
+
+#: src/Template/Ajax/profile_social_composer.ctp:12
+msgid "sur"
+msgstr "sobre"
+
+#: src/Template/Ajax/profile_social_composer.ctp:19
+msgid " C'est moi"
+msgstr " Sou eu"
+
+#: src/Template/Ajax/profile_social_composer.ctp:21
+msgid " Ami"
+msgstr " Amigo"
+
+#: src/Template/Ajax/profile_social_composer.ctp:38
+msgid "Amis"
+msgstr "Amigos"
+
+#: src/Template/Ajax/profile_social_composer.ctp:43
+msgid "respects reçus"
+msgstr "respeitos recebidos"
+
+#: src/Template/Ajax/profile_social_composer.ctp:49
+msgid "Ses réseaux sociaux"
+msgstr "Suas redes sociais"
+
+#: src/Template/Ajax/profile_social_composer.ctp:52;53;54
+msgid "non renseigné"
+msgstr "não informado"
+
+#: src/Template/Ajax/profile_social_composer.ctp:57
+msgid "Côte de popularité"
+msgstr "Rating de popularidade"
+
+#: src/Template/Ajax/profile_social_composer.ctp:61
+msgid "Souhaites-tu évaluer ce Habbo?"
+msgstr "Deseja avaliar este usuário?"
+
+#: src/Template/Ajax/profile_social_composer.ctp:69
+msgid "Note <b>{0}</b> sur 5 ({1} votes)"
+msgstr "Nota <b>{0}</b> sobre 5 ({1} votos)"
+
+#: src/Template/Ajax/promote_room_composer.ctp:2
+#: src/Template/Community/client.ctp:93
+msgid "Promouvoir son appart"
+msgstr "Promover o seu quarto"
+
+#: src/Template/Ajax/promote_room_composer.ctp:12
+msgid "Promouvoir son appart !"
+msgstr "Promover o seu quarto !"
+
+#: src/Template/Ajax/promote_room_composer.ctp:13
+msgid ""
+"Ton appart est peu visité ? Achète de la visibilité et reçois plusieurs "
+"personnes chez toi... en même pas quelques secondes grâce à nos sélections "
+"de notifications déjà prêtes."
+msgstr ""
+"O seu quarto é pouco visitado ? Compre visibilidade e recebe muitas pessoas "
+"em sua casa... até mesmo em alguns segundos graças a nossas seleções de "
+"notificações preparadas."
+
+#: src/Template/Ajax/promote_room_composer.ctp:16
+msgid "Prix"
+msgstr "Preço"
+
+#: src/Template/Ajax/promote_room_composer.ctp:22
+msgid "Choisi ton type d'invitation"
+msgstr "Escolhe seu tipo de convite"
+
+#: src/Template/Ajax/room_rule_composer.ctp:2;14
+msgid "Règles de ton appart"
+msgstr "Regras de seu quarto"
+
+#: src/Template/Ajax/room_rule_composer.ctp:10
+msgid ""
+"Cet outil est mis à votre disposition dans le but de vous permettre de "
+"préparer les règles de vos animations en avance, merci d'éviter d'utiliser "
+"cet outil pour des utilisations privées. Les historiques sont sauvegardés."
+"<br/>Afin de rendre vos règles plus attractives, vous pouvez vous rendre sur "
+"le site CKEditor en cliquant <a href=\"http://nightly.ckeditor."
+"com/18-03-16-07-04/full/samples/index.html\" target=\"_blank\">ICI</a>. "
+"(préparez vos règles - cliquez sur SOURCE et copier/coller)."
+msgstr ""
+"Esta ferramenta é à sua disposição permitindo preparar as regras de suas "
+"atividades, agradeço de evitar de utilizar esta ferramenta para utilizações "
+"privadas. Os históricos são guardados. <br/>Caso queira as regras mais "
+"atrativas, você pode utilizar o site CKEditor clicando <a href=\"http://"
+"nightly.ckeditor.com/18-03-16-07-04/full/samples/index.html\" target=\"_blank"
+"\">AQUI</a>.(prepare as suas regras - clique em SOURCE e copiar/colar)."
+
+#: src/Template/Ajax/room_rule_composer.ctp:23
+msgid "Définir les règles"
+msgstr "Definir as regras"
+
+#: src/Template/Articles/view.ctp:18
+msgid "Publié il y a"
+msgstr "Publicada há"
+
+#: src/Template/Articles/view.ctp:26
+msgid "Commentaires"
+msgstr "Comentários"
+
+#: src/Template/Articles/view.ctp:27
+msgid "Nous avons hâte de lire tes ressentis, donc exprime-toi vite !"
+msgstr ""
+"Nós temos pressa para ler os seus sentimentos, então exprima-se rápido!"
+
+#: src/Template/Articles/view.ctp:45
+msgid "Ecris ton commentaire.."
+msgstr "Escreve o seu comentário..."
+
+#: src/Template/Avatars/history.ctp:6
+msgid "ci-dessous toutes les connexions enregistrées sur votre compte."
+msgstr "abaixo todas as conexões registradas em sua conta."
+
+#: src/Template/Avatars/history.ctp:11
+msgid "Adresse IP"
+msgstr "Endereço IP"
+
+#: src/Template/Avatars/history.ctp:12
+msgid "Navigateur"
+msgstr "Navegador"
+
+#: src/Template/Avatars/history.ctp:13
+#: src/Template/Notifications/history.ctp:11
+#: src/Template/Shop/transactions.ctp:9
+msgid "Date"
+msgstr "Data"
+
+#: src/Template/Avatars/index.ctp:10 src/Template/Element/Header/navbar.ctp:168
+msgid "Entrer dans l'hôtel"
+msgstr "Entrar no hotel"
+
+#: src/Template/Avatars/index.ctp:16 src/Template/Shop/diamonds.ctp:37
+#: src/Template/Shop/index.ctp:43
+msgid "diamants"
+msgstr "diamantes"
+
+#: src/Template/Avatars/index.ctp:20 src/Template/Shop/diamonds.ctp:40
+#: src/Template/Shop/index.ctp:46
+msgid "duckets"
+msgstr "duckets"
+
+#: src/Template/Avatars/index.ctp:24
+msgid "Non HC"
+msgstr "Não HC"
+
+#: src/Template/Avatars/index.ctp:99
+msgid "Parrainage"
+msgstr "Patrocínio"
+
+#: src/Template/Avatars/index.ctp:104
+msgid "{0}, tu n'as pas encore remporté ton cadeau du jour"
+msgstr "{0}, você ainda não pegou o seu presente do dia"
+
+#: src/Template/Avatars/index.ctp:105
+msgid "En ce moment des rares et des badges inédits sont à gagner."
+msgstr "Neste momento raros e emblemas inéditos devem ser conquistados."
+
+#: src/Template/Avatars/index.ctp:107
+msgid "Clique sur le bouton ci-dessous pour profiter de l'offre !"
+msgstr "Clique no botão abaixo para beneficiar da oferta!"
+
+#: src/Template/Avatars/index.ctp:109
+msgid "Parrainer à mes amis"
+msgstr "Partilhar com os meus amigos"
+
+#: src/Template/Avatars/index.ctp:136
+msgid "Voir plus"
+msgstr "Ver mais"
+
+#: src/Template/Avatars/index.ctp:147
+msgid "Mes Trophées"
+msgstr "Meus troféus"
+
+#: src/Template/Avatars/index.ctp:147
+msgid ""
+"Gagne et mets en avant <b>tes trophées</b> dans l'hôtel en réalisant des "
+"actions<br/> sur le site, tel que commenter un article."
+msgstr ""
+"Ganhe e coloque antes <b>os troféus</b> no hotel realizando as ações<br/> no "
+"site, como comentar uma notícia."
+
+#: src/Template/Avatars/index.ctp:149
+msgid "Partage à tes amis"
+msgstr "Partilhar a seus amigos"
+
+#: src/Template/Avatars/index.ctp:149
+msgid ""
+"Remporte tous les jours 10 duckets pour t'acheter<br/>des rares ou des "
+"badges en partageant <b>HabboMotel</b><br/> à tes amis !"
+msgstr ""
+"Consiga todos os dias 10 duckets para comprar<br/>raros ou emblemas "
+"compartilhando <b>HabboMotel</b><br/> a seus amigos !"
+
+#: src/Template/Avatars/index.ctp:151
+msgid "Rejoins les Habbos connectés"
+msgstr "Junte-se aos Habbos conectados"
+
+#: src/Template/Avatars/index.ctp:151
+msgid ""
+"<span class=\\\"icon is-small\\\"><i class=\\\"fa fa-check\\\"></i></span> "
+"Bravo, tu as terminé la visite guidée.</p><p>Pour rejoindre les autres "
+"utilisateurs connectés clique<br/> sur le bouton <b>\\\"Entrer dans l'hôtel\\"
+"\"</b>."
+msgstr ""
+"<span class=\\\"icon is-small\\\"><i class=\\\"fa fa-check\\\"></i></span> "
+"Bravo, você terminou a visita guiada.</p><p>Para juntar-se aos outros "
+"usuários conectados clique<br/> no botão <b>\\\"Entrar no Hotel\\\"</b>."
+
+#: src/Template/Avatars/network.ctp:10
+msgid ""
+"À partir de cette page, il est possible de procéder à la création d'un "
+"profil social directement disponible depuis l'hôtel. Une fois la création "
+"effectuée, il sera possible d'ajouter plusieurs données relatives à ta "
+"personne comme tes différents réseaux sociaux mais aussi d'ajouter une photo "
+"de profil. Ce profil peut être visible auprès de tous les joueurs ou alors, "
+"à l'inverse, il peut être invisible et dans ce cas, aucun d'entre eux ne "
+"pourra le voir. De plus, les informations partagées sur ton profil social "
+"seront soumises à la vérification des modérateurs de HabboMotel afin de "
+"contrôler le contenu partagé depuis cette page."
+msgstr ""
+"A partir desta página, é possível de proceder à criação de um perfil direto "
+"disponível desde o hotel. Uma vez a criação efetuada, é possível de "
+"adicionar muitos dados relativos à sua pessoa como suas diferentes redes "
+"sociais mas também de adicionar uma foto de perfil. Este perfil pode ser "
+"visível por todos os usuários ou então, ao contrário, ele pode ser invisível "
+"e neste caso, ninguém conseguirá ver. Em seguida, as informações partilhadas "
+"no seu perfil são enviadas à verificação dos embaixadores do HabboMotel para "
+"controlar o conteúdo partilhado desde esta página."
+
+#: src/Template/Avatars/network.ctp:13
+msgid ""
+"Il est important de souligner que la publication de telles données sur "
+"l'hôtel nécessite un consentement clair de ta part."
+msgstr ""
+"É importante de sublinhar que a publicação de alguns dados do hotel "
+"necessita  de um re-consentimento claro da sua parte."
+
+#: src/Template/Avatars/network.ctp:25
+msgid "Photo de profil"
+msgstr "Foto de perfil"
+
+#: src/Template/Avatars/network.ctp:30
+msgid ""
+"Choisis une photo de profil que tu partageras avec les Habbos. <b>Taille "
+"maximale 2MO</b>"
+msgstr ""
+"Escolha uma foto de perfil que você partilhará com os Habbos.  <b>Tamanho "
+"máximo 2MO</b>"
+
+#: src/Template/Avatars/network.ctp:37
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: src/Template/Avatars/network.ctp:41
+msgid "Saisis ton nom d'utilisateur sur snapchat pour le partager aux Habbos."
+msgstr ""
+"Digite seu nome de utilizador do Snapchat para partilhar com os Habbos."
+
+#: src/Template/Avatars/network.ctp:47
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/Template/Avatars/network.ctp:51
+msgid "Saisis ton nom d'utilisateur sur instagram pour le partager aux Habbos."
+msgstr ""
+"Digite seu nome de utilizador do Instagram para partilhar com os Habbos."
+
+#: src/Template/Avatars/network.ctp:57
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/Template/Avatars/network.ctp:61
+msgid "Saisis ton nom d'utilisateur sur twitter pour le partager aux Habbos."
+msgstr "Digite seu nome de utilizador do Twitter para partilhar com os Habbos."
+
+#: src/Template/Avatars/password.ctp:9
+msgid ""
+"Tu peux modifier le mot de passe de ton compte à tout moment en complétant "
+"le formulaire ci-dessous."
+msgstr ""
+"Você pode modificar a senha da sua conta a todo momento completando o "
+"formulário abaixo."
+
+#: src/Template/Avatars/password.ctp:14
+msgid "Nouveau mot de passe"
+msgstr "Nova senha"
+
+#: src/Template/Avatars/password.ctp:29
+msgid "Confirme ton nouveau mot de passe"
+msgstr "Confirme a sua nova senha"
+
+#: src/Template/Avatars/password.ctp:35
+msgid "Saisi à nouveau ton mot de passe pour être sûr de son ortographe."
+msgstr "Digite de novo a sua senha para confirmar a sua ortografia."
+
+#: src/Template/Avatars/password.ctp:43
+msgid "Modifier mon mot de passe"
+msgstr "Mudar a minha senha"
+
+#: src/Template/Avatars/privacy.ctp:6
+#: src/Template/Element/Avatars/Settings/nav.ctp:11
+#: src/Template/Element/Header/navbar.ctp:35
+msgid "Modifications générales"
+msgstr "Modificações generais"
+
+#: src/Template/Avatars/privacy.ctp:14
+msgid "Accepter les demandes d'amis"
+msgstr "Aceitar os pedidos de amizade"
+
+#: src/Template/Avatars/privacy.ctp:15
+msgid "Les autres Habbos peuvent m'envoyer des demandes d'amis."
+msgstr "Os outros Habbos podem enviar-me pedidos de amizade."
+
+#: src/Template/Avatars/privacy.ctp:23
+msgid "Activer le troc"
+msgstr "Ativar as trocas"
+
+#: src/Template/Avatars/privacy.ctp:24
+msgid "Les autres Habbos peuvent échanger avec moi."
+msgstr "Os outros Habbos podem fazer trocas comigo."
+
+#: src/Template/Avatars/privacy.ctp:33
+msgid "Autoriser les identifications"
+msgstr "Autorizar as identifcações"
+
+#: src/Template/Avatars/privacy.ctp:34
+msgid "Les autres Habbos peuvent m'identifier dans un message."
+msgstr "Os outros Habbos podem identificar-me em uma mensagem."
+
+#: src/Template/Avatars/privacy.ctp:42
+msgid "Son des notifications"
+msgstr "Som de notificações"
+
+#: src/Template/Avatars/privacy.ctp:43
+msgid "Un son est produit lorsque tu reçois une notification."
+msgstr "Um som é produzido desde que você receba uma notificação."
+
+#: src/Template/Avatars/privacy.ctp:47
+msgid "Qui peut me voir connecté"
+msgstr "Quem pode me ver conectado"
+
+#: src/Template/Avatars/privacy.ctp:49 src/Template/Housekeeping/event.ctp:36
+msgid "Tout le monde"
+msgstr "Todo o mundo"
+
+#: src/Template/Avatars/privacy.ctp:49;55
+#: src/Template/Housekeeping/event.ctp:37
+msgid "Personne"
+msgstr "Ninguém"
+
+#: src/Template/Avatars/privacy.ctp:53
+msgid "Qui peut me rejoindre"
+msgstr "Quem pode seguir-me"
+
+#: src/Template/Avatars/privacy.ctp:55
+msgid "Mes amis"
+msgstr "Meus amigos"
+
+#: src/Template/Avatars/privacy.ctp:58
+msgid "Modifier mes paramètres"
+msgstr "Modificar minhas definições"
+
+#: src/Template/Avatars/security.ctp:11
+msgid ""
+"La protection de compte protège votre compte de toutes sortes de piratages. "
+"La question de sécurité s’active automatiquement dès qu’une personne "
+"n’utilisant pas votre adresse IP tente de se connecter sur votre compte. Si "
+"le pirate ne parvient pas à répondre correctement aux questions de sécurité, "
+"le compte sera désactivé par mesure de sécurité."
+msgstr ""
+"A proteção da conta protege a sua conta de todas as piratagens. A questão de "
+"segurança ativa-se automaticamente desde que uma pessoa não utiliza o seu "
+"endereço IP tenta de se conectar à sua conta. Se o pirata não conseguir "
+"responder corretamente às questões de segurança, a conta será desativada "
+"para a sua segurança."
+
+#: src/Template/Avatars/security.ctp:14
+msgid ""
+"Ces mesures de sécurité sont d'autant plus importantes que ton mot de passe. "
+"Attention à ne pas renseigner de fausses informations."
+msgstr ""
+"As medidas de segurança são mais importantes que a sua senha. Atenção a não "
+"colocar informações falsas."
+
+#: src/Template/Avatars/security.ctp:16
+msgid "Proteger mon compte"
+msgstr "Proteger a minha conta"
+
+#: src/Template/Avatars/security.ctp:23
+msgid ""
+"La protection du compte est <b>activé</b>, tu peux modifier le formulaire ci-"
+"dessous pour changer la question de sécurité."
+msgstr ""
+"A proteção da conta é <b>activé</b>, você pode modificar o formulário abaixo "
+"para mudar a pergunta de segurança."
+
+#: src/Template/Avatars/security.ctp:28
+msgid "Choisis ta nouvelle question de sécurité"
+msgstr "Escolhe a sua nova pergunta de segurança"
+
+#: src/Template/Avatars/security.ctp:32 src/Template/Users/security.ctp:14
+msgid ""
+"Choisis une question à laquelle tu seras capable de répondre si ton compte "
+"est verrouillé."
+msgstr ""
+"Escolha uma pergunta à qual você será capaz de responder se a sua conta é "
+"bloqueada."
+
+#: src/Template/Avatars/security.ctp:38 src/Template/Users/security.ctp:20
+msgid "Réponse à la question de sécurité"
+msgstr "Resposta à questão de segurança"
+
+#: src/Template/Avatars/security.ctp:42 src/Template/Users/security.ctp:24
+msgid ""
+"Ta réponse doit être personnelle et personne d'autre que toi devra la "
+"connaître."
+msgstr "A sua resposta deve ser pessoal e outra pessoa não deve a conhecer."
+
+#: src/Template/Avatars/security.ctp:50
+msgid "Modifier ma question de sécurité"
+msgstr "Mudar a pergunta de segurança"
+
+#: src/Template/Avatars/security.ctp:56
+msgid "Désactiver la protection"
+msgstr "Desativar a proteção"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:6
+msgid "Nom du mobis"
+msgstr "Nome do mobi"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:9
+msgid "Le nom du mobis défini dans le catalogue."
+msgstr "O nome do mobis está definido no catálogo."
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:19
+msgid "Vendu par unité"
+msgstr "Vendido por unidade"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:22
+msgid "La quantité du même mobis achetée par achat."
+msgstr "A quantidade do mesmo mobi comprado por compra."
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:27
+msgid "(LTD) Déjà vendu"
+msgstr "(LTD) Já vendido"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:30
+msgid ""
+"Le nombre de fois que ce mobis a été acheté par les habbos pour ce LTD. Par "
+"défaut laisser 0."
+msgstr ""
+"O número de vezes que este mobi foi comprado por usuários para este LTD.  "
+"Deixe 0."
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:34
+msgid "(LTD) Unité mis en vente"
+msgstr "(LTD) Unidade à venda"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:37
+msgid "Le nombre de mobis mis en vente pour ce LTD."
+msgstr "O número de mobis à venda para este LTD."
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:44
+msgid "Ce mobis est-il un rare?"
+msgstr "Este mobi é um raro?"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:47
+msgid ""
+"0 = par défaut, 1 = Lorsqu'on double-clic sur ce mobis dans l'hôtel des "
+"détails s'y affiche en tant que rare"
+msgstr ""
+"0 = padrão, 1 = Quando clicamos duas vezes neste mobi no hotel os detalhes "
+"aparecem como raro"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:51
+msgid "Ce mobis est-il un LTD?"
+msgstr "Este mobi é um LTD?"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:54
+msgid ""
+"0 = par défaut, 1 = Lorsqu'on double-clic sur ce mobis dans l'hôtel des "
+"détails s'y affiche en tant que LTD"
+msgstr ""
+"0 = padrão, 1 = Quando clicamos duas vezes neste mobi no hotel os detalhes "
+"aparecem como raro"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:59
+msgid "Type du mobis"
+msgstr "Tipo de mobi"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:62
+msgid "s = mobis au sol, i = mobis au mur"
+msgstr "s = mobis de chão, i = mobis de parede"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:71
+msgid ""
+"Définit la hauteur ou ce positionnera le mobis qu'on souhaite empiler sur "
+"celui-ci"
+msgstr ""
+"Definir a altura ou posicionar os mobis que queremos empilhar sobre ele"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:78
+msgid ""
+"Définit les hauteurs ou ce positionnera le mobis qu'on souhaite empiler sur "
+"celui-ci"
+msgstr ""
+"Definir a altura ou posicionar os mobis que queremos empilhar sobre ele"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:82
+msgid "Type d'interaction"
+msgstr "Tipo de interação"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:85
+msgid "default = par défaut, teleport = mobis téléporteur, bed = lit"
+msgstr "default = padrão, teleport = mobis teleportadores, bed = cama"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:89
+msgid "Nombre d'états du mobis"
+msgstr "Número de estado do mobi"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:92
+msgid ""
+"Nombre des différents états du mobis en double cliquant dessus. (Ex: une "
+"porte de bar mode = 2 (ouvert/fermé)"
+msgstr ""
+"Número de diferentes estado do mobi clicando duas vezes nele. (Ex: uma porta "
+"de bar mode = 2 (aberto/fechado)"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:96
+msgid "ID des items à consommer"
+msgstr "ID dos items a consumir"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:99
+msgid "Exemple: 1,2,3)"
+msgstr "Exemplo 1,2,3)"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:104
+msgid "ID de l'effet"
+msgstr "ID do efeito"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:107
+msgid "Si le mobis est de type effect, attribuez lui un enable."
+msgstr "Se o mobi é de tipo efeito, atribuir-lhe um enable."
+
+#: src/Template/Community/client.ctp:56
+msgid ""
+"La publicité se fermera dans <span class='timeLeft'><b>x</b></span> secondes"
+msgstr "A publicidade fecha em <span class='timeLeft'><b>x</b></span> segundos"
+
+#: src/Template/Community/client.ctp:71
+msgid "Débloquer mon écran"
+msgstr "Descongelar o meu ecrã"
+
+#: src/Template/Community/client.ctp:85
+msgid "Outils pour propriétaire"
+msgstr "Ferrramentas para propriétario"
+
+#: src/Template/Community/client.ctp:95
+msgid "Définir les règles de ton appart"
+msgstr "Definir as regras do seu quarto"
+
+#: src/Template/Community/client.ctp:127
+msgid "Lire les règles du jeu"
+msgstr "Ler as regras do jogo"
+
+#: src/Template/Community/staff.ctp:1
+msgid "Le personnel de l'hôtel"
+msgstr "A equipe do hotel"
+
+#: src/Template/Element/Articles/nav.ctp:5
+msgid "Trier par catégorie"
+msgstr "Classificar por categoria"
+
+#: src/Template/Element/Articles/nav.ctp:24
+msgid "Aujourd'hui"
+msgstr "Hoje"
+
+#: src/Template/Element/Articles/nav.ctp:43
+msgid "Hier"
+msgstr "Ontem"
+
+#: src/Template/Element/Articles/nav.ctp:62
+msgid "Cette semaine"
+msgstr "Esta semana"
+
+#: src/Template/Element/Articles/nav.ctp:81
+msgid "Ce mois-ci"
+msgstr "Este mês"
+
+#: src/Template/Element/Articles/nav.ctp:100
+msgid "Cette année"
+msgstr "Este ano"
+
+#: src/Template/Element/Avatars/Settings/nav.ctp:4
+#: src/Template/Element/Header/navbar.ctp:24
+msgid "Paramètres du compte"
+msgstr "Definições de conta"
+
+#: src/Template/Element/Footer/footer.ctp:10
+msgid "Français"
+msgstr "Francês"
+
+#: src/Template/Element/Footer/footer.ctp:17
+msgid "Portugais"
+msgstr "Português"
+
+#: src/Template/Element/Footer/footer.ctp:29
+#: src/Template/Element/Header/navbar.ctp:109 src/Template/Forum/index.ctp:2
+msgid "Forum de discussion"
+msgstr "Fórum de conversa"
+
+#: src/Template/Element/Footer/footer.ctp:32
+msgid "Conditions d'utilisations"
+msgstr "Condições de utilização"
+
+#: src/Template/Element/Footer/footer.ctp:35
+msgid "Nous contacter"
+msgstr "Nos contactar"
+
+#: src/Template/Element/Footer/footer.ctp:40
+msgid "Propulsé par"
+msgstr "Patrocionado por"
+
+#: src/Template/Element/Footer/footer.ctp:40
+msgid "et"
+msgstr "e"
+
+#: src/Template/Element/Header/header.ctp:6
+msgid "connectés"
+msgstr "conectados"
+
+#: src/Template/Element/Header/navbar.ctp:13
+msgid "Personnage"
+msgstr "Carácter"
+
+#: src/Template/Element/Header/navbar.ctp:51
+msgid "Trophées"
+msgstr "Troféus"
+
+#: src/Template/Element/Header/navbar.ctp:53
+msgid "Notifications"
+msgstr "Notificações"
+
+#: src/Template/Element/Header/navbar.ctp:65
+msgid "Actualités"
+msgstr "Notícias"
+
+#: src/Template/Element/Header/navbar.ctp:75
+msgid "Staffs"
+msgstr "Staffs"
+
+#: src/Template/Element/Header/navbar.ctp:176
+#: src/Template/Users/check.ctp:22;43
+msgid "Se déconnecter"
+msgstr "Desconectar"
+
+#: src/Template/Element/Header/tabs.ctp:29;31
+msgid "Communauté"
+msgstr "Comunidade"
+
+#: src/Template/Element/Header/tabs.ctp:36;38
+msgid "Palmarès"
+msgstr "Hall da Fama"
+
+#: src/Template/Element/Header/tabs.ctp:50;52
+msgid "Boutique"
+msgstr "Loja"
+
+#: src/Template/Element/Header/tabs.ctp:56
+msgid "Admin."
+msgstr "HK."
+
+#: src/Template/Element/Housekeeping/menu.ctp:5
+msgid "Générale"
+msgstr "General"
+
+#: src/Template/Element/Housekeeping/menu.ctp:11
+msgid "Modération"
+msgstr "Moderação"
+
+#: src/Template/Element/Housekeeping/menu.ctp:15
+msgid "Gestion des exclusions"
+msgstr "Gestão de exclusões"
+
+#: src/Template/Element/Housekeeping/menu.ctp:27
+msgid "Animation"
+msgstr "Atividade"
+
+#: src/Template/Element/Housekeeping/menu.ctp:34
+msgid "Administration"
+msgstr "Administração"
+
+#: src/Template/Element/Housekeeping/menu.ctp:38
+msgid "Gestion des articles"
+msgstr "Gestão de notícias"
+
+#: src/Template/Element/Housekeeping/menu.ctp:40
+msgid "Liste des articles publiés"
+msgstr "Lista de notícias publicadas"
+
+#: src/Template/Element/Housekeeping/menu.ctp:45
+msgid "Gestion des utilisateurs"
+msgstr "Gestão de utilizadores"
+
+#: src/Template/Element/Housekeeping/menu.ctp:53
+msgid "Haute administration"
+msgstr "Os administradores"
+
+#: src/Template/Element/Housekeeping/menu.ctp:56
+msgid "Gestion du catalogue"
+msgstr "Gestão do catálogo"
+
+#: src/Template/Element/Modal/adblock.ctp:5
+msgid "Oh non... pas toi :("
+msgstr "Oh não... não você :("
+
+#: src/Template/Element/Modal/adblock.ctp:13
+#: src/Template/Element/Modal/share.ctp:18
+msgid "Hey {0}"
+msgstr "Hey {0}"
+
+#: src/Template/Element/Modal/adblock.ctp:15
+msgid ""
+"Nous avons remarqué que tu utilises un <b>bloqueur de publicité</b> sur "
+"HabboMotel."
+msgstr ""
+"Nós remarcamos que você utiliza um <b> bloqueador de publicidade </b> no "
+"HabboMotel."
+
+#: src/Template/Element/Modal/adblock.ctp:19
+msgid ""
+"Sais-tu que la publicité est la principale source de financement de "
+"HabboMotel ?"
+msgstr ""
+"Você sabe que as publicidades é a principal fonte de financiamento do "
+"HabboMotel?"
+
+#: src/Template/Element/Modal/adblock.ctp:23
+msgid ""
+"Pour nous aider à maintenir un jeu fluide et de qualité nous te demandons de "
+"désactiver le bloqueur de publicité sur notre site."
+msgstr ""
+"Para nos ajudar a conseguir um jogo fluido e de qualidade nós te pedimos de "
+"desativar o bloqueador de publicidade no nosso site."
+
+#: src/Template/Element/Modal/adblock.ctp:24
+msgid ""
+"<b>Pas de panique</b>, sur HabboMotel nos publicités sont discrètes et ne "
+"produisent aucune gêne pour ta navigation."
+msgstr ""
+"<b>Não se preocupe</b>, no HabboMotel as nossas publicidades são discretas e "
+"não produz nenhum problema para a sua navegação."
+
+#: src/Template/Element/Modal/adblock.ctp:31
+msgid "Fermeture dans"
+msgstr "Fecho em"
+
+#: src/Template/Element/Modal/adblock.ctp:31
+msgid "secondes"
+msgstr "segundos"
+
+#: src/Template/Element/Modal/adblock.ctp:35
+msgid "Je soutiens HabboMotel"
+msgstr "Eu apoio HabboMotel"
+
+#: src/Template/Element/Modal/share.ctp:5
+msgid "Gagne ta box du jour"
+msgstr "Ganha a sua box do dia"
+
+#: src/Template/Element/Modal/share.ctp:11
+msgid ""
+"Si quand tu cliques sur le bouton rien ne se déclenche, autorise les popups "
+"venant de HabboMotel."
+msgstr ""
+"Quando tu clicas no botão e nada acontecer, autorize os popups vindos do "
+"HabboMotel."
+
+#: src/Template/Element/Modal/share.ctp:20
+msgid ""
+"Tu recevras automatiquement ta box dans ton inventaire avec les rares et les "
+"badges lorsque tu auras partagé à tes amis."
+msgstr ""
+"Você receberá automaticamente a box no seu inventário com os raros e os "
+"emblemas depois que você ter partilhado com seus amigos."
+
+#: src/Template/Element/Modal/share.ctp:22
+msgid ""
+"Pour partager à tes amis et remporter ton cadeau rien de plus simple, clique "
+"sur le bouton ci-dessous <b>\"Je veux mes cadeaux\"</b>."
+msgstr ""
+"Para partilhar com seus amigos e vencer o seu presente não tem mais nada de "
+"fácil, apenas clique no botão abaixo <b>''Eu quero o meu presente''</b>."
+
+#: src/Template/Element/Modal/share.ctp:26
+msgid "Je veux mes cadeaux !"
+msgstr "Eu quero o meu presente !"
+
+#: src/Template/Forum/category.ctp:6
+msgid "<b>%s</b> discussions"
+msgstr "<b>%s</b> discussões"
+
+#: src/Template/Forum/category.ctp:30
+msgid "Dernière activité %s"
+msgstr "Últimas atividade %s"
+
+#: src/Template/Forum/category.ctp:33 src/Template/Forum/index.ctp:57
+msgid "%s réponses"
+msgstr "%s respostas"
+
+#: src/Template/Forum/category.ctp:43 src/Template/Forum/thread.ctp:40
+msgid "Revenir au début"
+msgstr "Voltar ao inicio"
+
+#: src/Template/Forum/category.ctp:45 src/Template/Forum/thread.ctp:42
+msgid "« Précédent"
+msgstr "«Antes"
+
+#: src/Template/Forum/category.ctp:49 src/Template/Forum/thread.ctp:46
+msgid "{{page}} sur {{pages}}"
+msgstr "{{page}} em {{pages}}"
+
+#: src/Template/Forum/category.ctp:53 src/Template/Forum/thread.ctp:50
+msgid "Suivant »"
+msgstr "Seguinte  »"
+
+#: src/Template/Forum/category.ctp:54 src/Template/Forum/thread.ctp:51
+msgid "Aller à la fin"
+msgstr "Ir até ao fim"
+
+#: src/Template/Forum/create_thread.ctp:4
+msgid "Profite de cette espace pour partager avec les autres Habbos!"
+msgstr "Profite deste espaço para partilhar com os outros Habbos!"
+
+#: src/Template/Forum/create_thread.ctp:7
+msgid "Nom de la discussion"
+msgstr "Nome da conversa"
+
+#: src/Template/Forum/create_thread.ctp:17
+#: src/Template/Housekeeping/create_article.ctp:26
+#: src/Template/Housekeeping/edit_article.ctp:26
+msgid "Catégorie"
+msgstr "Categoria"
+
+#: src/Template/Forum/create_thread.ctp:29
+#: src/Template/Housekeeping/event.ctp:23
+msgid "Message"
+msgstr "Mensagem"
+
+#: src/Template/Forum/create_thread.ctp:39
+msgid "Créer ma discussion"
+msgstr "Criar uma conversa"
+
+#: src/Template/Forum/create_thread.ctp:43
+msgid "Quelques conseils..."
+msgstr "Alguns conselhos..."
+
+#: src/Template/Forum/create_thread.ctp:44
+msgid ""
+"Le respect de la Habbo Attitude dans le forum est primordiale, nous comptons "
+"sur toi !"
+msgstr "O respeito do Habbo Atitude no fórum é essencial, contamos com você !"
+
+#: src/Template/Forum/index.ctp:21
+msgid "Les experts du forum"
+msgstr "Os profissionais do fórum"
+
+#: src/Template/Forum/index.ctp:22
+msgid "ci-dessous les Habbos qui s'impliquent le plus dans le forum."
+msgstr "abaixo os Habbos que mais se aplicam no fórum"
+
+#: src/Template/Forum/index.ctp:63
+msgid "Dernière activités"
+msgstr "Últimas atividades"
+
+#: src/Template/Forum/index.ctp:64
+msgid "ci-dessous les discussions dernièrement actif sur le forum."
+msgstr "abaixo as últimas conversas ativas no fórum"
+
+#: src/Template/Forum/index.ctp:80
+msgid "par %s"
+msgstr "por %s"
+
+#: src/Template/Forum/thread.ctp:7
+msgid "Epingler"
+msgstr "Fixar"
+
+#: src/Template/Forum/thread.ctp:7
+msgid "Désépingler"
+msgstr "Desfixar"
+
+#: src/Template/Forum/thread.ctp:9
+msgid "Fermer la discussion"
+msgstr "Fechar a conversa"
+
+#: src/Template/Forum/thread.ctp:9
+msgid "Ouvrir la discussion"
+msgstr "Abrir a conversa"
+
+#: src/Template/Forum/thread.ctp:30
+msgid "Supprimer la réponse"
+msgstr "Remover a resposta"
+
+#: src/Template/Forum/thread.ctp:32
+msgid "Il y a %s"
+msgstr "Tem %s"
+
+#: src/Template/Forum/thread.ctp:76
+msgid "Publier ma réponse"
+msgstr "Publicar a minha resposta"
+
+#: src/Template/Forum/thread.ctp:88
+msgid "Répondre.."
+msgstr "Resoonder.."
+
+#: src/Template/Home/index.ctp:32 src/Template/Housekeeping/search_user.ctp:39
+msgid "Pseudonyme"
+msgstr "Nickname"
+
+#: src/Template/Home/index.ctp:42;126
+msgid "Mot de passe"
+msgstr "Senha"
+
+#: src/Template/Home/index.ctp:53
+msgid "Connexion"
+msgstr "Conexão"
+
+#: src/Template/Home/index.ctp:68
+msgid "EXPLORE UN HOTEL INSOLITE AVEC DES PERSONNES INCROYABLES"
+msgstr "ENCONTRE UM HOTEL INSÓLITO COM PESSOAS INCRIVÉIS"
+
+#: src/Template/Home/index.ctp:73
+msgid "INSCRIS-TOI MAINTENANT !"
+msgstr "REGISTRA-SE AGORA!"
+
+#: src/Template/Home/index.ctp:81
+msgid "Rencontre un tas de personnes extraordinaire sur HabboMotel"
+msgstr "Encontre algumas pessoas extraordinárias no HabboMotel"
+
+#: src/Template/Home/index.ctp:89
+msgid ""
+"La communauté d'habbomotel s'agrandit de jour en jour, nous cherchons des "
+"nouveaux modérateurs"
+msgstr ""
+"A comunidade do habbomotel cresce de dia em dia, nós procuramos novos staffs"
+
+#: src/Template/Home/index.ctp:92
+msgid "Postuler"
+msgstr "Aplicar"
+
+#: src/Template/Home/index.ctp:112
+msgid "Inscris-toi maintenant !"
+msgstr "Registre-se agora !"
+
+#: src/Template/Home/index.ctp:113
+msgid ""
+"Fais-toi de nouveaux amis, crée ta chambre, adopte des animaux de compagnie, "
+"organise des grandes soirées! Amuse-toi gratuitement dès maintenant!"
+msgstr ""
+"Faça novos amigos, crie seu quarto, adote animais de companhia, organiza "
+"grandes noites! Divirta-se gratuitamente a partir de agora!"
+
+#: src/Template/Home/index.ctp:116
+msgid "Pseudonyme de l'avatar"
+msgstr "Nickname do avatar"
+
+#: src/Template/Home/index.ctp:120
+msgid ""
+"Ton pseudonyme peut contenir seulement des majuscules, miniscules, nombres "
+"et tirets."
+msgstr ""
+"O seu nickname pode conter apenas maiúsculas, minúsculas, números e traços."
+
+#: src/Template/Home/index.ctp:130
+msgid ""
+"Utilise au moins 6 caractères. Inclue au moins une lettre et au moins un "
+"chiffre ou un caractère spécial."
+msgstr ""
+"Utilize ao menos 6 caracteres. Incluí ao menos uma letra e ao menos um "
+"número ou uma caractere especial."
+
+#: src/Template/Home/index.ctp:136
+msgid "Répeter le mot de passe"
+msgstr "Repite a sua senha"
+
+#: src/Template/Home/index.ctp:146
+msgid "Adresse e-mail"
+msgstr "Endereço e-mail"
+
+#: src/Template/Home/index.ctp:150
+msgid "Ton adresse e-mail doit être valide en cas d'oublis de mot de passe."
+msgstr ""
+"O seu endereço e-mail deve ser válido em caso do esquecimento da senha."
+
+#: src/Template/Home/index.ctp:158
+msgid ""
+"&nbsp; J'accepte les <a href=\"#\" target=\"_blank\">conditions "
+"d'utilisation</a>."
+msgstr ""
+"&nbsp; Eu aceitos as <a href=\"#\" target=\"_blank\"> condições de "
+"utilização</a>."
+
+#: src/Template/Home/index.ctp:165
+msgid "Terminer mon inscription"
+msgstr "Terminar o meu registro"
+
+#: src/Template/Home/index.ctp:175
+msgid "Quelques raisons de s'inscrire sur HabboMotel.."
+msgstr "Algumas razões de se enregistar no HabboMotel.."
+
+#: src/Template/Home/index.ctp:176
+msgid "Découvre encore plus de nouveautés en t'inscrivant !"
+msgstr "Descubra ainda mais novidades !"
+
+#: src/Template/Housekeeping/ban.ctp:11
+#: src/Template/Housekeeping/create_article.ctp:12
+#: src/Template/Housekeeping/edit_article.ctp:12
+#: src/Template/Housekeeping/search_user.ctp:11
+#: src/Template/Housekeeping/unban.ctp:11
+msgid ""
+"Les actions que vous réalisez dans l'administration sont sauvegardées et "
+"consultable par la haute administration."
+msgstr ""
+"As ações que vocês realizam na administração são registradas et consultáveis "
+"pelos gerentes do hotel."
+
+#: src/Template/Housekeeping/ban.ctp:15
+#: src/Template/Housekeeping/search_user.ctp:14
+#: src/Template/Housekeeping/unban.ctp:14
+msgid "Pseudonyme du Habbo"
+msgstr "Nickname"
+
+#: src/Template/Housekeeping/ban.ctp:25
+msgid "Motif de l'exclusion"
+msgstr "Motivo de banimento"
+
+#: src/Template/Housekeeping/ban.ctp:29
+msgid ""
+"Définissez un motif explicite pour faciliter la gestion par la haute "
+"administration."
+msgstr "Define um motivo explícito para facilitar a gestão pelos gerentes."
+
+#: src/Template/Housekeeping/ban.ctp:35
+msgid "Type d'exclusion"
+msgstr "Tipo de banimento"
+
+#: src/Template/Housekeeping/ban.ctp:45
+msgid "Durée de l'exclusion"
+msgstr "Duração do banimento"
+
+#: src/Template/Housekeeping/ban.ctp:62
+msgid "Bannir le Habbo"
+msgstr "Banir o Habbo"
+
+#: src/Template/Housekeeping/create_article.ctp:16
+#: src/Template/Housekeeping/edit_article.ctp:16
+msgid "Titre de l'article"
+msgstr "Título da notícia"
+
+#: src/Template/Housekeeping/create_article.ctp:20
+#: src/Template/Housekeeping/edit_article.ctp:20
+msgid "Susciter l'envie de lire l'article avec un titre explicite."
+msgstr "Gera o desejo de ler a notícia com um título explicito."
+
+#: src/Template/Housekeeping/create_article.ctp:30
+#: src/Template/Housekeeping/edit_article.ctp:30
+msgid ""
+"Choisissez une catégorie appropriée pour faciliter la navigation des Habbos."
+msgstr ""
+"Escolha uma categoria apropriada para facilitar a navegação dos Habbos."
+
+#: src/Template/Housekeeping/create_article.ctp:36
+#: src/Template/Housekeeping/edit_article.ctp:36
+msgid "Image de couverture"
+msgstr "Imagem"
+
+#: src/Template/Housekeeping/create_article.ctp:40
+#: src/Template/Housekeeping/edit_article.ctp:40
+msgid ""
+"Selectionner une image parmis celles ce trouvant %s et coller le lien de "
+"l'image."
+msgstr ""
+"Selecione uma imagem entre as que se encontram %s e cole o link da imagem."
+
+#: src/Template/Housekeeping/create_article.ctp:46
+#: src/Template/Housekeeping/edit_article.ctp:46
+msgid "Phrase du boutton"
+msgstr "Frase do botão"
+
+#: src/Template/Housekeeping/create_article.ctp:50
+#: src/Template/Housekeeping/edit_article.ctp:50
+msgid "Exemple: En savoir plus &raquo;"
+msgstr "Exemplo: Saber mais &raquo;"
+
+#: src/Template/Housekeeping/create_article.ctp:56
+#: src/Template/Housekeeping/edit_article.ctp:56
+msgid "Contenu de l'article"
+msgstr "Conteúdo da notícia"
+
+#: src/Template/Housekeeping/create_article.ctp:61
+msgid "Créer l'article"
+msgstr "Criar notícia"
+
+#: src/Template/Housekeeping/edit_article.ctp:11
+msgid "Editir un article"
+msgstr "Editar notícia"
+
+#: src/Template/Housekeeping/edit_article.ctp:61
+msgid "Editer cet article"
+msgstr "Editar esta notícia"
+
+#: src/Template/Housekeeping/error.ctp:3
+#: src/Template/Housekeeping/permissions_required.ctp:3
+msgid "Pour revenir au tableau de bord "
+msgstr "Para voltar à HK "
+
+#: src/Template/Housekeeping/error.ctp:3
+#: src/Template/Housekeeping/permissions_required.ctp:3
+msgid "cliquer ici"
+msgstr "clique aqui"
+
+#: src/Template/Housekeeping/event.ctp:11
+msgid ""
+"Les actions que vous réalisez dans l'administration sont sauvegardées et "
+"consultables par la haute administration."
+msgstr ""
+"As ações que você realiza na administração são guardadas e consultáveis "
+"pelos gerentes."
+
+#: src/Template/Housekeeping/event.ctp:14
+msgid "Image du header"
+msgstr "Imagem"
+
+#: src/Template/Housekeeping/event.ctp:19
+msgid ""
+"Selectionner une image parmis ce dossier <a target=\"_blank\" href=\"https://"
+"flash.habbomotel.in/c_images/alertpics/\">en cliquant ici</a>"
+msgstr ""
+"Selecione uma imagem entre este documento <a target=\"_blank\" href="
+"\"https://flash.habbomotel.in/c_images/alertpics/\">clicando aqui</a>"
+
+#: src/Template/Housekeeping/event.ctp:29
+msgid ""
+"Les utilisateurs seront invités dans l'apparts dans lequel tu te trouves "
+"lors du lancement de cette alerte."
+msgstr "Os usuários serão convidados no quarto após o envio deste alerta."
+
+#: src/Template/Housekeeping/event.ctp:34
+msgid "Qui peut te rejoindre?"
+msgstr "Quem pode seguir-te?"
+
+#: src/Template/Housekeeping/event.ctp:40
+msgid "Lancer"
+msgstr "Lançar"
+
+#: src/Template/Housekeeping/index.ctp:11
+msgid "Joueurs bannis"
+msgstr "Usuários banidos"
+
+#: src/Template/Housekeeping/index.ctp:17
+msgid "Record de connectés"
+msgstr "Recorde de onlines"
+
+#: src/Template/Housekeeping/index.ctp:23
+msgid "Joueurs connectés"
+msgstr "Jogadores onlines"
+
+#: src/Template/Housekeeping/index.ctp:32
+msgid "Joueurs enregistrés"
+msgstr "Jogadores registrados"
+
+#: src/Template/Housekeeping/index.ctp:38
+msgid "Photos à approuver"
+msgstr "Fotos a aprovar"
+
+#: src/Template/Housekeeping/index.ctp:44
+msgid "Apparts ouverts"
+msgstr "Quartos abertos"
+
+#: src/Template/Housekeeping/list_articles.ctp:12
+msgid "Titre"
+msgstr "Titúlo"
+
+#: src/Template/Housekeeping/list_articles.ctp:13
+msgid "Date de publication"
+msgstr "Data de publicação"
+
+#: src/Template/Housekeeping/list_articles.ctp:14
+msgid "Edition"
+msgstr "Edição"
+
+#: src/Template/Housekeeping/list_articles.ctp:15
+msgid "Suppression"
+msgstr "Removação"
+
+#: src/Template/Housekeeping/list_articles.ctp:23
+msgid "Editer"
+msgstr "Editar"
+
+#: src/Template/Housekeeping/list_articles.ctp:24
+msgid "Supprimer"
+msgstr "Remover"
+
+#: src/Template/Housekeeping/picture.ctp:12
+msgid "Photo"
+msgstr "Foto"
+
+#: src/Template/Housekeeping/picture.ctp:13
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:30
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:43;69
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:64;160
+msgid "Actions"
+msgstr "Ações"
+
+#: src/Template/Housekeeping/picture.ctp:21
+msgid "Accepter"
+msgstr "Aceitar"
+
+#: src/Template/Housekeeping/picture.ctp:23
+msgid "Refuser"
+msgstr "Rejeitar"
+
+#: src/Template/Housekeeping/search_user.ctp:10
+msgid "Rechercher un Habbo"
+msgstr "Procurar um Habbo"
+
+#: src/Template/Housekeeping/search_user.ctp:24
+msgid "Rechercher cet Habbo"
+msgstr "Procurar este Habbo"
+
+#: src/Template/Housekeeping/search_user.ctp:31
+msgid "Détails du Habbo"
+msgstr "Detalhes do Habbo"
+
+#: src/Template/Housekeeping/search_user.ctp:32
+msgid "Information générale du Habbo"
+msgstr "Informação general do Habbo"
+
+#: src/Template/Housekeeping/search_user.ctp:48
+msgid "Mission"
+msgstr "Missão"
+
+#: src/Template/Housekeeping/search_user.ctp:56
+msgid "Crédits"
+msgstr "Créditos"
+
+#: src/Template/Housekeeping/search_user.ctp:64
+msgid "Duckets"
+msgstr "Duckets"
+
+#: src/Template/Housekeeping/search_user.ctp:72
+msgid "Diamants"
+msgstr "Diamantes"
+
+#: src/Template/Housekeeping/search_user.ctp:80
+msgid "Rang"
+msgstr "Rank"
+
+#: src/Template/Housekeeping/search_user.ctp:88
+msgid "Responsabilité"
+msgstr "Responsabilidade"
+
+#: src/Template/Housekeeping/search_user.ctp:96
+msgid "VIP"
+msgstr "VIP"
+
+#: src/Template/Housekeeping/search_user.ctp:104
+msgid "Désactiver le compte"
+msgstr "Desativar a conta"
+
+#: src/Template/Housekeeping/search_user.ctp:112
+msgid "Valider les changements"
+msgstr "Validar as modificações"
+
+#: src/Template/Housekeeping/unban.ctp:18
+msgid ""
+"Tous les types d'exclusions vont être supprimés (utilisateur, adresse ip et "
+"machine)"
+msgstr ""
+"Todos os tipos de banimento vão ser removidas (utilizador, endereço ip e "
+"machine)"
+
+#: src/Template/Housekeeping/unban.ctp:23
+msgid "Débannir le Habbo"
+msgstr "Desbanir o Habbo"
+
+#: src/Template/Layout/bulma.ctp:48
+msgid ""
+"Malheureusement, tu n'as pas partagé notre publication sur tes réseaux "
+"sociaux pour gagner tes duckets du jour."
+msgstr ""
+"Infelizmente, você não compartilhou nossa publicação em suas redes social "
+"para ganhar seus duckets do dia."
+
+#: src/Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Back"
+
+#: src/Template/Layout/error.ctp:68
+msgid "Si cette erreur est récursive contacter un administrateur."
+msgstr "Se este erro é recursivo contacte um gerente."
+
+#: src/Template/Layout/error.ctp:80
+msgid "Revenir en arrière"
+msgstr "Voltar atrás"
+
+#: src/Template/Layout/Homepage/home.ctp:47
+msgid ""
+"En poursuivant votre navigation sur HabboMotel, vous acceptez l’utilisation "
+"de cookies afin de nous permettre d’améliorer votre expérience utilisateur."
+msgstr ""
+"Continuando a sua navegação no HabboMotel, você aceita a utilização de "
+"cookies  para nos permitir de melhorar a sua experiência utilizador."
+
+#: src/Template/Layout/Homepage/home.ctp:48
+msgid "OK"
+msgstr "OK"
+
+#: src/Template/Notifications/history.ctp:2
+msgid "Tout marquer comme lu"
+msgstr "Marcar tudo como lido"
+
+#: src/Template/Notifications/history.ctp:10
+msgid "Notification"
+msgstr "Notificação"
+
+#: src/Template/Prizes/events.ctp:1
+msgid "Classement des animations"
+msgstr "Classificação de animações"
+
+#: src/Template/Prizes/events.ctp:2
+msgid "du mois de {0}"
+msgstr "mês de {0}"
+
+#: src/Template/Prizes/events.ctp:39
+msgid "Il te manque {0} "
+msgstr "Falta {0} "
+
+#: src/Template/Prizes/events.ctp:41
+msgid "Tu as reçu une boite mystère dans ton inventaire."
+msgstr "Você recebeu uma caixa mistério em seu inventário."
+
+#: src/Template/Prizes/events.ctp:53
+msgid "Statistiques"
+msgstr "Estatísticas"
+
+#: src/Template/Prizes/events.ctp:58
+msgid "étoiles"
+msgstr "estrelas"
+
+#: src/Template/Prizes/events.ctp:61
+msgid "Tu as été 0 fois en tête du classement."
+msgstr "Você esteve 0 vezes em primeiro da classificação."
+
+#: src/Template/Prizes/events.ctp:64
+msgid "Tu as ouvert 0 boîte mystère."
+msgstr "Você abriu 0 caixas mistérios."
+
+#: src/Template/Prizes/events.ctp:72
+msgid ""
+"Le palmarès des animations est mis à jour tous les mois. Durant chaque "
+"animation, les habbos remportent des lots ainsi que des étoiles pour le "
+"classement."
+msgstr ""
+"O ranking de animações são atualizados cada mês. Durante cada animação, os "
+"habbos ganham lotes como estrelas para a classificação."
+
+#: src/Template/Prizes/events.ctp:75
+msgid ""
+"À la fin du mois, les habbos ayant le plus d'étoiles remportent un badge "
+"inédit."
+msgstr ""
+"A cada fim de mês, os habbos que tem mais estrelas ganham bons prêmios."
+
+#: src/Template/Prizes/events.ctp:79
+msgid ""
+"Les habbos cumulant 80 étoiles dans le mois pourront ouvrir un cadeau "
+"surprise."
+msgstr ""
+"Os habbos que cumulam 160 estrelas no mês podem abrir um presente surpresa."
+
+#: src/Template/Prizes/wealth.ctp:1
+msgid "Classement par fortune"
+msgstr "Classificação por fortuna"
+
+#: src/Template/Prizes/wealth.ctp:2
+msgid "Les habbos les plus fortunés du Motel !"
+msgstr "Os habbos mais ricos do Motel !"
+
+#: src/Template/Shop/diamonds.ctp:2
+msgid ""
+"Les diamants sont la monnaie payante de HabboMotel, ils te permettent "
+"d'acheter du contenu inédit tels que des rares ou des badges."
+msgstr ""
+"Os diamantes são a moeda pagante do HabboMotel, eles te permitem de comprar "
+"do conteúdo inédito como os raros ou emblemas."
+
+#: src/Template/Shop/diamonds.ctp:7
+msgid ""
+"Si tu souhaites en savoir plus sur l'utilité des <b>diamants</b> dans "
+"l'hôtel, nous t'invitons à prendre connaissance du fonctionnement de notre "
+"économie en {url}."
+msgstr ""
+"Se você deseja saber mais sobre a utilidade dos <b>diamantes</b> no hotel, "
+"nós convidamos a conhecer o funcionamento da nossa economia em {url}."
+
+#: src/Template/Shop/diamonds.ctp:8
+msgid "cliquant ici"
+msgstr "clicando aqui"
+
+#: src/Template/Shop/diamonds.ctp:22
+msgid "Connecte-toi sur ton compte Habbo pour acheter des diamants."
+msgstr "Conecte-se na sua conta Habbo para comprar diamantes."
+
+#: src/Template/Shop/diamonds.ctp:30 src/Template/Shop/index.ctp:36
+msgid "Mon porte-monnaie"
+msgstr "Minha carteira"
+
+#: src/Template/Shop/diamonds.ctp:35 src/Template/Shop/index.ctp:41
+msgid "Tu possèdes dans ton porte-monnaie:"
+msgstr "Você possuí na sua carteira:"
+
+#: src/Template/Shop/diamonds.ctp:43 src/Template/Shop/index.ctp:49
+msgid "Connecte-toi sur ton compte Habbo pour accéder à ton porte-monnaie."
+msgstr "Conecte-se na sua conta Habbo para aceder à sua carteira."
+
+#: src/Template/Shop/index.ctp:8
+msgid "Les diamants"
+msgstr "Os diamantes"
+
+#: src/Template/Shop/index.ctp:12
+msgid ""
+"Les <b>diamants</b> sont la monnaie rare de l'hôtel. Ils te permettent "
+"d'acquérir du contenu inédit comme des <b>mobis LTD</b>, des <b>badges "
+"inédits</b> ou d'adhérer au <b>Habbo CLUB</b>.<br/><br/>\n"
+"           \t\tCette monnaie est <b>très difficile</b> à obtenir, car "
+"contrairement aux duckets, les diamants ne sont pas distribués lors des "
+"animations ou évènements organisés par les staffs.<br/><br/>\n"
+"           \t\tLe seul moyen d'acquérir des diamants et d'en <b>acheter par "
+"le biais de la boutique</b> ou de convertir des duckets en diamants."
+msgstr ""
+"Os <b>diamantes</b> são a moeda rara do hotel. Eles te permitem de adquirir "
+"do conteúdo inédito como <b>mobis LTD</b>, <b>emblemas inéditos</b> ou de "
+"aderir ao <b>HabboCLUB</b>.<br/><br/>\n"
+"           \t\tEsta moeda é <b>muito difícil</b> a obter, porque ao "
+"contrário dos duckets, os diamantes não são distribuídos em promoções ou "
+"eventos organizados pelos staffs.<br/><br/>\n"
+"           \t\tO único meio de adquirir diamantes é de <b>comprar pela loja</"
+"b> ou de convertir duckets por diamantes."
+
+#: src/Template/Shop/index.ctp:22
+msgid "Les duckets"
+msgstr "Os duckets"
+
+#: src/Template/Shop/index.ctp:27
+msgid ""
+"Les <b>duckets</b> sont gagnés en participant aux <b>animations</b> ou aux "
+"<b>évènements</b> organisés par les staffs. Ils te permettent d'acquérir des "
+"<b>mobis rares</b> ou des <b>badges rares</b>.<br/><br/>\n"
+"            \tIl est également possible de convertir des <b>duckets</b> en "
+"<b>diamants</b> pour pouvoir acheter du contenu encore plus rare comme les "
+"<b>mobis LTD</b>, les <b>badges inédits</b> ou bien d'adhérer au <b>Habbo "
+"CLUB</b> et profiter de tous ses avantages."
+msgstr ""
+"Os <b>duckets</b> são ganhos participando nos <b>eventos</b> ou em "
+"<b>promoções</b> organizados pelos staffs. Eles te permitem de adquirir de "
+"<b>mobis raros</b> ou de <b>emblemas.</b>.<br/><br/>\n"
+"            \tÉ igualmente possível de convertir de <b>duckets</b> por "
+"<b>diamantes</b> para poder comprar do conteúdo ainda mais raros como os "
+"<b>mobis LTD</b>, os <b>emblemas inéditos</b> ou de aderir ao <b>Habbo CLUB</"
+"b> et aproveitar de todas as suas vantagens."
+
+#: src/Template/Shop/transactions.ctp:1
+msgid "Historique des transactions réalisées sur HabboMotel"
+msgstr "Histórico de compras realizadas no HabboMotel"
+
+#: src/Template/Shop/transactions.ctp:2
+msgid ""
+"ci-dessous retrouve les transactions réalisées dans la boutique du site."
+msgstr "abaixo encontre todas as compras realizadas na loja do site."
+
+#: src/Template/Shop/transactions.ctp:7
+msgid "ID"
+msgstr "ID"
+
+#: src/Template/Shop/transactions.ctp:8
+msgid "Action"
+msgstr "Ação"
+
+#: src/Template/Users/check.ctp:4
+msgid "Confirme ton identité pour poursuivre ton aventure.."
+msgstr "Confirma a sua identidade para prosseguir a sua aventura.."
+
+#: src/Template/Users/check.ctp:5
+msgid ""
+"Un autre ordinateur a tenté de se connecter sur ton compte. Pour débloquer "
+"l'accès à ton compte répond à la question de sécurité ci-dessous."
+msgstr ""
+"Um outro computador tentou conectar-se à sua conta. Para desbloquear o "
+"acesso a sua conta responde à questão de segurança abaixo."
+
+#: src/Template/Users/check.ctp:17
+msgid "Déverrouiller mon compte"
+msgstr "Desbloquear minha conta"
+
+#: src/Template/Users/check.ctp:37
+msgid "Informations"
+msgstr "Informações"
+
+#: src/Template/Users/check.ctp:40
+msgid ""
+"Si tu as oublié la réponse à la question de sécurité, merci de prendre "
+"contact par mail avec les membres de l'équipe."
+msgstr ""
+"Se você esqueceu a resposta à pergunta de segurança, agradecemos de nos "
+"contactar por e-mail com os membros da equipe."
+
+#: src/Template/Users/security.ctp:2
+msgid "Sécurise ton compte avant de poursuivre ton aventure.."
+msgstr "Protege a sua conta antes de continuar a aventura.."
+
+#: src/Template/Users/security.ctp:4
+msgid ""
+"En sécurisant ton compte par une question de sécurité, tu protèges ton "
+"compte contre les connexions depuis un autre ordinateur que le tien."
+msgstr ""
+"Em proteger a sua conta com uma pergunta de segurança, você protege a sua "
+"conta contra as conexões de um outro computador que não é seu."
+
+#: src/Template/Users/security.ctp:10
+msgid "Choisis ta question de sécurité"
+msgstr "Escolha a pergunta de segurança"
+
+#: src/Template/Users/security.ctp:32
+msgid "Sécuriser mon compte"
+msgstr "Proteger a sua conta"
+
+#: src/Template/Users/security.ctp:36
+msgid "Poursuivre sans sécuriser mon compte"
+msgstr "Prosseguir sem proteger minha conta"
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:33
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:106
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:171
+msgid "Delete"
+msgstr "Delete"
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:35
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:106
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:66;171
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:39
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:67
+msgid "List <%= $pluralHumanName %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:46
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:51
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:75
+msgid "List <%= $this->_pluralHumanName($alias) %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:47
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:52
+msgid "New <%= $this->_singularHumanName($alias) %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:59
+msgid "<%= Inflector::humanize($action) %> <%= $singularHumanName %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:102
+msgid "Submit"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:44
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:68
+msgid "New <%= $singularHumanName %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:62
+msgid "<%= $pluralHumanName %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:104
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:169
+#: vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php:1214
+msgid "View"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:105
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:170
+msgid "Edit"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:114
+msgid "first"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:115
+msgid "previous"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:117
+msgid "next"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:118
+msgid "last"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:120
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/login.ctp:25
+msgid "Please enter your username and password"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/login.ctp:29
+msgid "Login"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:65
+msgid "Edit <%= $singularHumanName %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:66
+msgid "Delete <%= $singularHumanName %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:76
+msgid ""
+"New <%= Inflector::humanize(Inflector::singularize(Inflector::"
+"underscore($alias))) %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:94
+msgid "<%= Inflector::humanize($details["
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:99;116;132;141;158
+msgid "<%= Inflector::humanize($field) %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:108
+msgid ""
+"<%= Inflector::humanize(Inflector::singularize(Inflector::"
+"underscore($alias))) %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:133
+msgid "Yes"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:133
+msgid "No"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:153
+msgid "Related <%= $otherPluralHumanName %>"
+msgstr ""
+
+#~ msgid "Support"
+#~ msgstr "Suporte"
+
+#~ msgid "%s réponse%s"
+#~ msgstr "%s resposta%s"
+
+#~ msgid "Error"
+#~ msgstr "Error"
+
+#~ msgid "The requested address {0} was not found on this server."
+#~ msgstr "O endereço solicitado {0} não foi encontrado neste servidor."
+
+#~ msgid "An Internal Error Has Occurred"
+#~ msgstr "Ocorreu um erro interno"
+
+#~ msgid "An Internal Error Has Occurred."
+#~ msgstr "Ocorreu um erro interno."
+
+#~ msgid "The requested file was not found"
+#~ msgstr "O endereço solicitado {0} não foi encontrado neste servidor"
+
+#, fuzzy
+#~ msgid "The requested address %s was not found on this server."
+#~ msgstr "O endereço solicitado {0} não foi encontrado neste servidor."
+
+#, fuzzy
+#~ msgid "The command name"
+#~ msgstr "Os comandos"
+
+#~ msgid "Model classes:"
+#~ msgstr "Senha:"
+
+#~ msgid "Associations:"
+#~ msgstr "Associações:"
+
+#~ msgid "The requested file %s was not found or not readable"
+#~ msgstr "O endereço solicitado {0} não foi encontrado neste servidor"
+
+#, fuzzy
+#~ msgid "Connection timed out"
+#~ msgstr "Proteção da conta"
+
+#, fuzzy
+#~ msgid "Fatal Error"
+#~ msgstr "Error"
+
+#~ msgid "Ce Habbo a reçu la note de <b>{0}</b> sur 5"
+#~ msgstr "Este usuários recebeu a nota de <b>{0}</b> sobre 5"
+
+#~ msgid "La communauté s'agrandit et se dote d'ambassadeurs"
+#~ msgstr "A comunidade está crescendo e contamos com embaixadores"
+
+#~ msgid "Le nom du mobis apparaît lorsqu'on clique dessus dans un appartement"
+#~ msgstr "O nome do mobi aparece quando nós clicamos nele em um quarto"
+
+#~ msgid "Les modérateurs"
+#~ msgstr "Os moderadores"
+
+#~ msgid "ou"
+#~ msgstr "ou"
+
+#~ msgid "Connecte-toi via Facebook"
+#~ msgstr "Conectar-se com Facebook"

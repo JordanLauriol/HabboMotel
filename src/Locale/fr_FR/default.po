@@ -1,0 +1,679 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-11-26 00:57+0000\n"
+"PO-Revision-Date: 2017-11-26 02:13+0100\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.4\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+
+#: Controller/ArticlesController.php:69
+msgid "Ton commentaire a été ajouté."
+msgstr ""
+
+#: Controller/CommentsController.php:27
+msgid "Ton commentaire a été supprimé."
+msgstr ""
+
+#: Controller/UsersController.php:50
+msgid "Nom d'utilisateur ou mot de passe incorrect"
+msgstr ""
+
+#: Controller/UsersController.php:103
+msgid ""
+"Ton compte est maintenant sécurisé contre les connexions depuis un autre "
+"ordinateur que le tien."
+msgstr ""
+
+#: Controller/UsersController.php:138
+msgid "La réponse que tu as saisie est incorrect."
+msgstr ""
+
+#: Event/NotificationsEventListener.php:31
+msgid "Tu as débloqué un nouveau trophée <b>{0}</b>"
+msgstr ""
+
+#: Event/NotificationsEventListener.php:43
+msgid "<b>{0}</b> a commenté votre article: <i>{1}</i>"
+msgstr ""
+
+#: Event/NotificationsEventListener.php:52
+msgid ""
+"<b>{0}</b>, bienvenue sur Jabbo Hôtel, rejoins-nous vite en te connectant "
+"dans l'hôtel."
+msgstr ""
+
+#: Model/Table/CommentsTable.php:19
+msgid "Ton commentaire ne peut pas être vide."
+msgstr ""
+
+#: Model/Table/CommentsTable.php:20
+msgid "Ton commentaire doit être compris entre 3 et 500 caractères."
+msgstr ""
+
+#: Model/Table/UsersSecuritiesTable.php:19
+msgid "La réponse ne peut pas être vide."
+msgstr ""
+
+#: Model/Table/UsersSecuritiesTable.php:20
+msgid "La réponse doit faire minimum 2 caractères."
+msgstr ""
+
+#: Model/Table/UsersTable.php:20
+msgid "Votre pseudonyme est déjà utilisé."
+msgstr ""
+
+#: Model/Table/UsersTable.php:21
+msgid "Votre adresse e-mail est déjà utilisée."
+msgstr ""
+
+#: Model/Table/UsersTable.php:28
+msgid "Ton pseudonyme ne peut pas être vide."
+msgstr ""
+
+#: Model/Table/UsersTable.php:29
+msgid "Ton pseudonyme doit faire entre 3 et 30 caractères."
+msgstr ""
+
+#: Model/Table/UsersTable.php:32
+msgid ""
+"Ton pseudonyme peut être composé seulement de lettres, de chiffres et des "
+"caractères suivants: .-=_@."
+msgstr ""
+
+#: Model/Table/UsersTable.php:35
+msgid "Ton mot de passe ne peut pas être vide."
+msgstr ""
+
+#: Model/Table/UsersTable.php:36
+msgid "Ton mot de passe doit faire minimum 6 caractères."
+msgstr ""
+
+#: Model/Table/UsersTable.php:38
+msgid "Ton adresse e-mail doit être valide."
+msgstr ""
+
+#: Template/Avatars/index.ctp:8
+msgid "crédits"
+msgstr ""
+
+#: Template/Avatars/index.ctp:10
+msgid "diamants"
+msgstr ""
+
+#: Template/Avatars/index.ctp:52
+msgid "Parrainage"
+msgstr ""
+
+#: Template/Avatars/index.ctp:57
+msgid "{0}, tu n'as pas encore remporté ton cadeau du jour"
+msgstr ""
+
+#: Template/Avatars/index.ctp:58
+msgid "En ce moment des rares et des badges inédits sont à gagner."
+msgstr ""
+
+#: Template/Avatars/index.ctp:60
+msgid "Clique sur le bouton ci-dessous pour profiter de l'offre !"
+msgstr ""
+
+#: Template/Avatars/index.ctp:62
+msgid "Parrainer à mes amis"
+msgstr ""
+
+#: Template/Avatars/index.ctp:93
+msgid "Mes amis en ligne"
+msgstr ""
+
+#: Template/Element/Header/header.ctp:6 Template/Home/index.ctp:6
+msgid "connectés"
+msgstr ""
+
+#: Template/Element/Header/navbar.ctp:13
+msgid "Personnage"
+msgstr ""
+
+#: Template/Element/Header/navbar.ctp:24
+msgid "Paramètres du compte"
+msgstr ""
+
+#: Template/Element/Header/navbar.ctp:27
+msgid "Mes préférences"
+msgstr ""
+
+#: Template/Element/Header/navbar.ctp:30
+msgid "Mon mot de passe"
+msgstr ""
+
+#: Template/Element/Header/navbar.ctp:33
+msgid "Protection du compte"
+msgstr ""
+
+#: Template/Element/Header/navbar.ctp:36
+msgid "Historique de connexions"
+msgstr ""
+
+#: Template/Element/Header/navbar.ctp:41
+msgid "Mes trophées"
+msgstr ""
+
+#: Template/Element/Header/navbar.ctp:43
+msgid "Mes notifications"
+msgstr ""
+
+#: Template/Element/Header/navbar.ctp:63
+msgid "Entrer dans l'hôtel"
+msgstr ""
+
+#: Template/Element/Header/navbar.ctp:71 Template/Users/check.ctp:22;43
+msgid "Se déconnecter"
+msgstr ""
+
+#: Template/Element/Header/tabs.ctp:6
+msgid "Communauté"
+msgstr ""
+
+#: Template/Element/Header/tabs.ctp:7
+msgid "Palmarès"
+msgstr ""
+
+#: Template/Element/Header/tabs.ctp:8
+msgid "Boutique"
+msgstr ""
+
+#: Template/Element/Modal/share.ctp:5
+msgid "Gagne ta box du jour"
+msgstr ""
+
+#: Template/Element/Modal/share.ctp:11
+msgid ""
+"Si quand tu cliques sur le bouton rien ne se déclenche, autorise les popups "
+"venant de Jabbo Hôtel."
+msgstr ""
+
+#: Template/Element/Modal/share.ctp:18
+msgid "Hey {0}"
+msgstr ""
+
+#: Template/Element/Modal/share.ctp:20
+msgid ""
+"Tu recevras automatiquement ta box dans ton inventaire avec les rares et les "
+"badges lorsque tu auras partagé à tes amis."
+msgstr ""
+
+#: Template/Element/Modal/share.ctp:22
+msgid ""
+"Pour partager à tes amis et remporter ton cadeau rien de plus simple, clique "
+"sur le bouton ci-dessous <b>\"Je veux mes cadeaux\"</b>."
+msgstr ""
+
+#: Template/Element/Modal/share.ctp:26
+msgid "Je veux mes cadeaux !"
+msgstr ""
+
+#: Template/Home/index.ctp:22
+msgid "Pseudonyme"
+msgstr ""
+
+#: Template/Home/index.ctp:31
+msgid "Mot de passe"
+msgstr ""
+
+#: Template/Home/index.ctp:40
+msgid "Connexion"
+msgstr ""
+
+#: Template/Home/index.ctp:55
+msgid "Un endroit incroyable où tu pourras te faire pleins d'amis"
+msgstr ""
+
+#: Template/Home/index.ctp:60
+msgid "INSCRIS-TOI MAINTENANT !"
+msgstr ""
+
+#: Template/Home/index.ctp:62
+msgid "ou"
+msgstr ""
+
+#: Template/Home/index.ctp:66
+msgid "Connecte-toi via Facebook"
+msgstr ""
+
+#: Template/Home/index.ctp:77
+msgid "Quelques raisons de s'inscrire sur Jabbo Hôtel"
+msgstr ""
+
+#: Template/Home/index.ctp:85
+msgid "La communauté s'agrandit et se dote d'ambassadeurs"
+msgstr ""
+
+#: Template/Home/index.ctp:88
+msgid "Postuler"
+msgstr ""
+
+#: Template/Home/index.ctp:108
+msgid "Inscris-toi maintenant !"
+msgstr ""
+
+#: Template/Home/index.ctp:109
+msgid "Rejoins-nous en t'inscrivant gratuitement en quelques secondes."
+msgstr ""
+
+#: Template/Home/index.ctp:112
+msgid "Pseudonyme de ton avatar"
+msgstr ""
+
+#: Template/Home/index.ctp:116
+msgid ""
+"Ton pseudonyme peut contenir seulement des majuscules, miniscules, nombres "
+"et tirets."
+msgstr ""
+
+#: Template/Home/index.ctp:122
+msgid "Ton mot de passe"
+msgstr ""
+
+#: Template/Home/index.ctp:126
+msgid ""
+"Ton mot de passe doit comprendre au moins 6 caractères et inclure des "
+"lettres et des chiffres"
+msgstr ""
+
+#: Template/Home/index.ctp:132
+msgid "Ton adresse e-mail"
+msgstr ""
+
+#: Template/Home/index.ctp:136
+msgid "Ton adresse e-mail doit être valide en cas d'oublis de mot de passe."
+msgstr ""
+
+#: Template/Home/index.ctp:144
+msgid ""
+"&nbsp; J'accepte les <a href=\"#\" target=\"_blank\">conditions "
+"d'utilisation</a>."
+msgstr ""
+
+#: Template/Home/index.ctp:151
+msgid "Terminer mon inscription"
+msgstr ""
+
+#: Template/Layout/error.ctp:35 Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/Notifications/history.ctp:1
+msgid "Historique des notifications"
+msgstr ""
+
+#: Template/Notifications/history.ctp:2
+msgid "Tout marquer comme lu"
+msgstr ""
+
+#: Template/Notifications/history.ctp:10
+msgid "Notification"
+msgstr ""
+
+#: Template/Notifications/history.ctp:11
+msgid "Date"
+msgstr ""
+
+#: Template/Users/check.ctp:4
+msgid "Confirme ton identité pour poursuivre ton aventure.."
+msgstr ""
+
+#: Template/Users/check.ctp:5
+msgid ""
+"Un autre ordinateur a tenté de se connecter sur ton compte. Pour débloquer "
+"l'accès à ton compte répond à la question de sécurité ci-dessous."
+msgstr ""
+
+#: Template/Users/check.ctp:17
+msgid "Déverrouiller mon compte"
+msgstr ""
+
+#: Template/Users/check.ctp:37
+msgid "Informations"
+msgstr ""
+
+#: Template/Users/check.ctp:40
+msgid ""
+"Si tu as oublié la réponse à la question de sécurité, merci de prendre "
+"contact par mail avec les membres de l'équipe."
+msgstr ""
+
+#: Template/Users/security.ctp:2
+msgid "Sécurise ton compte avant de poursuivre ton aventure.."
+msgstr ""
+
+#: Template/Users/security.ctp:4
+msgid ""
+"En sécurisant ton compte par une question de sécurité, tu protèges ton "
+"compte contre les connexions depuis un autre ordinateur que le tien."
+msgstr ""
+
+#: Template/Users/security.ctp:10
+msgid "Choisis ta question de sécurité"
+msgstr ""
+
+#: Template/Users/security.ctp:14
+msgid ""
+"Choisis une question à laquelle tu seras capable de répondre si ton compte "
+"est verrouillé."
+msgstr ""
+
+#: Template/Users/security.ctp:20
+msgid "Réponse à la question de sécurité"
+msgstr ""
+
+#: Template/Users/security.ctp:24
+msgid ""
+"Ta réponse doit être personnelle et personne d'autre que toi devra la "
+"connaître."
+msgstr ""
+
+#: Template/Users/security.ctp:32
+msgid "Sécuriser mon compte"
+msgstr ""
+
+#: Template/Users/security.ctp:36
+msgid "Poursuivre sans sécuriser mon compte"
+msgstr ""
+
+#: View/Helper/PaginatorHelper.php:1214
+msgid "View"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:496
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:157
+#: Http/Middleware/CsrfProtectionMiddleware.php:190
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:161
+#: Http/Middleware/CsrfProtectionMiddleware.php:194
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:258
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:260
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2389
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2400
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:90
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:92
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:94
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:96
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:88
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr "{0} à partir de maintenant"
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr "{0} depuis"
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr "{0} après"
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr "{0} avant"
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr "a l'instant"
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr "il y a quelques secondes"
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr "il y a une minute"
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr "il y a une heure"
+
+#: I18n/RelativeTimeFormatter.php:154;332
+msgid "about a day ago"
+msgstr "il y a un jour"
+
+#: I18n/RelativeTimeFormatter.php:155;333
+msgid "about a week ago"
+msgstr "il y a une semaine"
+
+#: I18n/RelativeTimeFormatter.php:156;334
+msgid "about a month ago"
+msgstr "il y a un mois"
+
+#: I18n/RelativeTimeFormatter.php:157;335
+msgid "about a year ago"
+msgstr "il y a un an"
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr "dans environ une seconde"
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr "dans environ une minute"
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr "dans environ une heure"
+
+#: I18n/RelativeTimeFormatter.php:171;346
+msgid "in about a day"
+msgstr "dans environ un jour"
+
+#: I18n/RelativeTimeFormatter.php:172;347
+msgid "in about a week"
+msgstr "dans environ une semaine"
+
+#: I18n/RelativeTimeFormatter.php:173;348
+msgid "in about a month"
+msgstr "dans environ un mois"
+
+#: I18n/RelativeTimeFormatter.php:174;349
+msgid "in about a year"
+msgstr "dans environ un an"
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr "aujourd'hui"
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr "%s"
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47;126;316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] "{0} année"
+msgstr[1] "{0} années"
+
+#: I18n/RelativeTimeFormatter.php:51;129;319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] "{0} mois"
+msgstr[1] "{0}mois"
+
+#: I18n/RelativeTimeFormatter.php:57;132;322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] "{0} semaine"
+msgstr[1] "{0} semaines"
+
+#: I18n/RelativeTimeFormatter.php:59;135;325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] "{0} jour"
+msgstr[1] "{0} jours"
+
+#: I18n/RelativeTimeFormatter.php:64;138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] "{0} heure"
+msgstr[1] "{0} heures"
+
+#: I18n/RelativeTimeFormatter.php:68;141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] "{0} minute"
+msgstr[1] "{0} minutes"
+
+#: I18n/RelativeTimeFormatter.php:72;144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] "{0} seconde"
+msgstr[1] "{0} secondes"
+
+#: ORM/RulesChecker.php:57
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:104
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:128
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:902
+msgid "and"
+msgstr "et"
+
+#: Validation/Validator.php:111
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:112
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:1885
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1040
+msgid "New %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1043
+msgid "Edit %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1920
+msgid "Submit"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:795
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "January"
+msgstr "Janvier"
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "February"
+msgstr "Février"
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "March"
+msgstr "Mars"
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "April"
+msgstr "Avril"
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "May"
+msgstr "Mai"
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "June"
+msgstr "Juin"
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "July"
+msgstr "Juillet"
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "August"
+msgstr "Août"
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "September"
+msgstr "Septembre"
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "October"
+msgstr "Octobre"
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "November"
+msgstr "Novembre"
+
+#: View/Widget/DateTimeWidget.php:551
+msgid "December"
+msgstr "Décembre"

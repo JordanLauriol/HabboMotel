@@ -1,0 +1,50 @@
+#notificationsComposer {
+  width: 250px;
+  position: absolute;
+  bottom: 9%;
+  right: 5px;
+  z-index: 100;
+}
+
+#notificationsComposer .notification-content {
+  width: 100%;
+  min-height: 50px;
+  background: #02353c;
+  border: 2px solid #267b91;
+  border-radius: 5px;
+  box-shadow: 0 0 0 1px rgba(0,0,0,.3);
+  margin-top: 15px;
+  word-wrap: break-word;
+}
+
+#notificationsComposer .notification-content .close {
+  position: absolute;
+  margin-left: -7px;
+  margin-top: -10px;
+  z-index: 105;
+  cursor: pointer;
+}
+
+#notificationsComposer .notification-content .close:hover {
+  -webkit-filter: drop-shadow(0 1px 0 #FFF) drop-shadow(0 -1px 0 #FFF) drop-shadow(1px 0 0 #FFF) drop-shadow(-1px 0 0 #FFF) drop-shadow(0 0 10px transparent);
+}
+
+#notificationsComposer .notification-content .message-content {
+  padding: 10px;
+  color: #FFF;
+  font-size: 13px;
+}
+
+#notificationsComposer .notification-content .message-content span {
+  font-weight: 700;
+  text-shadow: 1px 1px 1px #000,1px 1px 0 rgba(0,0,0,.6);
+}
+
+#notificationsComposer .notification-content .message-content a {
+    color: #FFF !important;
+    opacity: .8;
+}
+
+#notificationsComposer .notification-content .message-content a:hover {
+    opacity: 1;
+}

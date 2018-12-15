@@ -1,0 +1,303 @@
+#habboClubComposer {
+    display: none;
+    position: absolute;
+    z-index: 100;
+    right: 200px;
+    width: 100px;
+    background: rgba(28, 28, 26, 0.7);
+    border: 2px solid rgb(65, 64, 61);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 12px;
+    color: #00c7c6;
+    cursor: pointer;
+    text-align: center;
+    font-weight: bold;
+    padding: 3px 0px 5px 0px;
+}
+
+#habboClubComposer:hover {
+  color: #00ffff;
+}
+
+.subscribe {
+  display: block;
+  text-shadow: 0px 0px 1px #000, 0px 0px 0 rgba(0,0,0,.6);
+  margin-top: -3px;
+}
+
+
+#habboClubCenter {
+    width: 459px;
+}
+
+
+#habboClubCenter .modal-body {
+    font-size: 14px;
+    max-height: 600px;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 0;
+}
+
+#habboClubCenter .modal-body .header {
+    background:url("/img/habboclub/header.png");
+    height:42px;
+}
+
+#habboClubCenter .modal-body .subheader {
+    background:url("/img/habboclub/subheader.png");
+    background-repeat:no-repeat;
+    height:137px;
+}
+
+#habboClubCenter .modal-body .buttons {
+    float:left;
+    margin:25px;
+}
+
+#habboClubCenter .modal-body .btn-blue {
+    background:linear-gradient(#2f6ba2 45%, #285a88 45%);
+    box-shadow:0 0 0 3px #285a88 inset;
+    border:2px solid #000;
+    border-radius:5px;
+    outline:none;
+    cursor:pointer;
+    text-align:left;
+    width:185px;
+    padding:9px;
+    color:#FFF;
+    font-weight:bold;
+    font-size:13px;
+}
+
+#habboClubCenter .modal-body .btn-blue img {
+    position:absolute;
+    margin:0 0 0 5px;
+}
+
+#habboClubCenter .modal-body .btn-blue:hover {
+    background:linear-gradient(#3B78B0 45%, #356B9C 45%);
+    box-shadow:0 0 0 3px #356B9C inset;
+}
+
+#habboClubCenter .modal-body .btn-red {
+    background:linear-gradient(#b53f31 45%, #893126 45%);
+    box-shadow:0 0 0 3px #893126 inset;
+    border:2px solid #000;
+    border-radius:5px;
+    outline:none;
+    cursor:pointer;
+    text-align:left;
+    width:155px;
+    padding:9px;
+    color:#FFF;
+    font-weight:bold;
+    font-size:13px;
+    margin:10px 0 0 0;
+}
+
+#habboClubCenter .modal-body .btn-red img {
+    position:absolute;
+    margin:-2px 0 0 7px;
+}
+
+#habboClubCenter .modal-body .btn-red:hover {
+    background:linear-gradient(#C55446 45%, #9B4439 45%);
+    box-shadow:0 0 0 3px #9B4439 inset;
+}
+
+#habboClubCenter .modal-body .user img {
+    float:right;
+    margin:-15px 0 0 0;
+}
+
+#habboClubCenter .modal-body .modal-container {
+    padding:10px;
+    height: auto;
+}
+
+#habboClubCenter .modal-body .advantages {
+    height:125px;
+}
+
+#habboClubCenter .modal-body .advantages img {
+    border-radius:5px;
+    margin:0 0 7px -7px;
+    float:left;
+}
+
+#habboClubCenter .modal-body .advantages h3 {
+    font-size:15px;
+    font-weight:bold;
+    color:#3c92b5;
+    margin:0;
+}
+
+#habboClubCenter .modal-body .advantages p {
+    font-size:12px;
+    color:#333;
+}
+
+#habboClubCenter .modal-body .advantages span {
+    color:#3c92b5;
+    font-size:11px;
+    text-decoration:underline;
+    cursor:pointer;
+}
+
+#habboClubCenter .modal-body .gifts {
+    background:#50ba23;
+    border-radius:5px;
+    width:auto;
+    padding:10px;
+    margin: 0 0 10px 0;
+    color:#FFF;
+}
+
+#habboClubCenter .modal-body .gifts h3 {
+    font-size:15px;
+    font-weight:bold;
+    margin:0;
+}
+
+#habboClubCenter .modal-body .gifts p {
+    font-size:13px;
+    margin:0;
+}
+
+#habboClubCenter .modal-body .title-subscribe {
+    background:#d6d6d6;
+    border:1px solid #838383;
+    border-radius:5px;
+    width:318px;
+    padding:5px;
+    margin:0 0 10px 0;
+    float:left;
+}
+
+#habboClubCenter .modal-body .title-price {
+    background:#838383;
+    border-radius:5px;
+    padding:5px;
+    color:#FFF;
+    font-weight:bold;
+    font-size:15px;
+}
+
+#habboClubCenter .modal-body .title-price img {
+    float:left;
+    margin-right:5px;
+}
+
+#habboClubCenter .modal-body .price {
+    color:#333;
+    margin:10px 0 8px 5px;
+    font-weight:bold;
+}
+
+#habboClubCenter .modal-body .diamond {
+    position:absolute;
+    margin:2px 0 0 2px;
+}
+
+#habboClubCenter .modal-body .hc img {
+    border-radius:5px;
+    margin:10px 0 0 10px;
+}
+
+
+#earnHabboClub {
+    width: 459px;
+}
+
+
+#earnHabboClub .modal-body {
+    font-size: 13px;
+    max-height: 500px;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding:0;
+}
+
+#earnHabboClub .modal-body .habbo-header {
+    background:url("/img/habboclub/1.png");
+    border-bottom:1px solid #000;
+    height:80px;
+}
+
+#earnHabboClub .modal-body .habbo-header h1 {
+    font-size:20px;
+    font-weight:bold;
+    margin:0;
+    color:#FFF;
+    padding:30px;
+}
+
+#earnHabboClub .modal-body .habbo-content {
+    padding: 15px 15px 0 15px;
+}
+
+#earnHabboClub .modal-body .habbo-content p {
+    font-weight:500;
+    color:#000;
+    width:300px;
+    float:left;
+    margin: 10px 0 0 0;
+}
+
+#earnHabboClub .modal-body .habbo-content img {
+    float:right;
+    margin:-64px 15px 0 0;
+}
+
+#earnHabboClub .modal-body .habbo-button {
+    margin-bottom: 10px;
+}
+
+#earnHabboClub .modal-body .habbo-button .btn {
+    background:linear-gradient(#019101 45%, #008100 45%);
+    box-shadow:0 0 0 3px #008100 inset;
+    border:2px solid #000;
+    border-radius:5px;
+    outline:none;
+    cursor:pointer;
+    text-align:center;
+    width:185px;
+    padding:9px;
+    color:#FFF;
+    font-weight:bold;
+    margin:20px 0 0 15px;
+    font-size: 13px;
+}
+
+#earnHabboClub .modal-body .habbo-button .btn:hover {
+    background: linear-gradient(#0aa50b 50%, #0c900a 50%);
+    box-shadow:0 0 0 3px #0c900a inset;
+}
+
+
+#advantagesHabboClub {
+    width: 459px;
+}
+
+
+#advantagesHabboClub .modal-body {
+    font-size: 13px;
+    max-height: 500px;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding:0;
+}
+
+#advantagesHabboClub .modal-body .header {
+    background:url("/img/habboclub/header.png");
+    height:42px;
+}
+
+#advantagesHabboClub .modal-body .habbo-content {
+    padding: 15px;
+}

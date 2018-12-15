@@ -1,0 +1,15 @@
+.socyalize-login {
+	position: absolute;
+	padding: 10px;
+	border: 1px solid #ff5252;
+	text-decoration: none;
+	color: #FFF;
+	background-color: #ff5252;
+	font-family: 'Roboto';
+	font-size: 13px;
+	border-radius: 3px;
+}
+
+.socyalize-login:hover {
+    /* Code ici, si vous souhaitez un effet hover. */
+}

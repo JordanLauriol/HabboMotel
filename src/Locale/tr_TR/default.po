@@ -1,0 +1,2764 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-05-31 17:51+0300\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.7\n"
+
+#: src/Controller/AjaxController.php:313
+msgid "Ta question ne peut pas être vide."
+msgstr "Sorunuz boş olamaz."
+
+#: src/Controller/AjaxController.php:314
+msgid "Ta question doit faire plus de 10 caractères."
+msgstr "Sorunuz 10 karakterden uzun olmalı."
+
+#: src/Controller/AjaxController.php:333;360
+msgid "Tu dois être le propriétaire de l'appartement pour lancer un sondage."
+msgstr "Anketi başlatmak için odanın sahibi olmalısınız."
+
+#: src/Controller/AjaxController.php:352
+msgid "Ton sondage a été lancé dans ton appartement."
+msgstr "Anketiniz odanızda başlatıldı."
+
+#: src/Controller/AjaxController.php:391
+msgid "Tu as arrêté ton sondage, les Habbos ne peuvent plus voter."
+msgstr "Anketi durdurdun, Habbo'lar artık oy kullanamaz."
+
+#: src/Controller/AjaxController.php:558;656
+msgid "Tu dois être connecté sur le site pour utiliser cette fonctionnalité."
+msgstr "Bu özelliği kullanmak için siteye giriş yapmış olmanız gerekir."
+
+#: src/Controller/AjaxController.php:564
+msgid "Tu n'as pas le rang requis pour utiliser cette fonctionnalité."
+msgstr "Bu özelliği kullanmak için gereken dereceye sahip değilsiniz."
+
+#: src/Controller/AjaxController.php:578
+msgid "Le règlement de ton appart a été défini."
+msgstr "Odanızın yerleşimi tanımlandı."
+
+#: src/Controller/AjaxController.php:583
+msgid "Le règlement de ton appart a été désactivé."
+msgstr "Odanızın yerleşimi devre dışı bırakıldı."
+
+#: src/Controller/AjaxController.php:589
+msgid "Une erreur est survenue lors de la sauvegarde du règlement."
+msgstr "Ödeme kaydedilirken bir hata oluştu."
+
+#: src/Controller/AjaxController.php:665
+msgid "Tu dois être membre du Habbo Club pour utiliser cette fonctionnalité."
+msgstr "Bu özelliği kullanmak için bir Habbo Club üyesi olmalısınız."
+
+#: src/Controller/AjaxController.php:674
+msgid "Tu n'as pas assez de diamants pour utiliser cette fonctionnalité."
+msgstr "Bu özelliği kullanmak için yeterince elmasınız yok."
+
+#: src/Controller/AjaxController.php:681
+msgid "Achat d'une promotion d'apparts à 10 diamants."
+msgstr "10 elmastan bir promosyon satın alın."
+
+#: src/Controller/AjaxController.php:684
+msgid "Tous les Habbos connectés ont reçu une notification."
+msgstr "Tüm bağlı Habbo'lar haberdar edildi."
+
+#: src/Controller/AjaxController.php:709;715
+#: src/Template/Element/Header/navbar.ctp:185
+msgid "Rejoins-nous"
+msgstr "Bize katılın"
+
+#: src/Controller/AjaxController.php:739
+msgid "%s minutes"
+msgstr "%s dakika"
+
+#: src/Controller/AjaxController.php:741
+msgid "%s heures"
+msgstr "%s saat"
+
+#: src/Controller/AjaxController.php:747
+msgid "%s mois"
+msgstr "%s ay"
+
+#: src/Controller/AjaxController.php:750
+msgid "%s jours"
+msgstr "%s gün"
+
+#: src/Controller/AjaxController.php:838
+msgid "Une erreur est survenue avec votre compte."
+msgstr "Hesabınızla ilgili bir hata oluştu."
+
+#: src/Controller/AjaxController.php:845
+msgid ""
+"Tu n'as pas {diamonds} diamants dans ton porte-monnaie pour adhérer au "
+"HabboCLUB"
+msgstr "HabboCLUB'e katılmak için yeterli {diamonds} elmasınız yok"
+
+#: src/Controller/AjaxController.php:891
+msgid "Souscription à un abonnement HC de {days} jours pour {cost} diamants"
+msgstr "{Cost} elmasları için {days} gün tutarında bir HC aboneliği"
+
+#: src/Controller/AjaxController.php:897
+msgid ""
+"Félicitations, tu viens de souscrire à un abonnement au Habbo CLUB de {days} "
+"jours."
+msgstr "Tebrikler, sadece {days} gün Habbo CLUB aboneliğine abone oldunuz."
+
+#: src/Controller/AppController.php:53
+msgid "Tu dois te connecter pour accéder à cette partie du site."
+msgstr "Sitenin bu bölümüne erişmek için giriş yapmalısınız."
+
+#: src/Controller/AppController.php:123
+msgid "Ton compte a été désactivé par la haute administration."
+msgstr "Hesabınız üst yönetim tarafından devre dışı bırakıldı."
+
+#: src/Controller/AppController.php:155
+msgid ""
+"HabboMotel - Fais-toi de nouveaux amis, crée ton Habbo, adopte des animaux "
+"de compagnie, organise des grandes soirées! Amuse-toi gratuitement dès "
+"maintenant!"
+msgstr ""
+"HabboMotel - Yeni arkadaşlar edinin, Habbo karakterinizi yaratın, evcil "
+"hayvanlar edinin, büyük partiler düzenleyin! Şimdi ücretsiz eğlenin!"
+
+#: src/Controller/AppController.php:157
+msgid ""
+"Habbomotel, habbomotel, Habbo Motel, HabboMotel, habbo, Habbo, Habbo hotel, "
+"habbomotel.com, habbomotel.in, habbo.fr, habbo retro, habbo retro gratuit, "
+"virtuel, monde, réseau social, habbo gratuit, habbo credit, habbo france, "
+"credit, credits, gratuit, communautée, avatar, chat, connectée, adolescence, "
+"jeu de rôle, rejoindre, social, groupes, forums, sécuritée, jouer, jeux, "
+"amis, rares, ados, jeunes, collector, collectionner, créer, connecter, "
+"meuble, mobilier, animaux, déco, design, appart, décorer, partager, badges, "
+"musique, chat vip, fun, sortir, mmo, mmorpg, jeu massivement multijoueur, "
+msgstr ""
+
+#: src/Controller/AppController.php:158
+msgid ""
+"Habbomotel, habbomotel, Habbo Motel, HabboMotel, habbo, Habbo, Habbo hotel, "
+"habbomotel.com, habbomotel.in, habbo.com.br, habbo pirata, habbo pirata "
+"grátis, pirata, rede social, habbo grátis,  habbo créditos, habbo brasil, "
+"habbo portugal, crédito, créditos, gratuito, comunidade, avatar, chat, "
+"conectado, adolescente, atividades, registrar, social, grupos, forúns, "
+"segurança, jogar, jogo, amigos, raros, adolescente, jovens, colecionar, "
+"colecionador, criar, conectar, quarto, mobis, animais, decoração, design, "
+"quartos, decorar, partilhar, emblemas, música, chat hc, festa, sair, rpg, "
+"eventos, novidades, amizades"
+msgstr ""
+"Habbo Hotel, Habbo Hotel, Habbo Hotel, Habbo Hotel, Habbo Hotel, Habbo "
+"Hotel, Habbo Hotel, Habbo Hotel, Habbo Hotel, Habbo Hotel, Habbo Hotel, "
+"Habbo Hotel, Habbo Hotel, Habbo Hotel habbo türkiye kredi kredisi ücretsiz "
+"topluluk avatar sohbet bağlı genç etkinlik günlüğü sosyal gruplar forniks "
+"güvenlik oynama oyunu arkadaşlar nadir genç koleksiyoncu toplayıcı "
+"oluşturmak, bağlamak, yatak odası, mobis, hayvanlar, dekorasyon, tasarım, "
+"odalar, dekore, paylaşmak, rozetleri, müzik, sohbet hc, parti, dışarı, rpg, "
+"olaylar, haberler, arkadaşlıklar"
+
+#: src/Controller/ArticlesController.php:82
+#: src/Template/Element/Footer/footer.ctp:23
+msgid "Les articles"
+msgstr "Haberler"
+
+#: src/Controller/ArticlesController.php:173
+msgid "Ton commentaire a été ajouté."
+msgstr "Yorumunuz eklendi."
+
+#: src/Controller/AvatarsController.php:45
+msgid "Paramètres générales"
+msgstr "Genel ayarlar"
+
+#: src/Controller/AvatarsController.php:54
+msgid "Les changements seront opérationnels à ta reconnexion dans l'hôtel."
+msgstr "Otele yeniden bağlandığınızda değişiklikler çalışmaya devam edecektir."
+
+#: src/Controller/AvatarsController.php:66 src/Template/Avatars/password.ctp:6
+#: src/Template/Element/Avatars/Settings/nav.ctp:17
+#: src/Template/Element/Header/navbar.ctp:38
+msgid "Changement de mot de passe"
+msgstr "Şifre değişikliği"
+
+#: src/Controller/AvatarsController.php:74
+msgid "Ton mot de passe a été modifié."
+msgstr "Şifreniz değiştirildi."
+
+#: src/Controller/AvatarsController.php:77 src/Controller/HomeController.php:31
+msgid "Les mots de passe ne sont pas identique."
+msgstr "Şifreler aynı değildir."
+
+#: src/Controller/AvatarsController.php:90 src/Template/Avatars/security.ctp:6
+#: src/Template/Element/Avatars/Settings/nav.ctp:23
+#: src/Template/Element/Header/navbar.ctp:41
+msgid "Protection du compte"
+msgstr "Hesap Koruması"
+
+#: src/Controller/AvatarsController.php:100
+#: src/Controller/UsersController.php:107
+msgid ""
+"Ton compte est maintenant sécurisé contre les connexions depuis un autre "
+"ordinateur que le tien."
+msgstr ""
+"Hesabınız artık sizden başka bir bilgisayardaki bağlantılara karşı güvenli."
+
+#: src/Controller/AvatarsController.php:107
+msgid "La protection de ton compte a été désactivé."
+msgstr "Hesap korumanız devre dışı bırakıldı."
+
+#: src/Controller/AvatarsController.php:117 src/Template/Avatars/history.ctp:5
+#: src/Template/Element/Avatars/Settings/nav.ctp:29
+#: src/Template/Element/Header/navbar.ctp:44
+msgid "Historique de connexions"
+msgstr "Bağlantı Geçmişi"
+
+#: src/Controller/AvatarsController.php:132 src/Template/Avatars/network.ctp:6
+#: src/Template/Element/Avatars/Settings/nav.ctp:35
+#: src/Template/Element/Header/navbar.ctp:47
+msgid "Gestion du profil social"
+msgstr "Sosyal Profil Yönetimi"
+
+#: src/Controller/AvatarsController.php:141
+msgid "Ton profil social est désormais visible par les autres Habbos."
+msgstr "Sosyal profiliniz artık diğer Habbo'lar tarafından görülebilir."
+
+#: src/Controller/AvatarsController.php:146
+msgid "Ton profil social est désormais invisible pour les autres Habbos."
+msgstr "Sosyal profiliniz artık diğer Habbo'lara görünmez."
+
+#: src/Controller/AvatarsController.php:157
+msgid "Une erreur est survenue lors du changement de photo de profil."
+msgstr "Profil resmini değiştirirken bir hata oluştu."
+
+#: src/Controller/AvatarsController.php:184
+msgid ""
+"Ton profil social a été mis à jour, en revanche ta photo de profil a été "
+"soumise à une validation, elle apparaîtra d'ici peu sur ton profil."
+msgstr ""
+"Sosyal profiliniz güncellendi, ancak profil resminiz doğrulama için "
+"gönderildi, kısa bir süre sonra profilinizde görünecektir."
+
+#: src/Controller/AvatarsController.php:189
+msgid "Ton profil social a été mis à jour."
+msgstr "Sosyal profiliniz güncellendi."
+
+#: src/Controller/CommentsController.php:28
+msgid "Ton commentaire a été supprimé."
+msgstr "Yorumunuz kaldırıldı."
+
+#: src/Controller/CommunityController.php:34
+msgid "Les staffs"
+msgstr "Personeller"
+
+#: src/Controller/CommunityController.php:43
+msgid "Dernière connexion il y a {0}"
+msgstr "Son ziyaret {0}"
+
+#: src/Controller/CommunityController.php:84
+msgid "Le Motel"
+msgstr "Otel"
+
+#: src/Controller/CommunityController.php:124;157;190
+msgid "Patiente encore un peu.."
+msgstr "Hala biraz bakımda"
+
+#: src/Controller/CommunityController.php:125;158;191
+msgid "ça mouline.. et ça mouline.."
+msgstr "öğütüyor ... ve öğütüyor .."
+
+#: src/Controller/CommunityController.php:212
+msgid "Oops! Tu as été deconnecté de l'hôtel"
+msgstr "Hata! Otelden ayrıldınız"
+
+#: src/Controller/CommunityController.php:213
+msgid "Une erreur est survenue durant ta navigation dans l'hôtel"
+msgstr "Otelde gezinirken bir hata oluştu"
+
+#: src/Controller/ForumController.php:51
+#: src/Template/Element/Header/tabs.ctp:43;45 src/Template/Forum/category.ctp:2
+#: src/Template/Forum/thread.ctp:2
+msgid "Forum"
+msgstr "Forum"
+
+#: src/Controller/ForumController.php:52 src/Template/Forum/index.ctp:3
+msgid ""
+"Le forum est un lieu d'échanges sur HabboMotel où tu peux dire tout ce que "
+"tu veux."
+msgstr ""
+"Forum, istediğiniz her şeyi söyleyebileceğiniz, HabboMotel üzerinde bir "
+"değişim yeridir."
+
+#: src/Controller/ForumController.php:164
+msgid "Tu dois attendre 2 minutes avant de créer une nouvelle discussion."
+msgstr "Yeni bir tartışma oluşturmadan önce 2 dakika beklemeniz gerekiyor."
+
+#: src/Controller/ForumController.php:185
+msgid "Vous devez écrire un message d'au moins 10 caractères."
+msgstr "En az 10 karakterden oluşan bir mesaj yazmalısınız."
+
+#: src/Controller/ForumController.php:197
+msgid "Une nouvelle discussion a été lancée par %s sur le forum."
+msgstr "Forumda %s tarafından yeni bir tartışma başlatıldı."
+
+#: src/Controller/ForumController.php:205 src/Template/Forum/category.ctp:9
+#: src/Template/Forum/create_thread.ctp:3
+msgid "Créer une nouvelle discussion"
+msgstr "Yeni tartışma oluştur"
+
+#: src/Controller/ForumController.php:206
+msgid ""
+"Participe à la vie du forum de HabboMotel en créant une nouvelle discussion."
+msgstr "Yeni bir tartışma oluşturarak HabboMotel forumuna katılın."
+
+#: src/Controller/ForumController.php:244
+msgid "Tu dois attendre 30 secondes pour répondre à une nouvelle discussion."
+msgstr "Yeni bir tartışmaya cevap vermek için 30 saniye beklemeniz gerekiyor."
+
+#: src/Controller/ForumController.php:255
+msgid "Ta réponse doit faire au minimum 3 caractères"
+msgstr "Cevabınız en az 3 karakter olmalıdır"
+
+#: src/Controller/ForumController.php:296
+msgid "Créer une nouvelle réponse"
+msgstr "Yeni bir cevap oluştur"
+
+#: src/Controller/ForumController.php:338;357
+msgid "L'action sur la discussion a été réalisé."
+msgstr "Tartışmadaki eylem gerçekleştirildi."
+
+#: src/Controller/HomeController.php:24
+msgid "Explore un hôtel insolite avec des personnes incroyables"
+msgstr "Şaşırtıcı insanlarla alışılmadık bir oteli keşfedin"
+
+#: src/Controller/HomeController.php:43
+msgid "Tu dois attendre 15 minutes pour te ré-inscrire à nouveau."
+msgstr "Tekrar kayıt yaptırmak için 15 dakika beklemeniz gerekiyor."
+
+#: src/Controller/HomeController.php:50
+msgid "le %s à %s"
+msgstr ""
+
+#: src/Controller/HousekeepingController.php:56
+#: src/Template/Element/Housekeeping/menu.ctp:8
+msgid "Tableau de bord"
+msgstr "Gösterge paneli"
+
+#: src/Controller/HousekeepingController.php:57
+msgid "Statistiques générales de l'hôtel"
+msgstr "Otelin genel istatistikleri"
+
+#: src/Controller/HousekeepingController.php:82
+msgid "Permission refusée"
+msgstr "İzin reddedildi"
+
+#: src/Controller/HousekeepingController.php:83
+msgid ""
+"Vous n'avez pas la permission nécessaire pour accéder à cette partie de "
+"l'administration."
+msgstr "Yönetimin bu bölümüne erişim izniniz yok."
+
+#: src/Controller/HousekeepingController.php:96
+#: src/Template/Layout/error.ctp:35;65
+msgid "Une erreur est survenue"
+msgstr "Bir hata oluştu"
+
+#: src/Controller/HousekeepingController.php:97
+msgid "Il semblerait que l'action que vous tentez de réaliser n'existe pas."
+msgstr "Yapmaya çalıştığınız eylem mevcut değil gibi görünüyor."
+
+#: src/Controller/HousekeepingController.php:110
+#: src/Template/Element/Housekeeping/menu.ctp:18
+#: src/Template/Housekeeping/ban.ctp:10
+msgid "Bannir un Habbo"
+msgstr "Habbomotel yasağı"
+
+#: src/Controller/HousekeepingController.php:111
+msgid "Maintien la Habbo attitude en sanctionnant les Habbos perturbateurs."
+msgstr "Terbiyesiz Habbo'yu cezalandırarak Habbo tavrını koru."
+
+#: src/Controller/HousekeepingController.php:130;221;427
+msgid "Cet Habbo n'existe pas."
+msgstr "Bu Habbo mevcut değil."
+
+#: src/Controller/HousekeepingController.php:139
+msgid "Cet Habbo ne peut pas être banni."
+msgstr "Bu Habbo yasaklanamaz."
+
+#: src/Controller/HousekeepingController.php:155;229
+msgid "Cet Habbo n'a pas accédé à l'hôtel pour le moment."
+msgstr "Bu Habbo henüz otele katılmamış."
+
+#: src/Controller/HousekeepingController.php:169
+msgid "Cet Habbo est déjà banni pour le même type d'exclusion."
+msgstr "Bu Habbo zaten aynı tür dışlama için yasaklandı."
+
+#: src/Controller/HousekeepingController.php:173
+msgid "Définissez une raison plus explicite que celle-ci."
+msgstr "Bundan daha açıklayıcı bir neden tanımlayın."
+
+#: src/Controller/HousekeepingController.php:185
+msgid "%s a banni %s pour la raison %s"
+msgstr "%s nedeni %s engellendi"
+
+#: src/Controller/HousekeepingController.php:193
+msgid ""
+"%s a été banni pour la raison: %s, l'exclusion prendra effet à la prochaine "
+"connexion du Habbo."
+msgstr ""
+"%s nedeniyle yasaklandı: %s, bir sonraki Habbo girişinde hariç tutma "
+"gerçekleşecek."
+
+#: src/Controller/HousekeepingController.php:205
+#: src/Template/Element/Housekeeping/menu.ctp:19
+#: src/Template/Housekeeping/unban.ctp:10
+msgid "Débannir un Habbo"
+msgstr "Habbo yasağı kaldır"
+
+#: src/Controller/HousekeepingController.php:206
+msgid "Débannissez un Habbo si le cas est légitime"
+msgstr "Saygısız ise bir Habbo'yu yasakla"
+
+#: src/Controller/HousekeepingController.php:245
+msgid "Cet Habbo n'est pas banni."
+msgstr "Bu Habbo yasaklandı."
+
+#: src/Controller/HousekeepingController.php:255
+msgid "%s a débanni %s"
+msgstr "%s banı kaldır %s"
+
+#: src/Controller/HousekeepingController.php:259
+msgid "%s a été débanni pour tous les types d'exclusions."
+msgstr "% s, her tür istisna için yasağı kaldırıldı."
+
+#: src/Controller/HousekeepingController.php:271
+msgid "Liste des articles"
+msgstr "Haber listesi"
+
+#: src/Controller/HousekeepingController.php:272
+msgid "Gérer les articles publiés sur le site"
+msgstr "Sitede yayınlanan haberleri yönetin"
+
+#: src/Controller/HousekeepingController.php:290
+#: src/Template/Element/Housekeeping/menu.ctp:41
+#: src/Template/Housekeeping/create_article.ctp:11
+msgid "Créer un article"
+msgstr "Bir haber oluştur"
+
+#: src/Controller/HousekeepingController.php:291
+msgid "Informer les Habbos sur l'actualité de l'hôtel"
+msgstr "Habbo'ları otel haberleri hakkında bilgilendirin"
+
+#: src/Controller/HousekeepingController.php:308
+msgid "Rédaction d'un article %s"
+msgstr "Bir makale yazımı %s"
+
+#: src/Controller/HousekeepingController.php:317
+msgid "Ton article vient d'être publié sur le site."
+msgstr "Haberiniz sitede yayınlandı."
+
+#: src/Controller/HousekeepingController.php:330
+msgid "Supprimer un article"
+msgstr "Bir haberi sil"
+
+#: src/Controller/HousekeepingController.php:337;346
+msgid "Une erreur est survenue lors de la suppression d'un article."
+msgstr "Haber silinirken bir hata oluştu."
+
+#: src/Controller/HousekeepingController.php:350
+msgid "Suppression de l'article %s"
+msgstr "%s haber siliniyor"
+
+#: src/Controller/HousekeepingController.php:353
+msgid "L'article a été supprimé avec succès."
+msgstr "Haber başarıyla silindi."
+
+#: src/Controller/HousekeepingController.php:364
+msgid "Editer un article"
+msgstr "Bir haberi düzenle"
+
+#: src/Controller/HousekeepingController.php:365
+msgid "Editer un article comme bon vous semble"
+msgstr "Bir haberi uygun gördüğünüz gibi düzenleyin"
+
+#: src/Controller/HousekeepingController.php:371;381
+msgid "Une erreur est survenue lors de l'edition d'un article."
+msgstr "Haber düzenlenirken bir hata oluştu."
+
+#: src/Controller/HousekeepingController.php:391
+msgid "Edition de l'article %s"
+msgstr "%s haberini düzenleme"
+
+#: src/Controller/HousekeepingController.php:396
+msgid "L'article a été modifié avec succès"
+msgstr "Haber başarıyla düzenlendi"
+
+#: src/Controller/HousekeepingController.php:408
+#: src/Template/Element/Housekeeping/menu.ctp:47
+msgid "Rechercher un utilisateur"
+msgstr "Bir kullanıcı ara"
+
+#: src/Controller/HousekeepingController.php:409
+msgid "Trouver les détails dont vous avez besoin sur un utilisateur"
+msgstr "Bir kullanıcıda ihtiyacınız olan ayrıntıları bulun"
+
+#: src/Controller/HousekeepingController.php:446
+msgid "Edition de l'utilisateur %s"
+msgstr "Kullanıcı Sürümü %s"
+
+#: src/Controller/HousekeepingController.php:449
+msgid "Les modifications ont été réalisées avec succès."
+msgstr "Değişiklikler başarıyla tamamlandı."
+
+#: src/Controller/HousekeepingController.php:464
+#: src/Template/Element/Housekeeping/menu.ctp:30
+#: src/Template/Housekeeping/event.ctp:10
+msgid "Lancer une animation"
+msgstr "Bir animasyon başlat"
+
+#: src/Controller/HousekeepingController.php:465
+msgid "Tous les utilisateurs en ligne recevront une alerte"
+msgstr "Tüm çevrimiçi kullanıcılar bir uyarı alacak"
+
+#: src/Controller/HousekeepingController.php:489
+msgid "L'alerte d'animation a été envoyé dans l'hôtel."
+msgstr "Animasyon uyarısı otele gönderildi."
+
+#: src/Controller/HousekeepingController.php:491
+msgid "Une erreur est survenue lors de l'envoie de l'alerte."
+msgstr "Uyarı gönderilirken bir hata oluştu."
+
+#: src/Controller/HousekeepingController.php:495
+msgid "%s a lancer une alerte: %s"
+msgstr "%s Bir uyarı oluşturmak için%s"
+
+#: src/Controller/HousekeepingController.php:506
+#: src/Template/Element/Housekeeping/menu.ctp:23
+msgid "Photos"
+msgstr "Resimler"
+
+#: src/Controller/HousekeepingController.php:507
+msgid "Validation des photos de profil"
+msgstr "Profil fotoğraflarının geçerliliği"
+
+#: src/Controller/HousekeepingController.php:528
+msgid "La photo de profil a été validé."
+msgstr "Profil resmi doğrulandı."
+
+#: src/Controller/HousekeepingController.php:536
+msgid "La photo de profil a été refusé."
+msgstr "Profil resmi reddedildi."
+
+#: src/Controller/NotificationsController.php:22;45;60
+#: src/Template/Notifications/history.ctp:1
+msgid "Historique des notifications"
+msgstr "Bildirim Geçmişi"
+
+#: src/Controller/PrizesController.php:21
+#: src/Template/Element/Header/navbar.ctp:87
+msgid "Par animations"
+msgstr "Animasyonlar"
+
+#: src/Controller/PrizesController.php:36
+#: src/Template/Element/Header/navbar.ctp:97
+msgid "Par fortune"
+msgstr "Otel zenginleri"
+
+#: src/Controller/ShareController.php:37
+msgid ""
+"Tu as déjà gagner ton cadeau du jour, reviens dans 24H pour ton prochain "
+"cadeau !"
+msgstr ""
+"Günün hediyesini zaten kazandınız, bir sonraki hediyeniz için 24 saat içinde "
+"geri dönün!"
+
+#: src/Controller/ShareController.php:64
+msgid "Gain de {duckets} duckets grâce au parrainage."
+msgstr "Sponsorluk yoluyla {duckets} ördek kredisi kazanın."
+
+#: src/Controller/ShareController.php:69
+msgid ""
+"Merci pour ta contribution sur HabboMotel, tu remportes 10 duckets que tu "
+"pourras dépenser dans la boutique du catalogue! Reviens demain pour gagner à "
+"nouveau ton cadeau !"
+msgstr ""
+"HabboMotel'e yaptığınız katkıdan dolayı teşekkür ederiz, katalog mağazasında "
+"geçirebileceğiniz 10 ördek kazandınız! Hediyeni tekrar kazanmak için yarın "
+"gel!"
+
+#: src/Controller/ShareController.php:116
+msgid "Abonnement au Habbo CLUB de 2H grâce au parrainage."
+msgstr "Sponsorluk sayesinde 2H Habbo CLUB aboneliği kazandınız."
+
+#: src/Controller/ShareController.php:119
+msgid ""
+"Merci pour ta contribution sur HabboMotel, tu remportes un abonnement de 2H "
+"au HabboClub ! Reviens demain pour gagner à nouveau ton cadeau !"
+msgstr ""
+"Nopui Otel'e katkı için teşekkürler, 2H HabboClub bir aboneliği güncel "
+"tutmak! Hediyeni tekrar kazanmak için yarın gel!"
+
+#: src/Controller/ShopController.php:37
+#: src/Template/Element/Header/navbar.ctp:122 src/Template/Shop/index.ctp:1
+msgid "Comprendre notre économie"
+msgstr "Ekonomimizi anlamak"
+
+#: src/Controller/ShopController.php:38 src/Template/Shop/index.ctp:2
+msgid ""
+"HabboMotel possède une économie structurée et réfléchie pour apporter une "
+"réelle valeur aux mobis et badges en circulation dans l'hôtel afin de "
+"dynamiser le troc et les casinos."
+msgstr ""
+"Nopui Otel, kredileri artırmak için otelde dolaşan mobilere ve rozetlere "
+"gerçek değer katmak için yapılandırılmış ve düşünceli bir ekonomiye sahiptir."
+
+#: src/Controller/ShopController.php:51;78
+msgid "Le code que tu as inséré est invalide."
+msgstr "Eklediğiniz kod geçersiz."
+
+#: src/Controller/ShopController.php:67
+msgid "Ton compte a été crédité de {diamonds} diamants."
+msgstr "Hesabınıza {diamonds} elmas yatırıldı."
+
+#: src/Controller/ShopController.php:71
+msgid "Tu as acheté {diamonds} diamants."
+msgstr "{Diamonds} elmas aldın."
+
+#: src/Controller/ShopController.php:84
+#: src/Template/Ajax/habbo_club_center.ctp:33
+#: src/Template/Element/Header/navbar.ctp:133 src/Template/Shop/diamonds.ctp:1
+msgid "Acheter des diamants"
+msgstr "Elmas satın al"
+
+#: src/Controller/ShopController.php:100
+#: src/Template/Element/Header/navbar.ctp:143
+msgid "Historique des transactions"
+msgstr "İşlem Geçmişi"
+
+#: src/Controller/UsersController.php:30
+msgid "Votre compte a été désactivé par la haute administration."
+msgstr "Hesabınız üst yönetim tarafından devre dışı bırakıldı."
+
+#: src/Controller/UsersController.php:63
+msgid "Nom d'utilisateur ou mot de passe incorrect"
+msgstr "Geçersiz kullanıcı adı veya şifre"
+
+#: src/Controller/UsersController.php:93
+msgid "Sécurisé ton compte"
+msgstr "Hesabınızı güvenli hale getirin"
+
+#: src/Controller/UsersController.php:123
+msgid "Vérification de l'identité"
+msgstr "Kimlik doğrulaması"
+
+#: src/Controller/UsersController.php:145
+msgid "La réponse que tu as saisie est incorrect."
+msgstr "Girdiğiniz cevap yanlış."
+
+#: src/Controller/Component/SparkComponent.php:98
+msgid "Une erreur est survenue (SparkComponent - Route invalide)"
+msgstr "Bir hata oluştu (Kıvılcım Bileşeni - Geçersiz Yol)"
+
+#: src/Controller/Component/SparkComponent.php:126
+msgid "DEBUG: L'action a été réalisé dans l'hôtel"
+msgstr "DEBUG: Eylem otelde yapıldı"
+
+#: src/Event/NotificationsEventListener.php:34
+msgid "Tu as débloqué un nouveau trophée <b>{0}</b>"
+msgstr "Yeni bir kupa açtın <b>{0}</b>"
+
+#: src/Event/NotificationsEventListener.php:46
+msgid "<b>{0}</b> a commenté votre article: <i>{1}</i>"
+msgstr "<b>{0}</i>, makalenize yorum yaptı: <i>{1}<i>"
+
+#: src/Event/NotificationsEventListener.php:57
+msgid "<b>{0}</b> vous a mentionné dans l'article: <i>{1}</i>"
+msgstr "<b>{0}</b> makalede sizden bahsetti: <i>{1}</i>"
+
+#: src/Event/NotificationsEventListener.php:66
+msgid ""
+"<b>{0}</b>, bienvenue sur HabboMotel, rejoins-nous vite en te connectant "
+"dans l'hôtel."
+msgstr ""
+"<b>{0}</b>, HabboMotel'e hoş geldiniz, otele giriş yaparak bize hızlı bir "
+"şekilde katılın."
+
+#: src/Event/NotificationsEventListener.php:77
+msgid "<b>{0}</b> à répondu à la discussion <i>{1}</i>"
+msgstr "<b>{0}</i> tartışmaya cevap verdi <i>{1}</i>"
+
+#: src/Model/Table/ArticlesTable.php:30
+msgid "Le titre de l'article ne peut pas être vide."
+msgstr "Haberin başlığı boş bırakılamaz."
+
+#: src/Model/Table/ArticlesTable.php:31
+msgid "Ton titre doit faire minimum 30 caractères"
+msgstr "Başlığınız en az 30 karakter olmalı"
+
+#: src/Model/Table/ArticlesTable.php:34
+msgid "La phrase du bouton ne peut pas être vide."
+msgstr "Düğmenin ifadesi boş bırakılamaz."
+
+#: src/Model/Table/ArticlesTable.php:35
+msgid "La phrase doit faire minimum 10 caractères"
+msgstr "Cümle en az 10 karakter uzunluğunda olmalı"
+
+#: src/Model/Table/ArticlesTable.php:38
+msgid "L'image de couverture ne peut pas être vide."
+msgstr "Kapak resmi boş bırakılamaz."
+
+#: src/Model/Table/ArticlesTable.php:40
+msgid "Le contenu de l'article ne peut pas être vide."
+msgstr "Haberin içeriği boş bırakılamaz."
+
+#: src/Model/Table/CommentsTable.php:21
+msgid "Ton commentaire ne peut pas être vide."
+msgstr "Yorumunuz boş bırakılamaz."
+
+#: src/Model/Table/CommentsTable.php:22
+msgid "Ton commentaire doit être compris entre 3 et 500 caractères."
+msgstr "Yorumunuz 3 ile 500 karakter arasında olmalıdır."
+
+#: src/Model/Table/ForumThreadsTable.php:38
+msgid "Tu dois définir un nom pour ta discussion."
+msgstr "Tartışmanız için bir isim tanımlamanız gerekiyor."
+
+#: src/Model/Table/ForumThreadsTable.php:39
+msgid "Le nom de la discussion doit faire plus de 10 caractères."
+msgstr "Tartışmanın adı 10 karakterden uzun olmalıdır."
+
+#: src/Model/Table/PlayerNetworksTable.php:25
+msgid "Les extensions autorisées sur la plateforme sont: jpg, jpeg et png."
+msgstr "Platformda izin verilen eklentiler şunlardır: jpg, jpeg ve png."
+
+#: src/Model/Table/PlayerNetworksTable.php:29
+msgid "La taille de l'image est supérieur a 2MO."
+msgstr "Görüntünün boyutu 2 MB'den büyük."
+
+#: src/Model/Table/PlayerSecuritiesTable.php:19
+msgid "La réponse ne peut pas être vide."
+msgstr "Cevap boş olamaz."
+
+#: src/Model/Table/PlayerSecuritiesTable.php:20
+msgid "La réponse doit faire minimum 2 caractères."
+msgstr "Cevap en az 2 karakter uzunluğunda olmalıdır."
+
+#: src/Model/Table/PlayersTable.php:31
+msgid "Votre pseudonyme est déjà utilisé."
+msgstr "Kullanıcı adınız zaten kullanılıyor."
+
+#: src/Model/Table/PlayersTable.php:32
+msgid "Votre adresse e-mail est déjà utilisée."
+msgstr "E-posta adresiniz zaten kullanımda."
+
+#: src/Model/Table/PlayersTable.php:39
+msgid "Ton pseudonyme ne peut pas être vide."
+msgstr "Kullanıcı adınız boş bırakılamaz."
+
+#: src/Model/Table/PlayersTable.php:40
+msgid "Ton pseudonyme doit faire entre 3 et 30 caractères."
+msgstr "Kullanıcı adın 3 ila 30 karakter uzunluğunda olmalıdır."
+
+#: src/Model/Table/PlayersTable.php:43
+msgid ""
+"Ton pseudonyme peut être composé seulement de lettres, de chiffres et des "
+"caractères suivants: .-=_@."
+msgstr ""
+"Kullanıcı adınız yalnızca harf, sayı ve aşağıdaki karakterlerden "
+"oluşabilir: .- = _ @."
+
+#: src/Model/Table/PlayersTable.php:46
+msgid "Ton mot de passe ne peut pas être vide."
+msgstr "Şifreniz boş olamaz."
+
+#: src/Model/Table/PlayersTable.php:47
+msgid "Ton mot de passe doit faire minimum 6 caractères."
+msgstr "Şifreniz en az 6 karakter uzunluğunda olmalıdır."
+
+#: src/Model/Table/PlayersTable.php:49
+msgid "Ton adresse e-mail doit être valide."
+msgstr "E-posta adresiniz geçerli olmalıdır."
+
+#: src/Model/Table/PlayersTable.php:52 src/Template/Avatars/password.ctp:21
+msgid ""
+"Ton mot de passe doit comprendre au moins 6 caractères et inclure des "
+"lettres et des chiffres."
+msgstr ""
+"Şifreniz en az 6 karakter uzunluğunda olmalı ve harf ve rakam içermelidir."
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:19
+msgid "Les avantages du HabboCLUB"
+msgstr "HabboCLUB'un avantajları"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:27
+msgid "Quels sont les avantages de l’abonnement HC ?"
+msgstr "HC aboneliğinin avantajları nelerdir?"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:29
+msgid "- Badge HC"
+msgstr "- HC rozeti"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:30
+msgid "- Texte de tchats en couleur"
+msgstr "- Renkli sohbetler metni"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:31
+msgid "- 5 respects supplémentaires par jour"
+msgstr "- Günde 5 ek saygı"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:32
+msgid "- 3 cajoles supplémentaires par jour"
+msgstr "- Günde 3 ek hayvan kaşıma"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:33
+msgid "- 500 win-win offerts"
+msgstr "- 500 kazan-kazan teklifi"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:34
+msgid "- Catalogue dédie aux membres HC"
+msgstr "- HC üyelerine adanmış katalog"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:35
+msgid ""
+"- Accès aux outils HC <i>(promouvoir son appart/définir les règles de son "
+"appart)</i>"
+msgstr ""
+"- HC <i>araçlarına erişim (odanızı tanıtın / odanızın kurallarını "
+"tanımlayın)</i>"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:36
+msgid "- Coupes de cheveux et vêtements exclusifs <i>(bientôt disponible)</i>"
+msgstr "- Özel saç kesimi ve kıyafet <i>(yakında)</i>"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:37
+msgid "- Cadeau HC mensuel"
+msgstr "- Aylık HC Hediye"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:38
+msgid "- Liste d’amis doublée (jusqu’à 1500)"
+msgstr "- Arkadaşları iki katına çıkarabilirsin (1500'e kadar)"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:39
+msgid ""
+"- Des commandes spéciales telles que <span class=\"tag is-light\">:warp</"
+"span> <i>(téléporter les joueurs vers soi)</i>, <span class=\"tag is-light"
+"\">:enable</span> <i>(ajouter un effet à son avatar)</i>, <span class=\"tag "
+"is-light\">:teleport</span> <i>(se téléporter dans ses appart)</i> et bien "
+"plus à l’aide de <span class=\"tag is-light\">:commands</span> <i>(voir "
+"toutes les commandes disponibles)</i>"
+msgstr ""
+"- Özel siparişler gibi <span class=\"tag is-light\">:wrap</"
+"span><i>(oyuncuları kendine ışınlar)</i>, <span class=\"tag is-light\">:"
+"etki</span><i>(avatarına bir etki ekle)</i>, <span class=\"tag is-light\">:"
+"teleport</span> <i>(odada ışınlanmak)</i> ve daha fazlası için yardım <span "
+"class=\"tag is-light\">:komutlar</span> <i>(tüm mevcut komutlara bakın)</i>"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:42
+msgid "Qu’est-ce le HC ?"
+msgstr "HC nedir?"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:44
+msgid ""
+"L’abonnement HC est un club spécial que les joueurs normaux peuvent "
+"rejoindre pour obtenir des fonctionnalités supplémentaires que les joueurs "
+"normaux. "
+msgstr ""
+"HC aboneliği, oyuncuların normal oyunculardan daha fazla özellik elde etmek "
+"için katılabileceği özel bir kulüp "
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:47
+msgid ""
+"Combien cela coûte de faire partie du HC ? Être membre du HC coûte 50 "
+"diamants pour un abonnement de 31 jours et 31 diamants pour un abonnement de "
+"14 jours."
+msgstr ""
+"HC'nin bir parçası olmak ne kadar? HC üyesi olmak, 31 günlük abonelik için "
+"50 elmas ve 14 günlük abonelik için 31 elmas anlamına gelir."
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:50
+msgid ""
+"Comment je sais depuis combien de temps je suis HC et combien de jours il me "
+"reste en tant que HC ?"
+msgstr ""
+"Ne kadar HC olduğumu ve HC olarak kaç gün geçirdiğimi nasıl bilebilirim?"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:52
+msgid ""
+"Quand tu es connecté au Motel, cette information est disponible sur le haut "
+"de ton écran à droite. En cliquant sur cette icône HC tu ouvriras le Centre "
+"HC. Comment fonctionne le Cadeau Mensuel ? En fonction de ta période HC, tu "
+"recevras, tous les mois, un cadeau surprise."
+msgstr ""
+"Otel'e bağlı olduğunuzda, bu bilgiler ekranın sağ tarafında bulunur. Bu HC "
+"simgesine tıkladığınızda HC Merkezi açılır. Aylık Hediye nasıl çalışır? HC "
+"döneminize bağlı olarak, her ay bir sürpriz hediye alacaksınız."
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:56
+msgid ""
+"Ce cadeau mensuel surprise peut inclure des diamants, un renouvellement "
+"d’abonnement HC, un rare, un badge et bien plus encore!"
+msgstr ""
+"Bu sürpriz aylık hediye elmas, HC abonelik yenileme, nadire, bir rozet ve "
+"daha fazlasını içerebilir!"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:59
+msgid "Je ne veux plus être HC, puis-je annuler mon inscription ?"
+msgstr "Artık HC olmak istemiyorum, kaydımı iptal edebilir miyim?"
+
+#: src/Template/Ajax/advantages_habbo_club.ctp:60
+msgid ""
+"L’inscription au HC est d’un mois complet ou deux semaines, c’est pourquoi "
+"nous ne pourrons pas te rendre les diamants si tu décides de ne plus faire "
+"partie de ce Club avant la fin du mois correspondant à ton inscription."
+msgstr ""
+"HC için kayıt tam bir ay veya iki haftalıktır, bu nedenle bu Kulüp'ün bir "
+"parçası olmayacağınıza karar verirseniz, kayıt işleminize karşılık gelen "
+"ayın sonuna kadar elmasları iade edemeyiz."
+
+#: src/Template/Ajax/create_poll.ctp:6
+msgid "Pose ta question"
+msgstr "Soru sor"
+
+#: src/Template/Ajax/create_poll.ctp:9
+msgid "Aimez-vous mon appartement?"
+msgstr "Odamı sevdin mi ?"
+
+#: src/Template/Ajax/create_poll.ctp:11
+msgid ""
+"Les Habbos présents dans ton appart pourront répondre au sondage par un "
+"J’aime ou un Je n'aime pas"
+msgstr "Odanızda bulunan Habbo'lar, anketi bir Beğendim ya da beğenmedim"
+
+#: src/Template/Ajax/create_poll.ctp:19
+msgid "Lancer le sondage"
+msgstr "Anket başlat"
+
+#: src/Template/Ajax/display_rules.ctp:2
+msgid "Les règles..."
+msgstr "Kurallar..."
+
+#: src/Template/Ajax/earn_habbo_club.ctp:2
+msgid "Gagne un abonnement de 2H"
+msgstr "2H abonelik kazanın"
+
+#: src/Template/Ajax/earn_habbo_club.ctp:7
+msgid "Hey"
+msgstr ""
+
+#: src/Template/Ajax/earn_habbo_club.ctp:11
+msgid ""
+"Tu souhaites profiter des fonctionnalités HC pendant deux heures "
+"gratuitement ? Tu es tombé sur la bonne page."
+msgstr ""
+"HC özelliklerinden iki saatliğine ücretsiz yararlanmak ister misiniz? Doğru "
+"sayfaya rastladınız."
+
+#: src/Template/Ajax/earn_habbo_club.ctp:12
+msgid ""
+"Il ne te reste plus qu'à partager une publication sur Facebook en cliquant "
+"sur \"Gagner mon abonnement HC\" et ton abonnement sera activé."
+msgstr ""
+"Tek yapmanız gereken, \"HC üyeliğimi kazan\" seçeneğini tıklayarak "
+"Facebook'ta bir gönderi paylaşmanız ve aboneliğinizin aktif hale gelmesi."
+
+#: src/Template/Ajax/earn_habbo_club.ctp:18
+msgid "Gagner mon abonnement"
+msgstr "Aboneliğimi kazan"
+
+#: src/Template/Ajax/event_alert.ctp:2
+msgid "Message des Staffs"
+msgstr "Personelden Mesaj"
+
+#: src/Template/Ajax/event_alert.ctp:14
+msgid "J'y vais !"
+msgstr "Ben oraya gidiyorum!"
+
+#: src/Template/Ajax/habbo_club_center.ctp:26
+msgid "Centre HC"
+msgstr "HC Merkezi"
+
+#: src/Template/Ajax/habbo_club_center.ctp:34
+msgid "Gagne 2H de HC"
+msgstr "HC'den 2H kazanın"
+
+#: src/Template/Ajax/habbo_club_center.ctp:43
+msgid "Plus d'avantages HC :"
+msgstr "Daha fazla HC faydaları:"
+
+#: src/Template/Ajax/habbo_club_center.ctp:44
+msgid "- Catalogue dédié aux membres."
+msgstr "- Üyelere adanmış katalog."
+
+#: src/Template/Ajax/habbo_club_center.ctp:45
+msgid "- Accès aux nouvelles fonctionnalités HC."
+msgstr "- Yeni HC özelliklerine erişim."
+
+#: src/Template/Ajax/habbo_club_center.ctp:46
+msgid "Découvrir tous les avantages..."
+msgstr "Tüm avantajları keşfedin..."
+
+#: src/Template/Ajax/habbo_club_center.ctp:50
+msgid "Les membres HC reçoivent un cadeau chaque mois !"
+msgstr "HC üyeleri her ay bir hediye alır!"
+
+#: src/Template/Ajax/habbo_club_center.ctp:54
+msgid "14 jours"
+msgstr "14 gün"
+
+#: src/Template/Ajax/habbo_club_center.ctp:56
+msgid "Souscrire durant 14 jours"
+msgstr "14 gün abone olun"
+
+#: src/Template/Ajax/habbo_club_center.ctp:59
+msgid "31 jours"
+msgstr "31 gün"
+
+#: src/Template/Ajax/habbo_club_center.ctp:61
+msgid "Souscrire durant 30 jours"
+msgstr "31 gün abone olun"
+
+#: src/Template/Ajax/history_poll.ctp:3
+msgid "Il n'y a pas eu de sondage dans cet appart pour le moment."
+msgstr "Bu odada henüz anket yok."
+
+#: src/Template/Ajax/history_poll.ctp:29
+msgid "Lancé il y a {0}"
+msgstr "Başladı {0}"
+
+#: src/Template/Ajax/in_progress_poll.ctp:3
+msgid "Aucun sondage n'est en cours dans ton appart."
+msgstr "Odanızda anket yok."
+
+#: src/Template/Ajax/in_progress_poll.ctp:11
+msgid ""
+"Tu as récemment lancé un sondage <small>&laquo; {0} &raquo;</small> pour les "
+"Habbos qui visitent ton appart."
+msgstr ""
+"Geçenlerde odanızı ziyaret eden Habbo'lar için bir <small>&laquo; {0} &raquo;"
+"</small> anketi başlattınız."
+
+#: src/Template/Ajax/item_information_composer.ctp:18
+msgid "Ce mobi a été vendu à <b>{0}</b> diamants."
+msgstr "Bu mobi, <b>{0}</b> elmasla satıldı."
+
+#: src/Template/Ajax/item_information_composer.ctp:20
+msgid "Ce mobi a été vendu à <b>{0}</b> duckets."
+msgstr "Bu mobi, <b>{0}</b> ördekle satıldı."
+
+#: src/Template/Ajax/item_information_composer.ctp:22
+msgid "Ce mobi a été vendu à <b>{0}</b> credits."
+msgstr "Bu mobi, <b>{0}</b> krediyle satıldı."
+
+#: src/Template/Ajax/item_information_composer.ctp:25
+msgid "<b>{0}</b> exemplaires en circulation,"
+msgstr "<b>{0}</b>dolaşan kopyalar,"
+
+#: src/Template/Ajax/item_information_composer.ctp:26
+msgid "dont <b>{0}</b> exemplaires posés dans des apparts"
+msgstr "bunların <b>{0}</b> kopyası odalara yerleştirildi"
+
+#: src/Template/Ajax/item_information_composer.ctp:27
+msgid "et <b>{0}</b> exemplaires stockés dans des inventaires."
+msgstr "ve stoklarda depolanan <b>{0}</b> kopya."
+
+#: src/Template/Ajax/item_information_composer.ctp:32
+msgid "Souhaites-tu évaluer ce mobi ?"
+msgstr "Bu mobiyi değerlendirmek ister misiniz?"
+
+#: src/Template/Ajax/item_information_composer.ctp:43
+msgid "Ce mobi a reçu une note de <b>{0}</b> sur 5"
+msgstr "Bu mobi, 5 üzerinden <b>{0}</b> puan aldı"
+
+#: src/Template/Ajax/list_commands_composer.ctp:14
+msgid "Les commandes"
+msgstr "Komutlar"
+
+#: src/Template/Ajax/list_commands_composer.ctp:17
+msgid "Liste des commandes classées par rang"
+msgstr "Liste sıralamasına göre sırala"
+
+#: src/Template/Ajax/list_commands_composer.ctp:26
+msgid "Normal"
+msgstr "Normal"
+
+#: src/Template/Ajax/list_commands_composer.ctp:30
+#: src/Template/Avatars/index.ctp:24
+msgid "HC"
+msgstr "HC"
+
+#: src/Template/Ajax/list_commands_composer.ctp:34
+msgid "Staff"
+msgstr "Personel"
+
+#: src/Template/Ajax/list_commands_composer.ctp:47
+msgid "Liste des commandes des <b>utilisateurs normaux</b>."
+msgstr "<B>normal kullanıcılar</b> için komutların listesi."
+
+#: src/Template/Ajax/list_commands_composer.ctp:51
+msgid "@pseudo %message%"
+msgstr ""
+
+#: src/Template/Ajax/list_commands_composer.ctp:51
+msgid "Notifie l'utilisateur cible en le mentionnant."
+msgstr "Hedef kullanıcıyı bildir."
+
+#: src/Template/Ajax/list_commands_composer.ctp:62
+msgid "Liste des commandes des <b>utilisateurs HC</b>."
+msgstr "<B>HC kullanıcıları</b> için komutların listesi."
+
+#: src/Template/Ajax/list_commands_composer.ctp:74
+msgid "Liste des commandes des <b>utilisateurs staff</b>."
+msgstr "<B>Personel Kullanıcıları</b> komutlarının listesi."
+
+#: src/Template/Ajax/manage_poll_composer.ctp:6
+#: src/Template/Community/client.ctp:91
+msgid "Gérer tes sondages"
+msgstr "Anketlerinizi yönetin"
+
+#: src/Template/Ajax/manage_poll_composer.ctp:12
+msgid "Créer un sondage"
+msgstr "Bir anket oluştur"
+
+#: src/Template/Ajax/manage_poll_composer.ctp:13
+msgid "Sondage en cours"
+msgstr "Anket devam ediyor"
+
+#: src/Template/Ajax/manage_poll_composer.ctp:14
+msgid "Historique des sondages"
+msgstr "Anketlerin tarihi"
+
+#: src/Template/Ajax/profile_information_composer.ctp:6
+msgid "En savoir plus sur ce joueur"
+msgstr "Bu oyuncu hakkında daha fazla bilgi edinin"
+
+#: src/Template/Ajax/profile_social_composer.ctp:11
+msgid "Trophées acquis :"
+msgstr "Alınan Kupalar:"
+
+#: src/Template/Ajax/profile_social_composer.ctp:12
+msgid "sur"
+msgstr "üzerinden"
+
+#: src/Template/Ajax/profile_social_composer.ctp:19
+msgid " C'est moi"
+msgstr " benim"
+
+#: src/Template/Ajax/profile_social_composer.ctp:21
+msgid " Ami"
+msgstr "Arkadaş"
+
+#: src/Template/Ajax/profile_social_composer.ctp:38
+msgid "Amis"
+msgstr "Arkadaşlar"
+
+#: src/Template/Ajax/profile_social_composer.ctp:43
+msgid "respects reçus"
+msgstr "alınan saygı"
+
+#: src/Template/Ajax/profile_social_composer.ctp:49
+msgid "Ses réseaux sociaux"
+msgstr "Onun sosyal ağları"
+
+#: src/Template/Ajax/profile_social_composer.ctp:52;53;54
+msgid "non renseigné"
+msgstr "bilgisiz"
+
+#: src/Template/Ajax/profile_social_composer.ctp:57
+msgid "Côte de popularité"
+msgstr "Popülerlik değerlendirmesi"
+
+#: src/Template/Ajax/profile_social_composer.ctp:61
+msgid "Souhaites-tu évaluer ce Habbo?"
+msgstr "Bu Habbo'yu değerlendirmek ister misin?"
+
+#: src/Template/Ajax/profile_social_composer.ctp:69
+msgid "Note <b>{0}</b> sur 5 ({1} votes)"
+msgstr "Değerlendirme <b>{0}</b> 5 üzerinden ({1} oy)"
+
+#: src/Template/Ajax/promote_room_composer.ctp:2
+#: src/Template/Community/client.ctp:93
+msgid "Promouvoir son appart"
+msgstr "Odanızı tanıtın"
+
+#: src/Template/Ajax/promote_room_composer.ctp:12
+msgid "Promouvoir son appart !"
+msgstr "Odanızı tanıtın !"
+
+#: src/Template/Ajax/promote_room_composer.ctp:13
+msgid ""
+"Ton appart est peu visité ? Achète de la visibilité et reçois plusieurs "
+"personnes chez toi... en même pas quelques secondes grâce à nos sélections "
+"de notifications déjà prêtes."
+msgstr ""
+"Odan az ziyaret edildi mi? Önceden hazırlanmış bildirimlerimizin seçiminden "
+"dolayı görünürlük alın ve evde birkaç kişiye ulaşın ... hatta birkaç saniye "
+"bile."
+
+#: src/Template/Ajax/promote_room_composer.ctp:16
+msgid "Prix"
+msgstr "Fiyat"
+
+#: src/Template/Ajax/promote_room_composer.ctp:22
+msgid "Choisi ton type d'invitation"
+msgstr "Davet türünü seç"
+
+#: src/Template/Ajax/room_rule_composer.ctp:2;14
+msgid "Règles de ton appart"
+msgstr "Odanızın kuralları"
+
+#: src/Template/Ajax/room_rule_composer.ctp:10
+msgid ""
+"Cet outil est mis à votre disposition dans le but de vous permettre de "
+"préparer les règles de vos animations en avance, merci d'éviter d'utiliser "
+"cet outil pour des utilisations privées. Les historiques sont sauvegardés."
+"<br/>Afin de rendre vos règles plus attractives, vous pouvez vous rendre sur "
+"le site CKEditor en cliquant <a href=\"http://nightly.ckeditor."
+"com/18-03-16-07-04/full/samples/index.html\" target=\"_blank\">ICI</a>. "
+"(préparez vos règles - cliquez sur SOURCE et copier/coller)."
+msgstr ""
+"Bu araç, animasyonlarınızın kurallarını önceden hazırlamanızı sağlamak için "
+"hizmetinizdedir, bu aracı özel kullanım için kullanmamanız için teşekkür "
+"ederiz. Günlükler kaydedildi.<br/>Kurallarınızı daha çekici hale getirmek "
+"için <a href=\"http://nightly.ckeditor.com/18-03-16-07-04/full/samples/index."
+"html\" target=\"_blank\"> BURAYA</a> tıklayarak CKEditor sitesine "
+"gidebilirsiniz. (Kurallarınızı hazırlayın - SOURCE üzerine tıklayın ve "
+"kopyala / yapıştır)."
+
+#: src/Template/Ajax/room_rule_composer.ctp:23
+msgid "Définir les règles"
+msgstr "Kuralları belirle"
+
+#: src/Template/Articles/view.ctp:18
+msgid "Publié il y a"
+msgstr "Gönderildi"
+
+#: src/Template/Articles/view.ctp:26
+msgid "Commentaires"
+msgstr "Yorumlar"
+
+#: src/Template/Articles/view.ctp:27
+msgid "Nous avons hâte de lire tes ressentis, donc exprime-toi vite !"
+msgstr ""
+"Duygularınızı okumak için sabırsızlanıyorum, çabucak kendinizi ifade edin!"
+
+#: src/Template/Articles/view.ctp:45
+msgid "Ecris ton commentaire.."
+msgstr "Yorum yazınız .."
+
+#: src/Template/Avatars/history.ctp:6
+msgid "ci-dessous toutes les connexions enregistrées sur votre compte."
+msgstr "hesabınıza kayıtlı tüm bağlantıların altında."
+
+#: src/Template/Avatars/history.ctp:11
+msgid "Adresse IP"
+msgstr "IP adresi"
+
+#: src/Template/Avatars/history.ctp:12
+msgid "Navigateur"
+msgstr "Navigator"
+
+#: src/Template/Avatars/history.ctp:13
+#: src/Template/Notifications/history.ctp:11
+#: src/Template/Shop/transactions.ctp:9
+msgid "Date"
+msgstr "Tarih"
+
+#: src/Template/Avatars/index.ctp:10 src/Template/Element/Header/navbar.ctp:168
+msgid "Entrer dans l'hôtel"
+msgstr "Otele Gir"
+
+#: src/Template/Avatars/index.ctp:16 src/Template/Shop/diamonds.ctp:37
+#: src/Template/Shop/index.ctp:43
+msgid "diamants"
+msgstr "elmaslar"
+
+#: src/Template/Avatars/index.ctp:20 src/Template/Shop/diamonds.ctp:40
+#: src/Template/Shop/index.ctp:46
+msgid "duckets"
+msgstr "ördekler"
+
+#: src/Template/Avatars/index.ctp:24
+msgid "Non HC"
+msgstr "HC yok"
+
+#: src/Template/Avatars/index.ctp:99
+msgid "Parrainage"
+msgstr "Sponsorluk"
+
+#: src/Template/Avatars/index.ctp:104
+msgid "{0}, tu n'as pas encore remporté ton cadeau du jour"
+msgstr "{0}, bugünün hediyesini kazandınız"
+
+#: src/Template/Avatars/index.ctp:105
+msgid "En ce moment des rares et des badges inédits sont à gagner."
+msgstr "Nadire ve rozetler kazanacaksın."
+
+#: src/Template/Avatars/index.ctp:107
+msgid "Clique sur le bouton ci-dessous pour profiter de l'offre !"
+msgstr "Teklifin avantajlarından yararlanmak için aşağıdaki butona tıklayın!"
+
+#: src/Template/Avatars/index.ctp:109
+msgid "Parrainer à mes amis"
+msgstr "Arkadaşlarımı davet edeceğim"
+
+#: src/Template/Avatars/index.ctp:136
+msgid "Voir plus"
+msgstr "Daha fazlasını gör"
+
+#: src/Template/Avatars/index.ctp:147
+msgid "Mes Trophées"
+msgstr "Benim kupalarım"
+
+#: src/Template/Avatars/index.ctp:147
+msgid ""
+"Gagne et mets en avant <b>tes trophées</b> dans l'hôtel en réalisant des "
+"actions<br/> sur le site, tel que commenter un article."
+msgstr ""
+"Sitede bir habere yorum yapmak gibi, <br/> eylemler yaparak otelinizde<b> "
+"kupalar</b> kazanın ve odanıza koyun."
+
+#: src/Template/Avatars/index.ctp:149
+msgid "Partage à tes amis"
+msgstr "Arkadaşlarınla paylaş"
+
+#: src/Template/Avatars/index.ctp:149
+msgid ""
+"Remporte tous les jours 10 duckets pour t'acheter<br/>des rares ou des "
+"badges en partageant <b>HabboMotel</b><br/> à tes amis !"
+msgstr ""
+"Arkadaşlarınızı <b> HabboMotel'e</b><br/>davet ederek nadire </b> veya rozet "
+"satın almak için her gün 10 tane ördek oyunu kazanın!"
+
+#: src/Template/Avatars/index.ctp:151
+msgid "Rejoins les Habbos connectés"
+msgstr "Bağlı Habbo'lara katıl"
+
+#: src/Template/Avatars/index.ctp:151
+msgid ""
+"<span class=\\\"icon is-small\\\"><i class=\\\"fa fa-check\\\"></i></span> "
+"Bravo, tu as terminé la visite guidée.</p><p>Pour rejoindre les autres "
+"utilisateurs connectés clique<br/> sur le bouton <b>\\\"Entrer dans l'hôtel\\"
+"\"</b>."
+msgstr ""
+"<span class = \\ \"simge küçüktür \\\"><i class=\\\"fa fa-check\\\"></i></"
+"span> Tebrikler, rehberli turu tamamladınız. </p><p>Bağlı diğer "
+"kullanıcılara katılmak için,<b>\\ \"Otele Gir!\"\\</b> düğmesini tıklayın."
+
+#: src/Template/Avatars/network.ctp:10
+msgid ""
+"À partir de cette page, il est possible de procéder à la création d'un "
+"profil social directement disponible depuis l'hôtel. Une fois la création "
+"effectuée, il sera possible d'ajouter plusieurs données relatives à ta "
+"personne comme tes différents réseaux sociaux mais aussi d'ajouter une photo "
+"de profil. Ce profil peut être visible auprès de tous les joueurs ou alors, "
+"à l'inverse, il peut être invisible et dans ce cas, aucun d'entre eux ne "
+"pourra le voir. De plus, les informations partagées sur ton profil social "
+"seront soumises à la vérification des modérateurs de HabboMotel afin de "
+"contrôler le contenu partagé depuis cette page."
+msgstr ""
+"Bu sayfadan direkt olarak otelden ulaşılabilir bir sosyal profil oluşturmak "
+"mümkündür. Oluşturulduktan sonra, farklı sosyal ağlarınız olarak sizinle "
+"ilgili birçok veri eklemek, ancak bir profil resmi eklemek mümkün olacaktır. "
+"Bu profil tüm oyuncular tarafından görülebilir veya tersine, görünmez "
+"olabilir ve bu durumda, hiçbiri onu göremez. Ayrıca, sosyal profilinizde "
+"paylaşılan bilgiler, bu sayfadan paylaşılan içeriği kontrol etmek için "
+"HabboMotel'in moderatör kontrolüne tabi olacaktır."
+
+#: src/Template/Avatars/network.ctp:13
+msgid ""
+"Il est important de souligner que la publication de telles données sur "
+"l'hôtel nécessite un consentement clair de ta part."
+msgstr ""
+"Bu tür otel verilerinin yayınlanmasının sizden açık onay alması gerektiğine "
+"dikkat etmek önemlidir."
+
+#: src/Template/Avatars/network.ctp:25
+msgid "Photo de profil"
+msgstr "Profil fotoğrafı"
+
+#: src/Template/Avatars/network.ctp:30
+msgid ""
+"Choisis une photo de profil que tu partageras avec les Habbos. <b>Taille "
+"maximale 2MO</b>"
+msgstr ""
+"Habbos ile paylaşacağınız bir profil fotoğrafı seçin. <b>Maksimum boyut 2 MB "
+"</b>"
+
+#: src/Template/Avatars/network.ctp:37
+msgid "Snapchat"
+msgstr ""
+
+#: src/Template/Avatars/network.ctp:41
+msgid "Saisis ton nom d'utilisateur sur snapchat pour le partager aux Habbos."
+msgstr "Habbo'lar ile paylaşmak için Snapchat'daki kullanıcı adınızı girin."
+
+#: src/Template/Avatars/network.ctp:47
+msgid "Instagram"
+msgstr ""
+
+#: src/Template/Avatars/network.ctp:51
+msgid "Saisis ton nom d'utilisateur sur instagram pour le partager aux Habbos."
+msgstr "Habbo'lar ile paylaşmak için Instagram'daki kullanıcı adınızı girin."
+
+#: src/Template/Avatars/network.ctp:57
+msgid "Twitter"
+msgstr ""
+
+#: src/Template/Avatars/network.ctp:61
+msgid "Saisis ton nom d'utilisateur sur twitter pour le partager aux Habbos."
+msgstr "Habbo'lar ile paylaşmak için Twitter'daki kullanıcı adınızı girin."
+
+#: src/Template/Avatars/password.ctp:9
+msgid ""
+"Tu peux modifier le mot de passe de ton compte à tout moment en complétant "
+"le formulaire ci-dessous."
+msgstr ""
+"Aşağıdaki formu doldurarak hesabınızın şifresini istediğiniz zaman "
+"değiştirebilirsiniz."
+
+#: src/Template/Avatars/password.ctp:14
+msgid "Nouveau mot de passe"
+msgstr "Yeni şifre"
+
+#: src/Template/Avatars/password.ctp:29
+msgid "Confirme ton nouveau mot de passe"
+msgstr "Yeni şifrenizi onaylayın"
+
+#: src/Template/Avatars/password.ctp:35
+msgid "Saisi à nouveau ton mot de passe pour être sûr de son ortographe."
+msgstr "Doğruluğundan emin olmak için şifrenizi tekrar girin."
+
+#: src/Template/Avatars/password.ctp:43
+msgid "Modifier mon mot de passe"
+msgstr "Şifremi değiştir"
+
+#: src/Template/Avatars/privacy.ctp:6
+#: src/Template/Element/Avatars/Settings/nav.ctp:11
+#: src/Template/Element/Header/navbar.ctp:35
+msgid "Modifications générales"
+msgstr "Genel değişiklikler"
+
+#: src/Template/Avatars/privacy.ctp:14
+msgid "Accepter les demandes d'amis"
+msgstr "Arkadaşlık isteklerini kabul et"
+
+#: src/Template/Avatars/privacy.ctp:15
+msgid "Les autres Habbos peuvent m'envoyer des demandes d'amis."
+msgstr "Diğer Habbo'lar arkadaşlık isteği gönderebilir."
+
+#: src/Template/Avatars/privacy.ctp:23
+msgid "Activer le troc"
+msgstr "Takası etkinleştir"
+
+#: src/Template/Avatars/privacy.ctp:24
+msgid "Les autres Habbos peuvent échanger avec moi."
+msgstr "Diğer Habbo'lar benimle takas yapabilir."
+
+#: src/Template/Avatars/privacy.ctp:33
+msgid "Autoriser les identifications"
+msgstr "Tanımalamalara izin ver"
+
+#: src/Template/Avatars/privacy.ctp:34
+msgid "Les autres Habbos peuvent m'identifier dans un message."
+msgstr "Diğer Habbo'lar beni bir mesajda tanımlayabilir."
+
+#: src/Template/Avatars/privacy.ctp:42
+msgid "Son des notifications"
+msgstr "Bildirimleri etkinleştir"
+
+#: src/Template/Avatars/privacy.ctp:43
+msgid "Un son est produit lorsque tu reçois une notification."
+msgstr "Bildirim aldığınızda bildirim sesi gelir."
+
+#: src/Template/Avatars/privacy.ctp:47
+msgid "Qui peut me voir connecté"
+msgstr "Beni kimler görebilir"
+
+#: src/Template/Avatars/privacy.ctp:49 src/Template/Housekeeping/event.ctp:36
+msgid "Tout le monde"
+msgstr "Herkes"
+
+#: src/Template/Avatars/privacy.ctp:49;55
+#: src/Template/Housekeeping/event.ctp:37
+msgid "Personne"
+msgstr "Kimse"
+
+#: src/Template/Avatars/privacy.ctp:53
+msgid "Qui peut me rejoindre"
+msgstr "Bana kim katılabilir"
+
+#: src/Template/Avatars/privacy.ctp:55
+msgid "Mes amis"
+msgstr "Arkadaşlarım"
+
+#: src/Template/Avatars/privacy.ctp:58
+msgid "Modifier mes paramètres"
+msgstr "Ayarlarımı değiştir"
+
+#: src/Template/Avatars/security.ctp:11
+msgid ""
+"La protection de compte protège votre compte de toutes sortes de piratages. "
+"La question de sécurité s’active automatiquement dès qu’une personne "
+"n’utilisant pas votre adresse IP tente de se connecter sur votre compte. Si "
+"le pirate ne parvient pas à répondre correctement aux questions de sécurité, "
+"le compte sera désactivé par mesure de sécurité."
+msgstr ""
+"Hesap koruması hesabınızı her türlü korsanlıktan korur. Güvenlik sorusu, IP "
+"adresinizi kullanmayan biri hesabınıza giriş yapmaya çalıştığında otomatik "
+"olarak devreye girer. Hacker, güvenlik sorularını doğru cevaplayamazsa, "
+"güvenlik nedeniyle hesap devre dışı bırakılacaktır."
+
+#: src/Template/Avatars/security.ctp:14
+msgid ""
+"Ces mesures de sécurité sont d'autant plus importantes que ton mot de passe. "
+"Attention à ne pas renseigner de fausses informations."
+msgstr ""
+"Bu güvenlik önlemleri şifrenizden daha önemlidir. Yanlış bilgileri "
+"doldurmamaya dikkat edin."
+
+#: src/Template/Avatars/security.ctp:16
+msgid "Proteger mon compte"
+msgstr "Hesabımı koru"
+
+#: src/Template/Avatars/security.ctp:23
+msgid ""
+"La protection du compte est <b>activé</b>, tu peux modifier le formulaire ci-"
+"dessous pour changer la question de sécurité."
+msgstr ""
+"Hesap koruması <b>etkinleştirildi</b>, güvenlik sorununu değiştirmek için "
+"aşağıdaki formu değiştirebilirsiniz."
+
+#: src/Template/Avatars/security.ctp:28
+msgid "Choisis ta nouvelle question de sécurité"
+msgstr "Yeni güvenlik sorunuzu seçin"
+
+#: src/Template/Avatars/security.ctp:32 src/Template/Users/security.ctp:14
+msgid ""
+"Choisis une question à laquelle tu seras capable de répondre si ton compte "
+"est verrouillé."
+msgstr "Hesabınızın güvenliği için bir güvenlik sorusu seçiniz."
+
+#: src/Template/Avatars/security.ctp:38 src/Template/Users/security.ctp:20
+msgid "Réponse à la question de sécurité"
+msgstr "Güvenlik sorusuna cevap ver"
+
+#: src/Template/Avatars/security.ctp:42 src/Template/Users/security.ctp:24
+msgid ""
+"Ta réponse doit être personnelle et personne d'autre que toi devra la "
+"connaître."
+msgstr ""
+"Cevabınız kişisel olmalı ve kimse bilmemeli, ancak bunu siz bilmelisiniz."
+
+#: src/Template/Avatars/security.ctp:50
+msgid "Modifier ma question de sécurité"
+msgstr "Güvenlik sorumu değiştir"
+
+#: src/Template/Avatars/security.ctp:56
+msgid "Désactiver la protection"
+msgstr "Korumayı devre dışı bırak"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:6
+msgid "Nom du mobis"
+msgstr "Eşya adı"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:9
+msgid "Le nom du mobis défini dans le catalogue."
+msgstr "Katalogda tanımlanan eşya ismi."
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:19
+msgid "Vendu par unité"
+msgstr "Birim tarafından satılan"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:22
+msgid "La quantité du même mobis achetée par achat."
+msgstr "Satın aldığın aynı eşya miktarı."
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:27
+msgid "(LTD) Déjà vendu"
+msgstr "(LTD) Zaten satıldı"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:30
+msgid ""
+"Le nombre de fois que ce mobis a été acheté par les habbos pour ce LTD. Par "
+"défaut laisser 0."
+msgstr ""
+"Bu eşya, bu LTD için habbo'lar tarafından satın alınanların sayısı. "
+"Varsayılan olarak 0 bırakın."
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:34
+msgid "(LTD) Unité mis en vente"
+msgstr "(LTD) satışa sunulan birim"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:37
+msgid "Le nombre de mobis mis en vente pour ce LTD."
+msgstr "Eşya, bu LTD için satışa çıkıyor."
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:44
+msgid "Ce mobis est-il un rare?"
+msgstr "Bu eşya nadir mi?"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:47
+msgid ""
+"0 = par défaut, 1 = Lorsqu'on double-clic sur ce mobis dans l'hôtel des "
+"détails s'y affiche en tant que rare"
+msgstr ""
+"0 = varsayılan, 1 = Bu ayrıntıda çift tıkladığınızda otel ayrıntıları nadir "
+"olarak görüntülenir."
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:51
+msgid "Ce mobis est-il un LTD?"
+msgstr "Bu eşya bir LTD mi?"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:54
+msgid ""
+"0 = par défaut, 1 = Lorsqu'on double-clic sur ce mobis dans l'hôtel des "
+"détails s'y affiche en tant que LTD"
+msgstr ""
+"0 = varsayılan, 1 = Bu ayrıntıda çift tıkladığınızda otel ayrıntıları LTD "
+"olarak görüntülenir"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:59
+msgid "Type du mobis"
+msgstr "Eşya türü"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:62
+msgid "s = mobis au sol, i = mobis au mur"
+msgstr "s = zemin eşyası, i = duvar eşyası"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:71
+msgid ""
+"Définit la hauteur ou ce positionnera le mobis qu'on souhaite empiler sur "
+"celui-ci"
+msgstr ""
+"Üzerinde yığmak istediğiniz eşya üzerine yerleştirilecek yüksekliği ayarlar."
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:78
+msgid ""
+"Définit les hauteurs ou ce positionnera le mobis qu'on souhaite empiler sur "
+"celui-ci"
+msgstr ""
+"Yükseklikleri ayarlar veya bu, üzerine yığmak istediğiniz uydurmayı "
+"ayarlayacaktır."
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:82
+msgid "Type d'interaction"
+msgstr "Etkileşim türü"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:85
+msgid "default = par défaut, teleport = mobis téléporteur, bed = lit"
+msgstr "varsayılan = varsayılan, teleport = eşya teleporter, yatak = yatak"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:89
+msgid "Nombre d'états du mobis"
+msgstr "Eşya türünün sayısı"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:92
+msgid ""
+"Nombre des différents états du mobis en double cliquant dessus. (Ex: une "
+"porte de bar mode = 2 (ouvert/fermé)"
+msgstr ""
+"Eşyaların farklı durumlarının sayısı üzerine çift tıklayarak öğren. (Örnek: "
+"bir bar kapı modu = 2 (açık / kapalı)"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:96
+msgid "ID des items à consommer"
+msgstr "Alınacak maddelerin adı"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:99
+msgid "Exemple: 1,2,3)"
+msgstr "Örnek: 1,2,3)"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:104
+msgid "ID de l'effet"
+msgstr "Etkinin adı"
+
+#: src/Template/Catalog/get_furniture_by_id.ctp:107
+msgid "Si le mobis est de type effect, attribuez lui un enable."
+msgstr "Eşya, tür etkisine sahipse, ona bir izin verin."
+
+#: src/Template/Community/client.ctp:56
+msgid ""
+"La publicité se fermera dans <span class='timeLeft'><b>x</b></span> secondes"
+msgstr "Reklam <span class='timeLeft'><b>x</b></span> saniye içinde kapanacak"
+
+#: src/Template/Community/client.ctp:71
+msgid "Débloquer mon écran"
+msgstr "Ekranımın kilidini aç"
+
+#: src/Template/Community/client.ctp:85
+msgid "Outils pour propriétaire"
+msgstr "Sahiplik Araçları"
+
+#: src/Template/Community/client.ctp:95
+msgid "Définir les règles de ton appart"
+msgstr "Odanızın kurallarını tanımlayın"
+
+#: src/Template/Community/client.ctp:127
+msgid "Lire les règles du jeu"
+msgstr "Oyunun kurallarını okuyun"
+
+#: src/Template/Community/staff.ctp:1
+msgid "Le personnel de l'hôtel"
+msgstr "Otel personeli"
+
+#: src/Template/Element/Articles/nav.ctp:5
+msgid "Trier par catégorie"
+msgstr "Kategoriye göre sırala"
+
+#: src/Template/Element/Articles/nav.ctp:24
+msgid "Aujourd'hui"
+msgstr "Bugün"
+
+#: src/Template/Element/Articles/nav.ctp:43
+msgid "Hier"
+msgstr "Dün"
+
+#: src/Template/Element/Articles/nav.ctp:62
+msgid "Cette semaine"
+msgstr "Bu hafta"
+
+#: src/Template/Element/Articles/nav.ctp:81
+msgid "Ce mois-ci"
+msgstr "Bu ay"
+
+#: src/Template/Element/Articles/nav.ctp:100
+msgid "Cette année"
+msgstr "Bu yıl"
+
+#: src/Template/Element/Avatars/Settings/nav.ctp:4
+#: src/Template/Element/Header/navbar.ctp:24
+msgid "Paramètres du compte"
+msgstr "Hesap ayarları"
+
+#: src/Template/Element/Footer/footer.ctp:10
+msgid "Français"
+msgstr "Fransız"
+
+#: src/Template/Element/Footer/footer.ctp:17
+msgid "Portugais"
+msgstr "Portekiz"
+
+#: src/Template/Element/Footer/footer.ctp:29
+#: src/Template/Element/Header/navbar.ctp:109 src/Template/Forum/index.ctp:2
+msgid "Forum de discussion"
+msgstr "Tartışma Forumu"
+
+#: src/Template/Element/Footer/footer.ctp:32
+msgid "Conditions d'utilisations"
+msgstr "Kullanım şartları"
+
+#: src/Template/Element/Footer/footer.ctp:35
+msgid "Nous contacter"
+msgstr "Bize ulaşın"
+
+#: src/Template/Element/Footer/footer.ctp:40
+msgid "Propulsé par"
+msgstr "Tarafından desteklenmektedir"
+
+#: src/Template/Element/Footer/footer.ctp:40
+msgid "et"
+msgstr "ve"
+
+#: src/Template/Element/Header/header.ctp:6
+msgid "connectés"
+msgstr "bağlı"
+
+#: src/Template/Element/Header/navbar.ctp:13
+msgid "Personnage"
+msgstr "Karakter"
+
+#: src/Template/Element/Header/navbar.ctp:51
+msgid "Trophées"
+msgstr "Kupalar"
+
+#: src/Template/Element/Header/navbar.ctp:53
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: src/Template/Element/Header/navbar.ctp:65
+msgid "Actualités"
+msgstr "Haberler"
+
+#: src/Template/Element/Header/navbar.ctp:75
+msgid "Staffs"
+msgstr "Personeller"
+
+#: src/Template/Element/Header/navbar.ctp:176
+#: src/Template/Users/check.ctp:22;43
+msgid "Se déconnecter"
+msgstr "Çıkış"
+
+#: src/Template/Element/Header/tabs.ctp:29;31
+msgid "Communauté"
+msgstr "Topluluk"
+
+#: src/Template/Element/Header/tabs.ctp:36;38
+msgid "Palmarès"
+msgstr "Zenginler "
+
+#: src/Template/Element/Header/tabs.ctp:50;52
+msgid "Boutique"
+msgstr "Mağaza"
+
+#: src/Template/Element/Header/tabs.ctp:56
+msgid "Admin."
+msgstr "Yönetim."
+
+#: src/Template/Element/Housekeeping/menu.ctp:5
+msgid "Générale"
+msgstr "Genel"
+
+#: src/Template/Element/Housekeeping/menu.ctp:11
+msgid "Modération"
+msgstr "Moderasyon"
+
+#: src/Template/Element/Housekeeping/menu.ctp:15
+msgid "Gestion des exclusions"
+msgstr "Dışlama yönetimi"
+
+#: src/Template/Element/Housekeeping/menu.ctp:27
+msgid "Animation"
+msgstr "Animasyon"
+
+#: src/Template/Element/Housekeeping/menu.ctp:34
+msgid "Administration"
+msgstr "Admin"
+
+#: src/Template/Element/Housekeeping/menu.ctp:38
+msgid "Gestion des articles"
+msgstr "Haber Yönetimi"
+
+#: src/Template/Element/Housekeeping/menu.ctp:40
+msgid "Liste des articles publiés"
+msgstr "Yayınlanan haberlerin listesi"
+
+#: src/Template/Element/Housekeeping/menu.ctp:45
+msgid "Gestion des utilisateurs"
+msgstr "Kullanıcı Yönetimi"
+
+#: src/Template/Element/Housekeeping/menu.ctp:53
+msgid "Haute administration"
+msgstr "Yüksek yönetim"
+
+#: src/Template/Element/Housekeeping/menu.ctp:56
+msgid "Gestion du catalogue"
+msgstr "Katalog yönetimi"
+
+#: src/Template/Element/Modal/adblock.ctp:5
+msgid "Oh non... pas toi :("
+msgstr "Oh hayır... sen değil :("
+
+#: src/Template/Element/Modal/adblock.ctp:13
+#: src/Template/Element/Modal/share.ctp:18
+msgid "Hey {0}"
+msgstr "Hey {0}"
+
+#: src/Template/Element/Modal/adblock.ctp:15
+msgid ""
+"Nous avons remarqué que tu utilises un <b>bloqueur de publicité</b> sur "
+"HabboMotel."
+msgstr "HabboMotel'de bir<b>reklam engelleyici</b> kullandığınızı fark ettik."
+
+#: src/Template/Element/Modal/adblock.ctp:19
+msgid ""
+"Sais-tu que la publicité est la principale source de financement de "
+"HabboMotel ?"
+msgstr "HabboMotel'in ana finansman kaynağı olduğunu biliyor musunuz?"
+
+#: src/Template/Element/Modal/adblock.ctp:23
+msgid ""
+"Pour nous aider à maintenir un jeu fluide et de qualité nous te demandons de "
+"désactiver le bloqueur de publicité sur notre site."
+msgstr ""
+"Akışkan ve kaliteli bir oyun tutmamıza yardımcı olmak için sitemizdeki "
+"reklam engelleyiciyi devre dışı bırakmanızı rica ediyoruz."
+
+#: src/Template/Element/Modal/adblock.ctp:24
+msgid ""
+"<b>Pas de panique</b>, sur HabboMotel nos publicités sont discrètes et ne "
+"produisent aucune gêne pour ta navigation."
+msgstr ""
+"HabboMotel'de <b>panik yapmayın</b>,reklamlarımız gizlidir ve navigasyonunuz "
+"için herhangi bir rahatsızlık yaratmaz."
+
+#: src/Template/Element/Modal/adblock.ctp:31
+msgid "Fermeture dans"
+msgstr "Içinde kapanış"
+
+#: src/Template/Element/Modal/adblock.ctp:31
+msgid "secondes"
+msgstr "saniye"
+
+#: src/Template/Element/Modal/adblock.ctp:35
+msgid "Je soutiens HabboMotel"
+msgstr "HabboMotel'i destekliyorum"
+
+#: src/Template/Element/Modal/share.ctp:5
+msgid "Gagne ta box du jour"
+msgstr "Günün kutusunu kazan"
+
+#: src/Template/Element/Modal/share.ctp:11
+msgid ""
+"Si quand tu cliques sur le bouton rien ne se déclenche, autorise les popups "
+"venant de HabboMotel."
+msgstr ""
+"Düğmeye tıkladığınızda hiçbir şey tetiklenmezse, HabboMotel'den gelen açılır "
+"pencerelere izin verir."
+
+#: src/Template/Element/Modal/share.ctp:20
+msgid ""
+"Tu recevras automatiquement ta box dans ton inventaire avec les rares et les "
+"badges lorsque tu auras partagé à tes amis."
+msgstr ""
+"Arkadaşlarınızla paylaştığınız zaman, kutunuzdaki az sayıda ve rozetle "
+"kutunuzu otomatik olarak alacaksınız."
+
+#: src/Template/Element/Modal/share.ctp:22
+msgid ""
+"Pour partager à tes amis et remporter ton cadeau rien de plus simple, clique "
+"sur le bouton ci-dessous <b>\"Je veux mes cadeaux\"</b>."
+msgstr ""
+"Arkadaşlarınızla paylaşmak ve hediyenizi daha basit bir şekilde kazanmak "
+"için aşağıdaki düğmeyi tıklayın <b>\"Hediyeleri istiyorum\"</b>."
+
+#: src/Template/Element/Modal/share.ctp:26
+msgid "Je veux mes cadeaux !"
+msgstr "Hediyeleri istiyorum!"
+
+#: src/Template/Forum/category.ctp:6
+msgid "<b>%s</b> discussions"
+msgstr "<b>%s</b>tartışmalar"
+
+#: src/Template/Forum/category.ctp:30
+msgid "Dernière activité %s"
+msgstr "Son Etkinlik %s"
+
+#: src/Template/Forum/category.ctp:33 src/Template/Forum/index.ctp:57
+msgid "%s réponses"
+msgstr "%s tepkileri"
+
+#: src/Template/Forum/category.ctp:43 src/Template/Forum/thread.ctp:40
+msgid "Revenir au début"
+msgstr "Başa dön"
+
+#: src/Template/Forum/category.ctp:45 src/Template/Forum/thread.ctp:42
+msgid "« Précédent"
+msgstr "«Önceki"
+
+#: src/Template/Forum/category.ctp:49 src/Template/Forum/thread.ctp:46
+msgid "{{page}} sur {{pages}}"
+msgstr "{{sayfa}} tarihinde {{sayfalar}}"
+
+#: src/Template/Forum/category.ctp:53 src/Template/Forum/thread.ctp:50
+msgid "Suivant »"
+msgstr "İleri »"
+
+#: src/Template/Forum/category.ctp:54 src/Template/Forum/thread.ctp:51
+msgid "Aller à la fin"
+msgstr "Sonuna git"
+
+#: src/Template/Forum/create_thread.ctp:4
+msgid "Profite de cette espace pour partager avec les autres Habbos!"
+msgstr "Diğer Habbolarla paylaşmak için bu alandan yararlanın!"
+
+#: src/Template/Forum/create_thread.ctp:7
+msgid "Nom de la discussion"
+msgstr "Tartışmanın adı"
+
+#: src/Template/Forum/create_thread.ctp:17
+#: src/Template/Housekeeping/create_article.ctp:26
+#: src/Template/Housekeeping/edit_article.ctp:26
+msgid "Catégorie"
+msgstr "Kategori"
+
+#: src/Template/Forum/create_thread.ctp:29
+#: src/Template/Housekeeping/event.ctp:23
+msgid "Message"
+msgstr "Mesaj"
+
+#: src/Template/Forum/create_thread.ctp:39
+msgid "Créer ma discussion"
+msgstr "Tartışmamı oluştur"
+
+#: src/Template/Forum/create_thread.ctp:43
+msgid "Quelques conseils..."
+msgstr "Bazı ipuçları..."
+
+#: src/Template/Forum/create_thread.ctp:44
+msgid ""
+"Le respect de la Habbo Attitude dans le forum est primordiale, nous comptons "
+"sur toi !"
+msgstr "Forumdaki Habbo Tutumuna saygı her şeyden önemlidir, size güveniyoruz!"
+
+#: src/Template/Forum/index.ctp:21
+msgid "Les experts du forum"
+msgstr "Forum uzmanları"
+
+#: src/Template/Forum/index.ctp:22
+msgid "ci-dessous les Habbos qui s'impliquent le plus dans le forum."
+msgstr "Forumda en çok yer alan Habbo'ların aşağısında."
+
+#: src/Template/Forum/index.ctp:63
+msgid "Dernière activités"
+msgstr "Son aktiviteler"
+
+#: src/Template/Forum/index.ctp:64
+msgid "ci-dessous les discussions dernièrement actif sur le forum."
+msgstr "Tartışmaların sonunda forumda son zamanlarda aktif."
+
+#: src/Template/Forum/index.ctp:80
+msgid "par %s"
+msgstr "%s tarafından"
+
+#: src/Template/Forum/thread.ctp:7
+msgid "Epingler"
+msgstr "Pim"
+
+#: src/Template/Forum/thread.ctp:7
+msgid "Désépingler"
+msgstr "Toplu iğnelerini çıkarmak"
+
+#: src/Template/Forum/thread.ctp:9
+msgid "Fermer la discussion"
+msgstr "Tartışmayı kapat"
+
+#: src/Template/Forum/thread.ctp:9
+msgid "Ouvrir la discussion"
+msgstr "Tartışmayı aç"
+
+#: src/Template/Forum/thread.ctp:30
+msgid "Supprimer la réponse"
+msgstr "Yanıtı sil"
+
+#: src/Template/Forum/thread.ctp:32
+msgid "Il y a %s"
+msgstr "%s var"
+
+#: src/Template/Forum/thread.ctp:76
+msgid "Publier ma réponse"
+msgstr "Cevabımı yayınla"
+
+#: src/Template/Forum/thread.ctp:88
+msgid "Répondre.."
+msgstr "Cevap.."
+
+#: src/Template/Home/index.ctp:32 src/Template/Housekeeping/search_user.ctp:39
+msgid "Pseudonyme"
+msgstr "Kullanıcı adı"
+
+#: src/Template/Home/index.ctp:42;126
+msgid "Mot de passe"
+msgstr "Şifre "
+
+#: src/Template/Home/index.ctp:53
+msgid "Connexion"
+msgstr "Giriş yap"
+
+#: src/Template/Home/index.ctp:68
+msgid "EXPLORE UN HOTEL INSOLITE AVEC DES PERSONNES INCROYABLES"
+msgstr "İNANILMAZ İNSANLARLA BİR OTEL "
+
+#: src/Template/Home/index.ctp:73
+msgid "INSCRIS-TOI MAINTENANT !"
+msgstr "KAYIT OL !"
+
+#: src/Template/Home/index.ctp:81
+msgid "Rencontre un tas de personnes extraordinaire sur HabboMotel"
+msgstr "HabboMotel'de bir sürü harika insanla tanışın"
+
+#: src/Template/Home/index.ctp:89
+msgid ""
+"La communauté d'habbomotel s'agrandit de jour en jour, nous cherchons des "
+"nouveaux modérateurs"
+msgstr "Habomotel topluluğu her geçen gün büyüyor, yeni moderatörler arıyoruz"
+
+#: src/Template/Home/index.ctp:92
+msgid "Postuler"
+msgstr "Uygulamak"
+
+#: src/Template/Home/index.ctp:112
+msgid "Inscris-toi maintenant !"
+msgstr "Şimdi kayıt ol!"
+
+#: src/Template/Home/index.ctp:113
+msgid ""
+"Fais-toi de nouveaux amis, crée ta chambre, adopte des animaux de compagnie, "
+"organise des grandes soirées! Amuse-toi gratuitement dès maintenant!"
+msgstr ""
+"Yeni arkadaşlar edinin, odanızı yaratın, evcil hayvanları besleyin, büyük "
+"partiler düzenleyin! Şimdi ücretsiz eğlenin!"
+
+#: src/Template/Home/index.ctp:116
+msgid "Pseudonyme de l'avatar"
+msgstr "kullanıcı adı"
+
+#: src/Template/Home/index.ctp:120
+msgid ""
+"Ton pseudonyme peut contenir seulement des majuscules, miniscules, nombres "
+"et tirets."
+msgstr ""
+"Kullanıcı adınızda yalnızca büyük harfler, küçük harfler, sayılar ve kısa "
+"çizgiler olabilir."
+
+#: src/Template/Home/index.ctp:130
+msgid ""
+"Utilise au moins 6 caractères. Inclue au moins une lettre et au moins un "
+"chiffre ou un caractère spécial."
+msgstr ""
+"En az 6 karakter kullanır. En az bir harf ve en az bir sayı veya özel "
+"karakter ekleyin."
+
+#: src/Template/Home/index.ctp:136
+msgid "Répeter le mot de passe"
+msgstr "Şifreyi tekrarla"
+
+#: src/Template/Home/index.ctp:146
+msgid "Adresse e-mail"
+msgstr "E-posta adresi"
+
+#: src/Template/Home/index.ctp:150
+msgid "Ton adresse e-mail doit être valide en cas d'oublis de mot de passe."
+msgstr "Şifreni unutursanız, e-posta adresiniz geçerli olmalıdır."
+
+#: src/Template/Home/index.ctp:158
+msgid ""
+"&nbsp; J'accepte les <a href=\"#\" target=\"_blank\">conditions "
+"d'utilisation</a>."
+msgstr ""
+"Ve <a href=\"#\" target=\"_blank\"> hizmet şartlarını </a> kabul ediyorum."
+
+#: src/Template/Home/index.ctp:165
+msgid "Terminer mon inscription"
+msgstr "Kaydımı tamamla"
+
+#: src/Template/Home/index.ctp:175
+msgid "Quelques raisons de s'inscrire sur HabboMotel.."
+msgstr "HabboMotel'e kayıt olmanız için bazı sebepler .."
+
+#: src/Template/Home/index.ctp:176
+msgid "Découvre encore plus de nouveautés en t'inscrivant !"
+msgstr "Kaydolarak daha fazla haber keşfedin!"
+
+#: src/Template/Housekeeping/ban.ctp:11
+#: src/Template/Housekeeping/create_article.ctp:12
+#: src/Template/Housekeeping/edit_article.ctp:12
+#: src/Template/Housekeeping/search_user.ctp:11
+#: src/Template/Housekeeping/unban.ctp:11
+msgid ""
+"Les actions que vous réalisez dans l'administration sont sauvegardées et "
+"consultable par la haute administration."
+msgstr ""
+"Yönetimde gerçekleştirdiğiniz eylemler üst yönetim tarafından kaydedilir ve "
+"aranabilir."
+
+#: src/Template/Housekeeping/ban.ctp:15
+#: src/Template/Housekeeping/search_user.ctp:14
+#: src/Template/Housekeeping/unban.ctp:14
+msgid "Pseudonyme du Habbo"
+msgstr "Kullanıcı adı Habbo"
+
+#: src/Template/Housekeeping/ban.ctp:25
+msgid "Motif de l'exclusion"
+msgstr "Dışlama Nedeni"
+
+#: src/Template/Housekeeping/ban.ctp:29
+msgid ""
+"Définissez un motif explicite pour faciliter la gestion par la haute "
+"administration."
+msgstr ""
+"Üst yönetim tarafından yönetimi kolaylaştırmak için açık bir neden "
+"tanımlayın."
+
+#: src/Template/Housekeeping/ban.ctp:35
+msgid "Type d'exclusion"
+msgstr "Hariç tutma türü"
+
+#: src/Template/Housekeeping/ban.ctp:45
+msgid "Durée de l'exclusion"
+msgstr "Dışlama süresi"
+
+#: src/Template/Housekeeping/ban.ctp:62
+msgid "Bannir le Habbo"
+msgstr "Habbo yasaklandı"
+
+#: src/Template/Housekeeping/create_article.ctp:16
+#: src/Template/Housekeeping/edit_article.ctp:16
+msgid "Titre de l'article"
+msgstr "Haber başlığı"
+
+#: src/Template/Housekeeping/create_article.ctp:20
+#: src/Template/Housekeeping/edit_article.ctp:20
+msgid "Susciter l'envie de lire l'article avec un titre explicite."
+msgstr "Makaleyi açık bir başlık ile okuma isteğini teşvik edin."
+
+#: src/Template/Housekeeping/create_article.ctp:30
+#: src/Template/Housekeeping/edit_article.ctp:30
+msgid ""
+"Choisissez une catégorie appropriée pour faciliter la navigation des Habbos."
+msgstr "Habbo'ların gezinmesini kolaylaştırmak için uygun bir kategori seçin."
+
+#: src/Template/Housekeeping/create_article.ctp:36
+#: src/Template/Housekeeping/edit_article.ctp:36
+msgid "Image de couverture"
+msgstr "Kapak resmi"
+
+#: src/Template/Housekeeping/create_article.ctp:40
+#: src/Template/Housekeeping/edit_article.ctp:40
+msgid ""
+"Selectionner une image parmis celles ce trouvant %s et coller le lien de "
+"l'image."
+msgstr "%s bulunanlardan bir resim seçin ve görüntü bağlantısını yapıştırın."
+
+#: src/Template/Housekeeping/create_article.ctp:46
+#: src/Template/Housekeeping/edit_article.ctp:46
+msgid "Phrase du boutton"
+msgstr "Buton ifadesi"
+
+#: src/Template/Housekeeping/create_article.ctp:50
+#: src/Template/Housekeeping/edit_article.ctp:50
+msgid "Exemple: En savoir plus &raquo;"
+msgstr "Örnek: Daha fazla bilgi edinin & raquo;"
+
+#: src/Template/Housekeeping/create_article.ctp:56
+#: src/Template/Housekeeping/edit_article.ctp:56
+msgid "Contenu de l'article"
+msgstr "Haber içeriği"
+
+#: src/Template/Housekeeping/create_article.ctp:61
+msgid "Créer l'article"
+msgstr "Haber oluştur"
+
+#: src/Template/Housekeeping/edit_article.ctp:11
+msgid "Editir un article"
+msgstr "Haberi düzenle"
+
+#: src/Template/Housekeeping/edit_article.ctp:61
+msgid "Editer cet article"
+msgstr "Bu haberi düzenle"
+
+#: src/Template/Housekeeping/error.ctp:3
+#: src/Template/Housekeeping/permissions_required.ctp:3
+msgid "Pour revenir au tableau de bord "
+msgstr "Gösterge tablosuna geri dönmek için"
+
+#: src/Template/Housekeeping/error.ctp:3
+#: src/Template/Housekeeping/permissions_required.ctp:3
+msgid "cliquer ici"
+msgstr "buraya tıklayın"
+
+#: src/Template/Housekeeping/event.ctp:11
+msgid ""
+"Les actions que vous réalisez dans l'administration sont sauvegardées et "
+"consultables par la haute administration."
+msgstr ""
+"Yönetimde gerçekleştirdiğiniz eylemler üst yönetim tarafından kaydedilir ve "
+"aranabilir."
+
+#: src/Template/Housekeeping/event.ctp:14
+msgid "Image du header"
+msgstr "Üstbilginin görüntüsü"
+
+#: src/Template/Housekeeping/event.ctp:19
+msgid ""
+"Selectionner une image parmis ce dossier <a target=\"_blank\" href=\"https://"
+"flash.habbomotel.in/c_images/alertpics/\">en cliquant ici</a>"
+msgstr ""
+"Bu klasörden bir resim seçin <a target=\"_blank\" href=\"https://flash."
+"habbomotel.in/c_images/alertpics/\"> burayı tıklayarak </a>"
+
+#: src/Template/Housekeeping/event.ctp:29
+msgid ""
+"Les utilisateurs seront invités dans l'apparts dans lequel tu te trouves "
+"lors du lancement de cette alerte."
+msgstr ""
+"Bu uyarının lansmanını yaptığınız odalara kullanıcılar davet edilecektir."
+
+#: src/Template/Housekeeping/event.ctp:34
+msgid "Qui peut te rejoindre?"
+msgstr "Kimler size katılabilir?"
+
+#: src/Template/Housekeeping/event.ctp:40
+msgid "Lancer"
+msgstr "Başlatmak"
+
+#: src/Template/Housekeeping/index.ctp:11
+msgid "Joueurs bannis"
+msgstr "Yasaklanan oyuncular"
+
+#: src/Template/Housekeeping/index.ctp:17
+msgid "Record de connectés"
+msgstr "Bağlı kayıt"
+
+#: src/Template/Housekeeping/index.ctp:23
+msgid "Joueurs connectés"
+msgstr "Bağlı oyuncular"
+
+#: src/Template/Housekeeping/index.ctp:32
+msgid "Joueurs enregistrés"
+msgstr "Kayıtlı oyuncular"
+
+#: src/Template/Housekeeping/index.ctp:38
+msgid "Photos à approuver"
+msgstr "Onaylanacak fotoğraflar"
+
+#: src/Template/Housekeeping/index.ctp:44
+msgid "Apparts ouverts"
+msgstr "Açık odalar"
+
+#: src/Template/Housekeeping/list_articles.ctp:12
+msgid "Titre"
+msgstr "Başla"
+
+#: src/Template/Housekeeping/list_articles.ctp:13
+msgid "Date de publication"
+msgstr "Yayın tarihi"
+
+#: src/Template/Housekeeping/list_articles.ctp:14
+msgid "Edition"
+msgstr "Düzenle"
+
+#: src/Template/Housekeeping/list_articles.ctp:15
+msgid "Suppression"
+msgstr "Önleme"
+
+#: src/Template/Housekeeping/list_articles.ctp:23
+msgid "Editer"
+msgstr "Düzenleme"
+
+#: src/Template/Housekeeping/list_articles.ctp:24
+msgid "Supprimer"
+msgstr "Kaldırmak"
+
+#: src/Template/Housekeeping/picture.ctp:12
+msgid "Photo"
+msgstr "Fotoğraf"
+
+#: src/Template/Housekeeping/picture.ctp:13
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:30
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:43;69
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:64;160
+msgid "Actions"
+msgstr "Eylemler"
+
+#: src/Template/Housekeeping/picture.ctp:21
+msgid "Accepter"
+msgstr "Kabul etmek"
+
+#: src/Template/Housekeeping/picture.ctp:23
+msgid "Refuser"
+msgstr "Reddetmek"
+
+#: src/Template/Housekeeping/search_user.ctp:10
+msgid "Rechercher un Habbo"
+msgstr "Bir Habbo bul"
+
+#: src/Template/Housekeeping/search_user.ctp:24
+msgid "Rechercher cet Habbo"
+msgstr "Bu Habbo'da ara"
+
+#: src/Template/Housekeeping/search_user.ctp:31
+msgid "Détails du Habbo"
+msgstr "Habbo Detayları"
+
+#: src/Template/Housekeeping/search_user.ctp:32
+msgid "Information générale du Habbo"
+msgstr "Habbo Genel Bilgi"
+
+#: src/Template/Housekeeping/search_user.ctp:48
+msgid "Mission"
+msgstr "Görev"
+
+#: src/Template/Housekeeping/search_user.ctp:56
+msgid "Crédits"
+msgstr "Krediler"
+
+#: src/Template/Housekeeping/search_user.ctp:64
+msgid "Duckets"
+msgstr "Ördekler"
+
+#: src/Template/Housekeeping/search_user.ctp:72
+msgid "Diamants"
+msgstr "Elmaslar"
+
+#: src/Template/Housekeeping/search_user.ctp:80
+msgid "Rang"
+msgstr "Rank"
+
+#: src/Template/Housekeeping/search_user.ctp:88
+msgid "Responsabilité"
+msgstr "Sorumluluk"
+
+#: src/Template/Housekeeping/search_user.ctp:96
+msgid "VIP"
+msgstr ""
+
+#: src/Template/Housekeeping/search_user.ctp:104
+msgid "Désactiver le compte"
+msgstr "Hesabı devre dışı bırak"
+
+#: src/Template/Housekeeping/search_user.ctp:112
+msgid "Valider les changements"
+msgstr "Değişiklikleri doğrula"
+
+#: src/Template/Housekeeping/unban.ctp:18
+msgid ""
+"Tous les types d'exclusions vont être supprimés (utilisateur, adresse ip et "
+"machine)"
+msgstr "Her tür istisna silinir (kullanıcı, IP adresi ve makine)"
+
+#: src/Template/Housekeeping/unban.ctp:23
+msgid "Débannir le Habbo"
+msgstr "Habbo Yasağı kaldırıldı"
+
+#: src/Template/Layout/bulma.ctp:48
+msgid ""
+"Malheureusement, tu n'as pas partagé notre publication sur tes réseaux "
+"sociaux pour gagner tes duckets du jour."
+msgstr ""
+"Maalesef, günümüzün ördek takımlarını kazanmak için postamızı sosyal "
+"ağlarınızda paylaşmadınız."
+
+#: src/Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Geri"
+
+#: src/Template/Layout/error.ctp:68
+msgid "Si cette erreur est récursive contacter un administrateur."
+msgstr "Bu hata özyineliyse, bir yöneticiye başvurun."
+
+#: src/Template/Layout/error.ctp:80
+msgid "Revenir en arrière"
+msgstr "Geri dön"
+
+#: src/Template/Layout/Homepage/home.ctp:47
+msgid ""
+"En poursuivant votre navigation sur HabboMotel, vous acceptez l’utilisation "
+"de cookies afin de nous permettre d’améliorer votre expérience utilisateur."
+msgstr ""
+"HabboMotel'de gezinmeye devam ederek, kullanıcı deneyiminizi geliştirmemize "
+"olanak tanımak için çerezlerin kullanımını kabul ediyorsunuz."
+
+#: src/Template/Layout/Homepage/home.ctp:48
+msgid "OK"
+msgstr "TAMAM"
+
+#: src/Template/Notifications/history.ctp:2
+msgid "Tout marquer comme lu"
+msgstr "Her şeyi okundu olarak işaretle"
+
+#: src/Template/Notifications/history.ctp:10
+msgid "Notification"
+msgstr "Bildirim"
+
+#: src/Template/Prizes/events.ctp:1
+msgid "Classement des animations"
+msgstr "Animasyonların sıralaması"
+
+#: src/Template/Prizes/events.ctp:2
+msgid "du mois de {0}"
+msgstr "{0} ay için"
+
+#: src/Template/Prizes/events.ctp:39
+msgid "Il te manque {0} "
+msgstr "{0} seni özlüyorum"
+
+#: src/Template/Prizes/events.ctp:41
+msgid "Tu as reçu une boite mystère dans ton inventaire."
+msgstr "Envanterinizde gizemli bir kutu aldınız."
+
+#: src/Template/Prizes/events.ctp:53
+msgid "Statistiques"
+msgstr "İstatislikler"
+
+#: src/Template/Prizes/events.ctp:58
+msgid "étoiles"
+msgstr "yıldız"
+
+#: src/Template/Prizes/events.ctp:61
+msgid "Tu as été 0 fois en tête du classement."
+msgstr "Sıralamanın en üstünde 0 kez oldun."
+
+#: src/Template/Prizes/events.ctp:64
+msgid "Tu as ouvert 0 boîte mystère."
+msgstr "0 gizemli kutu açtın."
+
+#: src/Template/Prizes/events.ctp:72
+msgid ""
+"Le palmarès des animations est mis à jour tous les mois. Durant chaque "
+"animation, les habbos remportent des lots ainsi que des étoiles pour le "
+"classement."
+msgstr ""
+"Animasyonların listesi her ay güncellenir. Her animasyon sırasında, habbolar "
+"sınıflandırma için yıldızlar kadar çok kazanıyor."
+
+#: src/Template/Prizes/events.ctp:75
+msgid ""
+"À la fin du mois, les habbos ayant le plus d'étoiles remportent un badge "
+"inédit."
+msgstr "Ayın sonunda, en çok yıldızı olan habbolar yepyeni bir rozet kazanır."
+
+#: src/Template/Prizes/events.ctp:79
+msgid ""
+"Les habbos cumulant 80 étoiles dans le mois pourront ouvrir un cadeau "
+"surprise."
+msgstr "Ayda 80 yıldız ile Habbolar sürpriz bir hediye açabilecek."
+
+#: src/Template/Prizes/wealth.ctp:1
+msgid "Classement par fortune"
+msgstr "Zenginlik sıralaması"
+
+#: src/Template/Prizes/wealth.ctp:2
+msgid "Les habbos les plus fortunés du Motel !"
+msgstr "Otelin en varlıklı habbo'ları!"
+
+#: src/Template/Shop/diamonds.ctp:2
+msgid ""
+"Les diamants sont la monnaie payante de HabboMotel, ils te permettent "
+"d'acheter du contenu inédit tels que des rares ou des badges."
+msgstr ""
+"Elmaslar, Nopui Otel'in ödeme parasıdır, nadire veya rozet gibi yeni "
+"içerikleri satın almanızı sağlar."
+
+#: src/Template/Shop/diamonds.ctp:7
+msgid ""
+"Si tu souhaites en savoir plus sur l'utilité des <b>diamants</b> dans "
+"l'hôtel, nous t'invitons à prendre connaissance du fonctionnement de notre "
+"économie en {url}."
+msgstr ""
+"Oteldeki <b> elmasların </ b> kullanışlılığı hakkında daha fazla bilgi "
+"edinmek isterseniz, sizi {url} 'de ekonomimizin işleyişine not etmeye davet "
+"ediyoruz."
+
+#: src/Template/Shop/diamonds.ctp:8
+msgid "cliquant ici"
+msgstr "buraya tıklayarak"
+
+#: src/Template/Shop/diamonds.ctp:22
+msgid "Connecte-toi sur ton compte Habbo pour acheter des diamants."
+msgstr "Elmas satın almak için Nopui hesabınıza giriş yapın."
+
+#: src/Template/Shop/diamonds.ctp:30 src/Template/Shop/index.ctp:36
+msgid "Mon porte-monnaie"
+msgstr "Cüzdanım"
+
+#: src/Template/Shop/diamonds.ctp:35 src/Template/Shop/index.ctp:41
+msgid "Tu possèdes dans ton porte-monnaie:"
+msgstr "Cüzdanında var:"
+
+#: src/Template/Shop/diamonds.ctp:43 src/Template/Shop/index.ctp:49
+msgid "Connecte-toi sur ton compte Habbo pour accéder à ton porte-monnaie."
+msgstr "Cüzdanınıza erişmek için Nopui hesabınıza giriş yapın."
+
+#: src/Template/Shop/index.ctp:8
+msgid "Les diamants"
+msgstr "Elmaslar"
+
+#: src/Template/Shop/index.ctp:22
+msgid "Les duckets"
+msgstr "Ördekler"
+
+#: src/Template/Shop/transactions.ctp:1
+msgid "Historique des transactions réalisées sur HabboMotel"
+msgstr "Nopui Otel için işlem geçmişi"
+
+#: src/Template/Shop/transactions.ctp:2
+msgid ""
+"ci-dessous retrouve les transactions réalisées dans la boutique du site."
+msgstr "Aşağıdaki sitede dükkanda yapılan işlemleri bulur."
+
+#: src/Template/Shop/transactions.ctp:7
+msgid "ID"
+msgstr ""
+
+#: src/Template/Shop/transactions.ctp:8
+msgid "Action"
+msgstr "Eylem"
+
+#: src/Template/Users/check.ctp:4
+msgid "Confirme ton identité pour poursuivre ton aventure.."
+msgstr "Maceranıza devam etmek için kimliğinizi onaylayın .."
+
+#: src/Template/Users/check.ctp:5
+msgid ""
+"Un autre ordinateur a tenté de se connecter sur ton compte. Pour débloquer "
+"l'accès à ton compte répond à la question de sécurité ci-dessous."
+msgstr ""
+"Başka bir bilgisayar hesabınıza giriş yapmayı denedi. Hesabınıza erişimin "
+"kilidini açmak için aşağıdaki güvenlik sorusunu yanıtlayın."
+
+#: src/Template/Users/check.ctp:17
+msgid "Déverrouiller mon compte"
+msgstr "Hesabımın kilidini aç"
+
+#: src/Template/Users/check.ctp:37
+msgid "Informations"
+msgstr "Bilgiler"
+
+#: src/Template/Users/check.ctp:40
+msgid ""
+"Si tu as oublié la réponse à la question de sécurité, merci de prendre "
+"contact par mail avec les membres de l'équipe."
+msgstr ""
+"Güvenlik sorusunun cevabını unuttuysanız, lütfen ekibin üyeleriyle e-posta "
+"ile iletişime geçin."
+
+#: src/Template/Users/security.ctp:2
+msgid "Sécurise ton compte avant de poursuivre ton aventure.."
+msgstr "Maceranıza devam etmeden önce hesabınızı güven altına alın."
+
+#: src/Template/Users/security.ctp:4
+msgid ""
+"En sécurisant ton compte par une question de sécurité, tu protèges ton "
+"compte contre les connexions depuis un autre ordinateur que le tien."
+msgstr ""
+"Hesabınızı bir güvenlik sorusuyla güvenceye alarak, hesabınızı başka bir "
+"bilgisayardaki bağlantılardan sizinkilerden koruyorsunuz."
+
+#: src/Template/Users/security.ctp:10
+msgid "Choisis ta question de sécurité"
+msgstr "Güvenlik sorunuzu seçin"
+
+#: src/Template/Users/security.ctp:32
+msgid "Sécuriser mon compte"
+msgstr "Hesabımı güvence altına al"
+
+#: src/Template/Users/security.ctp:36
+msgid "Poursuivre sans sécuriser mon compte"
+msgstr "Hesabımı güvenceye almadan devam et"
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:33
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:106
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:171
+msgid "Delete"
+msgstr "Sil"
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:35
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:106
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:66;171
+msgid "Are you sure you want to delete # {0}?"
+msgstr "# {0} silmek istediğinizden emin misiniz?"
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:39
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:67
+msgid "List <%= $pluralHumanName %>"
+msgstr "<%= $PluralHumanName%>Listesi"
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:46
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:51
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:75
+msgid "List <%= $this->_pluralHumanName($alias) %>"
+msgstr "<%= $this->_pluralHumanName($alias) %>Listesi"
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:47
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:52
+msgid "New <%= $this->_singularHumanName($alias) %>"
+msgstr "<%= $this->_singularHumanName($alias) %>Yeni"
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:59
+msgid "<%= Inflector::humanize($action) %> <%= $singularHumanName %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:102
+msgid "Submit"
+msgstr "Gönder"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:44
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:68
+msgid "New <%= $singularHumanName %>"
+msgstr "<%= $singularHumanName %>Yeni"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:62
+msgid "<%= $pluralHumanName %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:104
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:169
+#: vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php:1214
+msgid "View"
+msgstr "Görünüm"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:105
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:170
+msgid "Edit"
+msgstr "Düzenle"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:114
+msgid "first"
+msgstr "ilk"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:115
+msgid "previous"
+msgstr "önceki"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:117
+msgid "next"
+msgstr "ileri"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:118
+msgid "last"
+msgstr "son"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:120
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr ""
+"Toplam {{count}} alanın {{current}} kaydını görüntüleyen {{page}} sayfadan "
+"oluşan {{page}} sayfa"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/login.ctp:25
+msgid "Please enter your username and password"
+msgstr "Lütfen kullanıcı adınızı ve şifrenizi giriniz"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/login.ctp:29
+msgid "Login"
+msgstr "Giriş yap"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:65
+msgid "Edit <%= $singularHumanName %>"
+msgstr "<%= $singularHumanName %> Düzenle"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:66
+msgid "Delete <%= $singularHumanName %>"
+msgstr "<%= $singularHumanName %> Sil"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:76
+msgid ""
+"New <%= Inflector::humanize(Inflector::singularize(Inflector::"
+"underscore($alias))) %>"
+msgstr ""
+"<%= Inflector::humanize(Inflector::singularize(Inflector::"
+"underscore($alias))) %> Yeni"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:94
+msgid "<%= Inflector::humanize($details["
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:99;116;132;141;158
+msgid "<%= Inflector::humanize($field) %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:108
+msgid ""
+"<%= Inflector::humanize(Inflector::singularize(Inflector::"
+"underscore($alias))) %>"
+msgstr ""
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:133
+msgid "Yes"
+msgstr "Evet"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:133
+msgid "No"
+msgstr "Hayır"
+
+#: vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:153
+msgid "Related <%= $otherPluralHumanName %>"
+msgstr "İlgili"
+
+#~ msgid "Support"
+#~ msgstr "Destek"

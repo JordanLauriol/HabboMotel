@@ -1,0 +1,87 @@
+#roomPollComposer {
+    display: none;
+    position: absolute;
+    z-index: 100;
+    right: 200px;
+    width: 300px;
+    background: rgba(28, 28, 26, 0.7);
+    border: 2px solid rgba(65, 64, 61, 0.7);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 15px;
+    font-size: 15px;
+    color: #FFF;
+}
+
+#roomPollComposer p {
+    text-shadow: 1px 1px 1px #000,1px 1px 0 rgba(0,0,0,.6);
+    text-align: center;
+}
+
+#roomPollComposer .polling {
+    margin-top: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    bottom: 10px;
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#roomPollComposer .polling table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#roomPollComposer .polling td {
+    padding: 5px;
+    text-align: center !important;
+}
+
+#roomPollComposer .polling .like {
+    width: 50px;
+    background: #558B2F;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    cursor: pointer;
+}
+
+#roomPollComposer .polling .dislike {
+    width: 50px;
+    background: #c62828;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    cursor: pointer;
+}
+
+#roomPollComposer .polling .score {
+    background: #CCC;
+    color: #333;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    width: 30px;
+}
+
+/* MANAGE POLL */
+#managePoll {
+    width: 575px;
+}
+
+#managePoll .modal-body {
+    font-size: 14px;
+    max-height: 400px;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#managePoll .history {
+  margin-bottom: 10px;
+  background-color: #C9C9C9;
+  width: 100%;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#managePoll ul {
+    border: none;
+}
